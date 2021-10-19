@@ -1,0 +1,33 @@
+F:\APP_2012\BMS\Utilities\bin\x86\Release\Utilities.dll
+F:\APP_2012\BMS\Utilities\bin\x86\Release\BaseBusiness.dll
+F:\APP_2012\BMS\Utilities\bin\x86\Release\Interop.Microsoft.Office.Core.dll
+F:\APP_2012\BMS\Utilities\bin\x86\Release\Interop.Microsoft.Office.Interop.Excel.dll
+F:\APP_2012\BMS\Utilities\bin\x86\Release\Interop.Microsoft.Office.Interop.Word.dll
+F:\APP_2012\BMS\Utilities\obj\x86\Release\ResolveAssemblyReference.cache
+F:\APP_2012\BMS\Utilities\obj\x86\Release\BMS.frmGenSelect.resources
+F:\APP_2012\BMS\Utilities\obj\x86\Release\BMS.frmCshLoading.resources
+F:\APP_2012\BMS\Utilities\obj\x86\Release\BMS.ShowProcessBar.resources
+F:\APP_2012\BMS\Utilities\obj\x86\Release\Utilities.Properties.Resources.resources
+F:\APP_2012\BMS\Utilities\obj\x86\Release\BMS.UcGenParam.resources
+F:\APP_2012\BMS\Utilities\obj\x86\Release\BMS.frmCashierLogin.resources
+F:\APP_2012\BMS\Utilities\obj\x86\Release\GenerateResource-ResGen.read.1.tlog
+F:\APP_2012\BMS\Utilities\obj\x86\Release\GenerateResource-ResGen.write.1.tlog
+F:\APP_2012\BMS\Utilities\obj\x86\Release\Utilities.dll
+D:\BMS\BMS Code\Utilities\bin\x86\Release\Utilities.dll
+D:\BMS\BMS Code\Utilities\bin\x86\Release\BaseBusiness.dll
+D:\BMS\BMS Code\Utilities\bin\x86\Release\Interop.Microsoft.Office.Interop.Excel.dll
+D:\BMS\BMS Code\Utilities\bin\x86\Release\Interop.Microsoft.Office.Interop.Word.dll
+D:\BMS\BMS Code\Utilities\bin\x86\Release\office.dll
+D:\BMS\BMS Code\Utilities\bin\x86\Release\office.xml
+D:\BMS\BMS Code\Utilities\obj\x86\Release\ResolveAssemblyReference.cache
+D:\BMS\BMS Code\Utilities\obj\x86\Release\BMS.frmCshLoading.resources
+D:\BMS\BMS Code\Utilities\obj\x86\Release\BMS.frmGenSelect.resources
+D:\BMS\BMS Code\Utilities\obj\x86\Release\BMS.ShowProcessBar.resources
+D:\BMS\BMS Code\Utilities\obj\x86\Release\Utilities.Properties.Resources.resources
+D:\BMS\BMS Code\Utilities\obj\x86\Release\BMS.UcGenParam.resources
+D:\BMS\BMS Code\Utilities\obj\x86\Release\BMS.frmCashierLogin.resources
+D:\BMS\BMS Code\Utilities\obj\x86\Release\GenerateResource-ResGen.read.1.tlog
+D:\BMS\BMS Code\Utilities\obj\x86\Release\GenerateResource.read.1.tlog
+D:\BMS\BMS Code\Utilities\obj\x86\Release\GenerateResource-ResGen.write.1.tlog
+D:\BMS\BMS Code\Utilities\obj\x86\Release\GenerateResource.write.1.tlog
+D:\BMS\BMS Code\Utilities\obj\x86\Release\Utilities.dll

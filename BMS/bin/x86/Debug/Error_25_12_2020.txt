@@ -1,0 +1,30 @@
+12:03:56:LoadAndon(): System.Threading.ThreadAbortException: Thread was being aborted.
+   at BMS.Facade.BaseFacade.GetListObject(String procedureName, String[] paramName, Object[] paramValue) in D:\project\Sumitomo\Line\Altax\Andon\AndonCode\BaseBusiness\Facade\BaseFacade.cs:line 756
+   at BMS.Business.BaseBO.GetListObject(String procedureName, String[] paramName, Object[] paramValue) in D:\project\Sumitomo\Line\Altax\Andon\AndonCode\BaseBusiness\BO\BaseBO.cs:line 550
+   at BMS.frmAndonDetailVer4.LoadAndon() in D:\project\Sumitomo\Line\Altax\Andon\AndonCode\Forms\frmAndonDetailVer4.cs:line 710
+12:03:56:threadChangeBackgroundColor(): System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.WaitHandle.WaitOneNative(SafeHandle waitableSafeHandle, UInt32 millisecondsTimeout, Boolean hasThreadAffinity, Boolean exitContext)
+   at System.Threading.WaitHandle.InternalWaitOne(SafeHandle waitableSafeHandle, Int64 millisecondsTimeout, Boolean hasThreadAffinity, Boolean exitContext)
+   at System.Threading.WaitHandle.WaitOne(Int32 millisecondsTimeout, Boolean exitContext)
+   at System.Windows.Forms.Control.WaitForWaitHandle(WaitHandle waitHandle)
+   at System.Windows.Forms.Control.MarshaledInvoke(Control caller, Delegate method, Object[] args, Boolean synchronous)
+   at System.Windows.Forms.Control.Invoke(Delegate method, Object[] args)
+   at System.Windows.Forms.Control.Invoke(Delegate method)
+   at BMS.frmAndonDetailVer4.threadChangeBackgroundColor() in D:\project\Sumitomo\Line\Altax\Andon\AndonCode\Forms\frmAndonDetailVer4.cs:line 382
+12:03:56:bgwCD2_DoWork(): System.ObjectDisposedException: Cannot access a disposed object.
+Object name: 'frmAndonDetailVer4'.
+   at System.Windows.Forms.Control.MarshaledInvoke(Control caller, Delegate method, Object[] args, Boolean synchronous)
+   at System.Windows.Forms.Control.Invoke(Delegate method, Object[] args)
+   at System.Windows.Forms.Control.Invoke(Delegate method)
+   at BMS.frmAndonDetailVer4.bgwCD2_DoWork(Object sender, DoWorkEventArgs e) in D:\project\Sumitomo\Line\Altax\Andon\AndonCode\Forms\frmAndonDetailVer4.cs:line 982
+13:14:22:writePLC(): System.IO.IOException: Incorrect function.
+
+   at System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   at System.IO.Ports.InternalResources.WinIOError()
+   at System.IO.Ports.SerialStream.get_BytesToWrite()
+   at System.IO.Ports.SerialPort.get_BytesToWrite()
+   at InControls.SerialDevice.SerialPortSync.get_BytesToWrite() in D:\project\Sumitomo\Line\Altax\Andon\AndonCode\Forms\PLC\SerialDevice\SerialPortSync.cs:line 45
+   at BMS.FxSerialDeamon.Send(Int16 channelNo, Byte[] dataBuff, Int32 dataSize, ICellDataType responseDataType) in D:\project\Sumitomo\Line\Altax\Andon\AndonCode\Forms\FxSerialDeamon.cs:line 132
+   at BMS.FxSerialDeamon.Send(Int16 channelNo, Byte[] dataBuff, Int32 dataSize) in D:\project\Sumitomo\Line\Altax\Andon\AndonCode\Forms\FxSerialDeamon.cs:line 121
+   at BMS.FxSerialDeamon.Send(Int16 channelNo, String data) in D:\project\Sumitomo\Line\Altax\Andon\AndonCode\Forms\FxSerialDeamon.cs:line 106
+   at BMS.frmAndonDetailVer4.writePLC() in D:\project\Sumitomo\Line\Altax\Andon\AndonCode\Forms\frmAndonDetailVer4.cs:line 205

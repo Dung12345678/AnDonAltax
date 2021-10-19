@@ -1,0 +1,147 @@
+D:\work\Sale\New folder\Utilities\bin\Debug\Utilities.dll
+D:\work\Sale\New folder\Utilities\bin\Debug\Utilities.pdb
+D:\work\Sale\New folder\Utilities\bin\Debug\BaseBusiness.dll
+D:\work\Sale\New folder\Utilities\bin\Debug\BaseBusiness.pdb
+D:\work\Sale\New folder\Utilities\obj\Debug\ResolveAssemblyReference.cache
+D:\work\Sale\New folder\Utilities\obj\Debug\Utilities.Properties.Resources.resources
+D:\work\Sale\New folder\Utilities\obj\Debug\GenerateResource-ResGen.read.1.tlog
+D:\work\Sale\New folder\Utilities\obj\Debug\GenerateResource-ResGen.write.1.tlog
+D:\work\Sale\New folder\Utilities\obj\Debug\Utilities.dll
+D:\work\Sale\New folder\Utilities\obj\Debug\Utilities.pdb
+D:\work\SmartCard\SUN_SMARTCARD - VS2010\Utilities\bin\Debug\Utilities.dll
+D:\work\SmartCard\SUN_SMARTCARD - VS2010\Utilities\bin\Debug\Utilities.pdb
+D:\work\SmartCard\SUN_SMARTCARD - VS2010\Utilities\bin\Debug\BaseBusiness.dll
+D:\work\SmartCard\SUN_SMARTCARD - VS2010\Utilities\bin\Debug\BaseBusiness.pdb
+D:\work\SmartCard\SUN_SMARTCARD - VS2010\Utilities\obj\Debug\ResolveAssemblyReference.cache
+D:\work\SmartCard\SUN_SMARTCARD - VS2010\Utilities\obj\Debug\CEFA.frmGenSelect.resources
+D:\work\SmartCard\SUN_SMARTCARD - VS2010\Utilities\obj\Debug\CEFA.frmCashierLogin.resources
+D:\work\SmartCard\SUN_SMARTCARD - VS2010\Utilities\obj\Debug\CEFA.frmCshLoading.resources
+D:\work\SmartCard\SUN_SMARTCARD - VS2010\Utilities\obj\Debug\CEFA.ShowProcessBar.resources
+D:\work\SmartCard\SUN_SMARTCARD - VS2010\Utilities\obj\Debug\Utilities.Properties.Resources.resources
+D:\work\SmartCard\SUN_SMARTCARD - VS2010\Utilities\obj\Debug\CEFA.UcGenParam.resources
+D:\work\SmartCard\SUN_SMARTCARD - VS2010\Utilities\obj\Debug\GenerateResource-ResGen.read.1.tlog
+D:\work\SmartCard\SUN_SMARTCARD - VS2010\Utilities\obj\Debug\GenerateResource-ResGen.read.4.tlog
+D:\work\SmartCard\SUN_SMARTCARD - VS2010\Utilities\obj\Debug\GenerateResource-ResGen.write.1.tlog
+D:\work\SmartCard\SUN_SMARTCARD - VS2010\Utilities\obj\Debug\GenerateResource-ResGen.write.4.tlog
+D:\work\SmartCard\SUN_SMARTCARD - VS2010\Utilities\obj\Debug\Utilities.dll
+D:\work\SmartCard\SUN_SMARTCARD - VS2010\Utilities\obj\Debug\Utilities.pdb
+D:\work\SmartCard\SUN_SMARTCARD\Utilities\bin\Debug\Utilities.dll
+D:\work\SmartCard\SUN_SMARTCARD\Utilities\bin\Debug\Utilities.pdb
+D:\work\SmartCard\SUN_SMARTCARD\Utilities\bin\Debug\BaseBusiness.dll
+D:\work\SmartCard\SUN_SMARTCARD\Utilities\bin\Debug\BaseBusiness.pdb
+D:\work\SmartCard\SUN_SMARTCARD\Utilities\obj\Debug\ResolveAssemblyReference.cache
+D:\work\SmartCard\SUN_SMARTCARD\Utilities\obj\Debug\CEFA.frmGenSelect.resources
+D:\work\SmartCard\SUN_SMARTCARD\Utilities\obj\Debug\CEFA.frmCashierLogin.resources
+D:\work\SmartCard\SUN_SMARTCARD\Utilities\obj\Debug\CEFA.frmCshLoading.resources
+D:\work\SmartCard\SUN_SMARTCARD\Utilities\obj\Debug\CEFA.ShowProcessBar.resources
+D:\work\SmartCard\SUN_SMARTCARD\Utilities\obj\Debug\Utilities.Properties.Resources.resources
+D:\work\SmartCard\SUN_SMARTCARD\Utilities\obj\Debug\CEFA.UcGenParam.resources
+D:\work\SmartCard\SUN_SMARTCARD\Utilities\obj\Debug\GenerateResource-ResGen.read.1.tlog
+D:\work\SmartCard\SUN_SMARTCARD\Utilities\obj\Debug\GenerateResource-ResGen.read.4.tlog
+D:\work\SmartCard\SUN_SMARTCARD\Utilities\obj\Debug\GenerateResource-ResGen.write.1.tlog
+D:\work\SmartCard\SUN_SMARTCARD\Utilities\obj\Debug\GenerateResource-ResGen.write.4.tlog
+D:\work\SmartCard\SUN_SMARTCARD\Utilities\obj\Debug\Utilities.dll
+D:\work\SmartCard\SUN_SMARTCARD\Utilities\obj\Debug\Utilities.pdb
+C:\Users\datdp\Desktop\SUN_SMARTCARD\Utilities\bin\Debug\Utilities.dll
+C:\Users\datdp\Desktop\SUN_SMARTCARD\Utilities\bin\Debug\Utilities.pdb
+C:\Users\datdp\Desktop\SUN_SMARTCARD\Utilities\bin\Debug\BaseBusiness.dll
+C:\Users\datdp\Desktop\SUN_SMARTCARD\Utilities\bin\Debug\office.dll
+C:\Users\datdp\Desktop\SUN_SMARTCARD\Utilities\bin\Debug\BaseBusiness.pdb
+C:\Users\datdp\Desktop\SUN_SMARTCARD\Utilities\bin\Debug\office.xml
+C:\Users\datdp\Desktop\SUN_SMARTCARD\Utilities\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\datdp\Desktop\SUN_SMARTCARD\Utilities\obj\Debug\CEFA.frmGenSelect.resources
+C:\Users\datdp\Desktop\SUN_SMARTCARD\Utilities\obj\Debug\CEFA.frmCashierLogin.resources
+C:\Users\datdp\Desktop\SUN_SMARTCARD\Utilities\obj\Debug\CEFA.frmCshLoading.resources
+C:\Users\datdp\Desktop\SUN_SMARTCARD\Utilities\obj\Debug\CEFA.ShowProcessBar.resources
+C:\Users\datdp\Desktop\SUN_SMARTCARD\Utilities\obj\Debug\Utilities.Properties.Resources.resources
+C:\Users\datdp\Desktop\SUN_SMARTCARD\Utilities\obj\Debug\CEFA.UcGenParam.resources
+C:\Users\datdp\Desktop\SUN_SMARTCARD\Utilities\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\datdp\Desktop\SUN_SMARTCARD\Utilities\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\datdp\Desktop\SUN_SMARTCARD\Utilities\obj\Debug\Utilities.dll
+C:\Users\datdp\Desktop\SUN_SMARTCARD\Utilities\obj\Debug\Utilities.pdb
+C:\Users\datdp\Desktop\SUN_SMARTCARD\Utilities\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\datdp\Desktop\TourManagement\Utilities\bin\Debug\Utilities.dll
+C:\Users\datdp\Desktop\TourManagement\Utilities\bin\Debug\Utilities.pdb
+C:\Users\datdp\Desktop\TourManagement\Utilities\bin\Debug\BaseBusiness.dll
+C:\Users\datdp\Desktop\TourManagement\Utilities\bin\Debug\office.dll
+C:\Users\datdp\Desktop\TourManagement\Utilities\bin\Debug\BaseBusiness.pdb
+C:\Users\datdp\Desktop\TourManagement\Utilities\bin\Debug\office.xml
+C:\Users\datdp\Desktop\TourManagement\Utilities\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\datdp\Desktop\TourManagement\Utilities\obj\Debug\CEFA.frmGenSelect.resources
+C:\Users\datdp\Desktop\TourManagement\Utilities\obj\Debug\CEFA.frmCashierLogin.resources
+C:\Users\datdp\Desktop\TourManagement\Utilities\obj\Debug\CEFA.frmCshLoading.resources
+C:\Users\datdp\Desktop\TourManagement\Utilities\obj\Debug\CEFA.ShowProcessBar.resources
+C:\Users\datdp\Desktop\TourManagement\Utilities\obj\Debug\Utilities.Properties.Resources.resources
+C:\Users\datdp\Desktop\TourManagement\Utilities\obj\Debug\CEFA.UcGenParam.resources
+C:\Users\datdp\Desktop\TourManagement\Utilities\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\datdp\Desktop\TourManagement\Utilities\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\datdp\Desktop\TourManagement\Utilities\obj\Debug\Utilities.dll
+C:\Users\datdp\Desktop\TourManagement\Utilities\obj\Debug\Utilities.pdb
+D:\datdp\PROJECT\VS_2010\TourManagement\Utilities\bin\Debug\Utilities.dll
+D:\datdp\PROJECT\VS_2010\TourManagement\Utilities\bin\Debug\Utilities.pdb
+D:\datdp\PROJECT\VS_2010\TourManagement\Utilities\bin\Debug\BaseBusiness.dll
+D:\datdp\PROJECT\VS_2010\TourManagement\Utilities\bin\Debug\office.dll
+D:\datdp\PROJECT\VS_2010\TourManagement\Utilities\bin\Debug\BaseBusiness.pdb
+D:\datdp\PROJECT\VS_2010\TourManagement\Utilities\bin\Debug\office.xml
+D:\datdp\PROJECT\VS_2010\TourManagement\Utilities\obj\Debug\ResolveAssemblyReference.cache
+D:\datdp\PROJECT\VS_2010\TourManagement\Utilities\obj\Debug\CEFA.frmGenSelect.resources
+D:\datdp\PROJECT\VS_2010\TourManagement\Utilities\obj\Debug\CEFA.frmCashierLogin.resources
+D:\datdp\PROJECT\VS_2010\TourManagement\Utilities\obj\Debug\CEFA.frmCshLoading.resources
+D:\datdp\PROJECT\VS_2010\TourManagement\Utilities\obj\Debug\CEFA.ShowProcessBar.resources
+D:\datdp\PROJECT\VS_2010\TourManagement\Utilities\obj\Debug\Utilities.Properties.Resources.resources
+D:\datdp\PROJECT\VS_2010\TourManagement\Utilities\obj\Debug\CEFA.UcGenParam.resources
+D:\datdp\PROJECT\VS_2010\TourManagement\Utilities\obj\Debug\GenerateResource.read.1.tlog
+D:\datdp\PROJECT\VS_2010\TourManagement\Utilities\obj\Debug\GenerateResource.write.1.tlog
+D:\datdp\PROJECT\VS_2010\TourManagement\Utilities\obj\Debug\Utilities.dll
+D:\datdp\PROJECT\VS_2010\TourManagement\Utilities\obj\Debug\Utilities.pdb
+D:\Quan_ly_tour\TourManagement\Utilities\obj\Debug\ResolveAssemblyReference.cache
+D:\Quan_ly_tour\TourManagement\Utilities\obj\Debug\Utilities.Properties.Resources.resources
+D:\Quan_ly_tour\TourManagement\Utilities\obj\Debug\GenerateResource.read.1.tlog
+D:\Quan_ly_tour\TourManagement\Utilities\obj\Debug\GenerateResource.write.1.tlog
+D:\Quan_ly_tour\TourManagement\Utilities\bin\Debug\Utilities.dll
+D:\Quan_ly_tour\TourManagement\Utilities\bin\Debug\Utilities.pdb
+D:\Quan_ly_tour\TourManagement\Utilities\bin\Debug\BaseBusiness.dll
+D:\Quan_ly_tour\TourManagement\Utilities\bin\Debug\office.dll
+D:\Quan_ly_tour\TourManagement\Utilities\bin\Debug\BaseBusiness.pdb
+D:\Quan_ly_tour\TourManagement\Utilities\bin\Debug\office.xml
+D:\Quan_ly_tour\TourManagement\Utilities\obj\Debug\Utilities.dll
+D:\Quan_ly_tour\TourManagement\Utilities\obj\Debug\Utilities.pdb
+D:\Quan_ly_tour\TourManagement\Utilities\obj\Debug\BMS.frmGenSelect.resources
+D:\Quan_ly_tour\TourManagement\Utilities\obj\Debug\BMS.frmCashierLogin.resources
+D:\Quan_ly_tour\TourManagement\Utilities\obj\Debug\BMS.frmCshLoading.resources
+D:\Quan_ly_tour\TourManagement\Utilities\obj\Debug\BMS.ShowProcessBar.resources
+D:\Quan_ly_tour\TourManagement\Utilities\obj\Debug\BMS.UcGenParam.resources
+D:\Quan_ly_tour\BMS_VC\Utilities\bin\Debug\Utilities.dll
+D:\Quan_ly_tour\BMS_VC\Utilities\bin\Debug\Utilities.pdb
+D:\Quan_ly_tour\BMS_VC\Utilities\bin\Debug\BaseBusiness.dll
+D:\Quan_ly_tour\BMS_VC\Utilities\bin\Debug\office.dll
+D:\Quan_ly_tour\BMS_VC\Utilities\bin\Debug\BaseBusiness.pdb
+D:\Quan_ly_tour\BMS_VC\Utilities\bin\Debug\office.xml
+D:\Quan_ly_tour\BMS_VC\Utilities\obj\Debug\ResolveAssemblyReference.cache
+D:\Quan_ly_tour\BMS_VC\Utilities\obj\Debug\BMS.frmGenSelect.resources
+D:\Quan_ly_tour\BMS_VC\Utilities\obj\Debug\BMS.frmCashierLogin.resources
+D:\Quan_ly_tour\BMS_VC\Utilities\obj\Debug\BMS.frmCshLoading.resources
+D:\Quan_ly_tour\BMS_VC\Utilities\obj\Debug\BMS.ShowProcessBar.resources
+D:\Quan_ly_tour\BMS_VC\Utilities\obj\Debug\Utilities.Properties.Resources.resources
+D:\Quan_ly_tour\BMS_VC\Utilities\obj\Debug\BMS.UcGenParam.resources
+D:\Quan_ly_tour\BMS_VC\Utilities\obj\Debug\GenerateResource.read.1.tlog
+D:\Quan_ly_tour\BMS_VC\Utilities\obj\Debug\GenerateResource.write.1.tlog
+D:\Quan_ly_tour\BMS_VC\Utilities\obj\Debug\Utilities.dll
+D:\Quan_ly_tour\BMS_VC\Utilities\obj\Debug\Utilities.pdb
+D:\BMS\BMS Code\Utilities\bin\Debug\Utilities.dll
+D:\BMS\BMS Code\Utilities\bin\Debug\Utilities.pdb
+D:\BMS\BMS Code\Utilities\bin\Debug\BaseBusiness.dll
+D:\BMS\BMS Code\Utilities\bin\Debug\office.dll
+D:\BMS\BMS Code\Utilities\bin\Debug\Microsoft.Vbe.Interop.dll
+D:\BMS\BMS Code\Utilities\bin\Debug\BaseBusiness.pdb
+D:\BMS\BMS Code\Utilities\bin\Debug\office.xml
+D:\BMS\BMS Code\Utilities\obj\Debug\Utilities.csprojResolveAssemblyReference.cache
+D:\BMS\BMS Code\Utilities\obj\Debug\BMS.frmCshLoading.resources
+D:\BMS\BMS Code\Utilities\obj\Debug\BMS.frmGenSelect.resources
+D:\BMS\BMS Code\Utilities\obj\Debug\BMS.ShowProcessBar.resources
+D:\BMS\BMS Code\Utilities\obj\Debug\Utilities.Properties.Resources.resources
+D:\BMS\BMS Code\Utilities\obj\Debug\BMS.UcGenParam.resources
+D:\BMS\BMS Code\Utilities\obj\Debug\BMS.frmCashierLogin.resources
+D:\BMS\BMS Code\Utilities\obj\Debug\Utilities.csproj.GenerateResource.Cache
+D:\BMS\BMS Code\Utilities\obj\Debug\Utilities.dll
+D:\BMS\BMS Code\Utilities\obj\Debug\Utilities.pdb

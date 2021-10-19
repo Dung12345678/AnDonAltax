@@ -1,0 +1,161 @@
+D:\datdp\PROJECT\VS_2010\TourManagement\Forms\bin\Debug\Forms.dll
+D:\datdp\PROJECT\VS_2010\TourManagement\Forms\bin\Debug\Forms.pdb
+D:\datdp\PROJECT\VS_2010\TourManagement\Forms\bin\Debug\BaseBusiness.dll
+D:\datdp\PROJECT\VS_2010\TourManagement\Forms\bin\Debug\Utilities.dll
+D:\datdp\PROJECT\VS_2010\TourManagement\Forms\bin\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+D:\datdp\PROJECT\VS_2010\TourManagement\Forms\bin\Debug\office.dll
+D:\datdp\PROJECT\VS_2010\TourManagement\Forms\bin\Debug\BaseBusiness.pdb
+D:\datdp\PROJECT\VS_2010\TourManagement\Forms\bin\Debug\Utilities.pdb
+D:\datdp\PROJECT\VS_2010\TourManagement\Forms\bin\Debug\office.xml
+D:\datdp\PROJECT\VS_2010\TourManagement\Forms\obj\Debug\ResolveAssemblyReference.cache
+D:\datdp\PROJECT\VS_2010\TourManagement\Forms\obj\Debug\CEFA.frmAppSettings.resources
+D:\datdp\PROJECT\VS_2010\TourManagement\Forms\obj\Debug\CEFA.frmDeleteTempFile.resources
+D:\datdp\PROJECT\VS_2010\TourManagement\Forms\obj\Debug\CEFA.frmHelp.resources
+D:\datdp\PROJECT\VS_2010\TourManagement\Forms\obj\Debug\CEFA.frmGenMessageBox.resources
+D:\datdp\PROJECT\VS_2010\TourManagement\Forms\obj\Debug\CEFA.frmPosShowReport.resources
+D:\datdp\PROJECT\VS_2010\TourManagement\Forms\obj\Debug\CEFA.frmPosShowReport_New.resources
+D:\datdp\PROJECT\VS_2010\TourManagement\Forms\obj\Debug\CEFA.frmReportViewer.resources
+D:\datdp\PROJECT\VS_2010\TourManagement\Forms\obj\Debug\Forms.Properties.Resources.resources
+D:\datdp\PROJECT\VS_2010\TourManagement\Forms\obj\Debug\CEFA.frmComputer.resources
+D:\datdp\PROJECT\VS_2010\TourManagement\Forms\obj\Debug\CEFA.frmComputerType.resources
+D:\datdp\PROJECT\VS_2010\TourManagement\Forms\obj\Debug\CEFA.frmComputer_Edit.resources
+D:\datdp\PROJECT\VS_2010\TourManagement\Forms\obj\Debug\CEFA.frmSystemInfo.resources
+D:\datdp\PROJECT\VS_2010\TourManagement\Forms\obj\Debug\CEFA.frmZone.resources
+D:\datdp\PROJECT\VS_2010\TourManagement\Forms\obj\Debug\GenerateResource.read.1.tlog
+D:\datdp\PROJECT\VS_2010\TourManagement\Forms\obj\Debug\GenerateResource.write.1.tlog
+D:\datdp\PROJECT\VS_2010\TourManagement\Forms\obj\Debug\Forms.dll.licenses
+D:\datdp\PROJECT\VS_2010\TourManagement\Forms\obj\Debug\Forms.dll
+D:\datdp\PROJECT\VS_2010\TourManagement\Forms\obj\Debug\Forms.pdb
+D:\datdp\PROJECT\VS_2010\TourManagement\Forms\obj\Debug\CEFA.frmGenSearch.resources
+D:\Quan_ly_tour\TourManagement\Forms\bin\Debug\Forms.dll
+D:\Quan_ly_tour\TourManagement\Forms\bin\Debug\Forms.pdb
+D:\Quan_ly_tour\TourManagement\Forms\bin\Debug\BaseBusiness.dll
+D:\Quan_ly_tour\TourManagement\Forms\bin\Debug\Utilities.dll
+D:\Quan_ly_tour\TourManagement\Forms\bin\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+D:\Quan_ly_tour\TourManagement\Forms\bin\Debug\office.dll
+D:\Quan_ly_tour\TourManagement\Forms\bin\Debug\BaseBusiness.pdb
+D:\Quan_ly_tour\TourManagement\Forms\bin\Debug\Utilities.pdb
+D:\Quan_ly_tour\TourManagement\Forms\bin\Debug\office.xml
+D:\Quan_ly_tour\TourManagement\Forms\obj\Debug\ResolveAssemblyReference.cache
+D:\Quan_ly_tour\TourManagement\Forms\obj\Debug\Forms.Properties.Resources.resources
+D:\Quan_ly_tour\TourManagement\Forms\obj\Debug\GenerateResource.read.1.tlog
+D:\Quan_ly_tour\TourManagement\Forms\obj\Debug\GenerateResource.write.1.tlog
+D:\Quan_ly_tour\TourManagement\Forms\obj\Debug\Forms.dll.licenses
+D:\Quan_ly_tour\TourManagement\Forms\obj\Debug\Forms.dll
+D:\Quan_ly_tour\TourManagement\Forms\obj\Debug\Forms.pdb
+D:\Quan_ly_tour\TourManagement\Forms\obj\Debug\BMS.frmAppSettings.resources
+D:\Quan_ly_tour\TourManagement\Forms\obj\Debug\BMS.frmDeleteTempFile.resources
+D:\Quan_ly_tour\TourManagement\Forms\obj\Debug\BMS.frmGenSearch.resources
+D:\Quan_ly_tour\TourManagement\Forms\obj\Debug\BMS.frmHelp.resources
+D:\Quan_ly_tour\TourManagement\Forms\obj\Debug\BMS.frmGenMessageBox.resources
+D:\Quan_ly_tour\TourManagement\Forms\obj\Debug\BMS.frmReportViewer.resources
+D:\Quan_ly_tour\TourManagement\Forms\obj\Debug\BMS.frmSystemInfo.resources
+D:\Quan_ly_tour\TourManagement\Forms\obj\Debug\BMS.frmPosShowReport.resources
+D:\Quan_ly_tour\TourManagement\Forms\obj\Debug\BMS.frmPosShowReport_New.resources
+D:\Quan_ly_tour\BMS_VC\Forms\bin\Debug\Forms.dll
+D:\Quan_ly_tour\BMS_VC\Forms\bin\Debug\Forms.pdb
+D:\Quan_ly_tour\BMS_VC\Forms\bin\Debug\BaseBusiness.dll
+D:\Quan_ly_tour\BMS_VC\Forms\bin\Debug\Utilities.dll
+D:\Quan_ly_tour\BMS_VC\Forms\bin\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+D:\Quan_ly_tour\BMS_VC\Forms\bin\Debug\office.dll
+D:\Quan_ly_tour\BMS_VC\Forms\bin\Debug\BaseBusiness.pdb
+D:\Quan_ly_tour\BMS_VC\Forms\bin\Debug\Utilities.pdb
+D:\Quan_ly_tour\BMS_VC\Forms\bin\Debug\office.xml
+D:\Quan_ly_tour\BMS_VC\Forms\obj\Debug\ResolveAssemblyReference.cache
+D:\Quan_ly_tour\BMS_VC\Forms\obj\Debug\BMS.frmAppSettings.resources
+D:\Quan_ly_tour\BMS_VC\Forms\obj\Debug\BMS.frmDeleteTempFile.resources
+D:\Quan_ly_tour\BMS_VC\Forms\obj\Debug\BMS.frmGenSearch.resources
+D:\Quan_ly_tour\BMS_VC\Forms\obj\Debug\BMS.frmHelp.resources
+D:\Quan_ly_tour\BMS_VC\Forms\obj\Debug\BMS.frmGenMessageBox.resources
+D:\Quan_ly_tour\BMS_VC\Forms\obj\Debug\BMS.frmPosShowReport.resources
+D:\Quan_ly_tour\BMS_VC\Forms\obj\Debug\BMS.frmPosShowReport_New.resources
+D:\Quan_ly_tour\BMS_VC\Forms\obj\Debug\BMS.frmReportViewer.resources
+D:\Quan_ly_tour\BMS_VC\Forms\obj\Debug\Forms.Properties.Resources.resources
+D:\Quan_ly_tour\BMS_VC\Forms\obj\Debug\BMS.frmSystemInfo.resources
+D:\Quan_ly_tour\BMS_VC\Forms\obj\Debug\GenerateResource.read.1.tlog
+D:\Quan_ly_tour\BMS_VC\Forms\obj\Debug\GenerateResource.write.1.tlog
+D:\Quan_ly_tour\BMS_VC\Forms\obj\Debug\Forms.dll.licenses
+D:\Quan_ly_tour\BMS_VC\Forms\obj\Debug\Forms.dll
+D:\Quan_ly_tour\BMS_VC\Forms\obj\Debug\Forms.pdb
+F:\APP_2012\BMS\Forms\obj\Debug\ResolveAssemblyReference.cache
+F:\APP_2012\BMS\Forms\obj\Debug\BMS.frmExchangeRate.resources
+F:\APP_2012\BMS\Forms\obj\Debug\BMS.frmCity.resources
+F:\APP_2012\BMS\Forms\obj\Debug\BMS.frmCountry.resources
+F:\APP_2012\BMS\Forms\obj\Debug\BMS.frmCurrency.resources
+F:\APP_2012\BMS\Forms\obj\Debug\BMS.frmAppSettings.resources
+F:\APP_2012\BMS\Forms\obj\Debug\BMS.frmDeleteTempFile.resources
+F:\APP_2012\BMS\Forms\obj\Debug\BMS.frmGenSearch.resources
+F:\APP_2012\BMS\Forms\obj\Debug\BMS.frmHelp.resources
+F:\APP_2012\BMS\Forms\obj\Debug\BMS.frmGenMessageBox.resources
+F:\APP_2012\BMS\Forms\obj\Debug\BMS.frmPosShowReport.resources
+F:\APP_2012\BMS\Forms\obj\Debug\BMS.frmPosShowReport_New.resources
+F:\APP_2012\BMS\Forms\obj\Debug\BMS.frmReportViewer.resources
+F:\APP_2012\BMS\Forms\obj\Debug\Forms.Properties.Resources.resources
+F:\APP_2012\BMS\Forms\obj\Debug\BMS.frmSystemInfo.resources
+F:\APP_2012\BMS\Forms\obj\Debug\BMS.frmTransaction.resources
+F:\APP_2012\BMS\Forms\obj\Debug\BMS.frmTransactionGroup.resources
+F:\APP_2012\BMS\Forms\obj\Debug\BMS.frmTransactionList.resources
+F:\APP_2012\BMS\Forms\obj\Debug\GenerateResource.read.1.tlog
+F:\APP_2012\BMS\Forms\obj\Debug\GenerateResource.write.1.tlog
+F:\APP_2012\BMS\Forms\bin\Debug\Forms.dll
+F:\APP_2012\BMS\Forms\bin\Debug\Forms.pdb
+F:\APP_2012\BMS\Forms\bin\Debug\BaseBusiness.dll
+F:\APP_2012\BMS\Forms\bin\Debug\Utilities.dll
+F:\APP_2012\BMS\Forms\bin\Debug\Interop.Microsoft.Office.Interop.Word.dll
+F:\APP_2012\BMS\Forms\bin\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+F:\APP_2012\BMS\Forms\bin\Debug\BaseBusiness.pdb
+F:\APP_2012\BMS\Forms\bin\Debug\Utilities.pdb
+F:\APP_2012\BMS\Forms\obj\Debug\Forms.dll
+F:\APP_2012\BMS\Forms\obj\Debug\Forms.pdb
+F:\APP_2012\BMS\Forms\obj\Debug\Forms.dll.licenses
+D:\BMS\BMS Code\Forms\bin\Debug\Forms.dll
+D:\BMS\BMS Code\Forms\bin\Debug\Forms.pdb
+D:\BMS\BMS Code\Forms\bin\Debug\BaseBusiness.dll
+D:\BMS\BMS Code\Forms\bin\Debug\CrystalDecisions.Data.AdoDotNetInterop.dll
+D:\BMS\BMS Code\Forms\bin\Debug\CrystalDecisions.Shared.dll
+D:\BMS\BMS Code\Forms\bin\Debug\CrystalDecisions.Web.dll
+D:\BMS\BMS Code\Forms\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\BMS\BMS Code\Forms\bin\Debug\Utilities.dll
+D:\BMS\BMS Code\Forms\bin\Debug\Interop.Microsoft.Office.Interop.Word.dll
+D:\BMS\BMS Code\Forms\bin\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+D:\BMS\BMS Code\Forms\bin\Debug\office.dll
+D:\BMS\BMS Code\Forms\bin\Debug\Microsoft.Vbe.Interop.dll
+D:\BMS\BMS Code\Forms\bin\Debug\BaseBusiness.pdb
+D:\BMS\BMS Code\Forms\bin\Debug\Utilities.pdb
+D:\BMS\BMS Code\Forms\bin\Debug\office.xml
+D:\BMS\BMS Code\Forms\obj\Debug\Forms.csprojResolveAssemblyReference.cache
+D:\BMS\BMS Code\Forms\obj\Debug\BMS.frmCaseItem.resources
+D:\BMS\BMS Code\Forms\obj\Debug\BMS.frmPartCode.resources
+D:\BMS\BMS Code\Forms\obj\Debug\BMS.frmContractHistoryGroup.resources
+D:\BMS\BMS Code\Forms\obj\Debug\BMS.frmCPI.resources
+D:\BMS\BMS Code\Forms\obj\Debug\BMS.frmExchangeRate.resources
+D:\BMS\BMS Code\Forms\obj\Debug\BMS.frmCity.resources
+D:\BMS\BMS Code\Forms\obj\Debug\BMS.frmCountry.resources
+D:\BMS\BMS Code\Forms\obj\Debug\BMS.frmCurrency.resources
+D:\BMS\BMS Code\Forms\obj\Debug\BMS.frmFloorSearch.resources
+D:\BMS\BMS Code\Forms\obj\Debug\BMS.frmImportData.resources
+D:\BMS\BMS Code\Forms\obj\Debug\BMS.frmAppSettings.resources
+D:\BMS\BMS Code\Forms\obj\Debug\BMS.frmDeleteTempFile.resources
+D:\BMS\BMS Code\Forms\obj\Debug\BMS.frmGenSearch.resources
+D:\BMS\BMS Code\Forms\obj\Debug\BMS.frmGenSearchMultipleSelect.resources
+D:\BMS\BMS Code\Forms\obj\Debug\BMS.frmGenSearchSelect.resources
+D:\BMS\BMS Code\Forms\obj\Debug\BMS.frmHelp.resources
+D:\BMS\BMS Code\Forms\obj\Debug\BMS.frmGenMessageBox.resources
+D:\BMS\BMS Code\Forms\obj\Debug\BMS.frmPosShowReport.resources
+D:\BMS\BMS Code\Forms\obj\Debug\BMS.frmPosShowReport_New.resources
+D:\BMS\BMS Code\Forms\obj\Debug\BMS.frmReportViewer.resources
+D:\BMS\BMS Code\Forms\obj\Debug\Forms.Properties.Resources.resources
+D:\BMS\BMS Code\Forms\obj\Debug\BMS.frmInvPermissionStore.resources
+D:\BMS\BMS Code\Forms\obj\Debug\BMS.frmPermissionGrouplineOfBusiness.resources
+D:\BMS\BMS Code\Forms\obj\Debug\BMS.frmPermissionFloor.resources
+D:\BMS\BMS Code\Forms\obj\Debug\BMS.frmPermissionBlock.resources
+D:\BMS\BMS Code\Forms\obj\Debug\BMS.frmPhanQuyenUser.resources
+D:\BMS\BMS Code\Forms\obj\Debug\BMS.frmChangeOfTable.resources
+D:\BMS\BMS Code\Forms\obj\Debug\BMS.frmSystemInfo.resources
+D:\BMS\BMS Code\Forms\obj\Debug\BMS.frmTransaction.resources
+D:\BMS\BMS Code\Forms\obj\Debug\BMS.frmTransactionGroup.resources
+D:\BMS\BMS Code\Forms\obj\Debug\BMS.frmTransactionList.resources
+D:\BMS\BMS Code\Forms\obj\Debug\Forms.csproj.GenerateResource.Cache
+D:\BMS\BMS Code\Forms\obj\Debug\Forms.dll.licenses
+D:\BMS\BMS Code\Forms\obj\Debug\Forms.dll
+D:\BMS\BMS Code\Forms\obj\Debug\Forms.pdb

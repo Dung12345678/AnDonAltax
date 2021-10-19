@@ -1,0 +1,45 @@
+16:31:22:threadChangeBackgroundColor(): System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.WaitHandle.WaitOneNative(SafeHandle waitableSafeHandle, UInt32 millisecondsTimeout, Boolean hasThreadAffinity, Boolean exitContext)
+   at System.Threading.WaitHandle.InternalWaitOne(SafeHandle waitableSafeHandle, Int64 millisecondsTimeout, Boolean hasThreadAffinity, Boolean exitContext)
+   at System.Threading.WaitHandle.WaitOne(Int32 millisecondsTimeout, Boolean exitContext)
+   at System.Windows.Forms.Control.WaitForWaitHandle(WaitHandle waitHandle)
+   at System.Windows.Forms.Control.MarshaledInvoke(Control caller, Delegate method, Object[] args, Boolean synchronous)
+   at System.Windows.Forms.Control.Invoke(Delegate method, Object[] args)
+   at System.Windows.Forms.Control.Invoke(Delegate method)
+   at BMS.frmAndonDetailVer4.threadChangeBackgroundColor() in D:\project\Sumitomo\Line\Altax\Andon\AndonCode_Altax\Forms\frmAndonDetailVer4.cs:line 436
+16:57:26:threadChangeBackgroundColor(): System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.WaitHandle.WaitOneNative(SafeHandle waitableSafeHandle, UInt32 millisecondsTimeout, Boolean hasThreadAffinity, Boolean exitContext)
+   at System.Threading.WaitHandle.InternalWaitOne(SafeHandle waitableSafeHandle, Int64 millisecondsTimeout, Boolean hasThreadAffinity, Boolean exitContext)
+   at System.Threading.WaitHandle.WaitOne(Int32 millisecondsTimeout, Boolean exitContext)
+   at System.Windows.Forms.Control.WaitForWaitHandle(WaitHandle waitHandle)
+   at System.Windows.Forms.Control.MarshaledInvoke(Control caller, Delegate method, Object[] args, Boolean synchronous)
+   at System.Windows.Forms.Control.Invoke(Delegate method, Object[] args)
+   at System.Windows.Forms.Control.Invoke(Delegate method)
+   at BMS.frmAndonDetailVer4.threadChangeBackgroundColor() in D:\project\Sumitomo\Line\Altax\Andon\AndonCode_Altax\Forms\frmAndonDetailVer4.cs:line 436
+16:57:26:bgwCD2_DoWork(): System.ObjectDisposedException: Cannot access a disposed object.
+Object name: 'frmAndonDetailVer4'.
+   at System.Windows.Forms.Control.MarshaledInvoke(Control caller, Delegate method, Object[] args, Boolean synchronous)
+   at System.Windows.Forms.Control.Invoke(Delegate method, Object[] args)
+   at System.Windows.Forms.Control.Invoke(Delegate method, Object[] args)
+   at System.Windows.Forms.Control.Invoke(Delegate method)
+   at System.Windows.Forms.Control.Invoke(Delegate method)
+   at BMS.frmAndonDetailVer4.bgwCD2_DoWork(Object sender, DoWorkEventArgs e) in D:\project\Sumitomo\Line\Altax\Andon\AndonCode_Altax\Forms\frmAndonDetailVer4.cs:line 1037
+   at BMS.frmAndonDetailVer4.UpdateColor() in D:\project\Sumitomo\Line\Altax\Andon\AndonCode_Altax\Forms\frmAndonDetailVer4.cs:line 151
+17:15:50:threadChangeBackgroundColor(): System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.WaitHandle.WaitOneNative(SafeHandle waitableSafeHandle, UInt32 millisecondsTimeout, Boolean hasThreadAffinity, Boolean exitContext)
+   at System.Threading.WaitHandle.InternalWaitOne(SafeHandle waitableSafeHandle, Int64 millisecondsTimeout, Boolean hasThreadAffinity, Boolean exitContext)
+   at System.Threading.WaitHandle.WaitOne(Int32 millisecondsTimeout, Boolean exitContext)
+   at System.Windows.Forms.Control.WaitForWaitHandle(WaitHandle waitHandle)
+   at System.Windows.Forms.Control.MarshaledInvoke(Control caller, Delegate method, Object[] args, Boolean synchronous)
+   at System.Windows.Forms.Control.Invoke(Delegate method, Object[] args)
+   at System.Windows.Forms.Control.Invoke(Delegate method)
+   at BMS.frmAndonDetailVer4.threadChangeBackgroundColor() in D:\project\Sumitomo\Line\Altax\Andon\AndonCode_Altax\Forms\frmAndonDetailVer4.cs:line 436
+17:16:46:threadChangeBackgroundColor(): System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.WaitHandle.WaitOneNative(SafeHandle waitableSafeHandle, UInt32 millisecondsTimeout, Boolean hasThreadAffinity, Boolean exitContext)
+   at System.Threading.WaitHandle.InternalWaitOne(SafeHandle waitableSafeHandle, Int64 millisecondsTimeout, Boolean hasThreadAffinity, Boolean exitContext)
+   at System.Threading.WaitHandle.WaitOne(Int32 millisecondsTimeout, Boolean exitContext)
+   at System.Windows.Forms.Control.WaitForWaitHandle(WaitHandle waitHandle)
+   at System.Windows.Forms.Control.MarshaledInvoke(Control caller, Delegate method, Object[] args, Boolean synchronous)
+   at System.Windows.Forms.Control.Invoke(Delegate method, Object[] args)
+   at System.Windows.Forms.Control.Invoke(Delegate method)
+   at BMS.frmAndonDetailVer4.threadChangeBackgroundColor() in D:\project\Sumitomo\Line\Altax\Andon\AndonCode_Altax\Forms\frmAndonDetailVer4.cs:line 436

@@ -1,0 +1,1621 @@
+F:\APP_2012\BMS\Utilities\bin\x86\Debug\Utilities.dll
+F:\APP_2012\BMS\Utilities\bin\x86\Debug\Utilities.pdb
+F:\APP_2012\BMS\Utilities\bin\x86\Debug\BaseBusiness.dll
+F:\APP_2012\BMS\Utilities\bin\x86\Debug\Interop.Microsoft.Office.Core.dll
+F:\APP_2012\BMS\Utilities\bin\x86\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+F:\APP_2012\BMS\Utilities\bin\x86\Debug\Interop.Microsoft.Office.Interop.Word.dll
+F:\APP_2012\BMS\Utilities\bin\x86\Debug\BaseBusiness.pdb
+F:\APP_2012\BMS\Utilities\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\APP_2012\BMS\Utilities\obj\x86\Debug\BMS.frmGenSelect.resources
+F:\APP_2012\BMS\Utilities\obj\x86\Debug\BMS.frmCshLoading.resources
+F:\APP_2012\BMS\Utilities\obj\x86\Debug\BMS.ShowProcessBar.resources
+F:\APP_2012\BMS\Utilities\obj\x86\Debug\Utilities.Properties.Resources.resources
+F:\APP_2012\BMS\Utilities\obj\x86\Debug\BMS.UcGenParam.resources
+F:\APP_2012\BMS\Utilities\obj\x86\Debug\BMS.frmCashierLogin.resources
+F:\APP_2012\BMS\Utilities\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+F:\APP_2012\BMS\Utilities\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+F:\APP_2012\BMS\Utilities\obj\x86\Debug\Utilities.dll
+F:\APP_2012\BMS\Utilities\obj\x86\Debug\Utilities.pdb
+D:\Projects\BMS_CODE_30_10_12\Utilities\bin\x86\Debug\Utilities.dll
+D:\Projects\BMS_CODE_30_10_12\Utilities\bin\x86\Debug\Utilities.pdb
+D:\Projects\BMS_CODE_30_10_12\Utilities\bin\x86\Debug\BaseBusiness.dll
+D:\Projects\BMS_CODE_30_10_12\Utilities\bin\x86\Debug\Interop.Microsoft.Office.Core.dll
+D:\Projects\BMS_CODE_30_10_12\Utilities\bin\x86\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+D:\Projects\BMS_CODE_30_10_12\Utilities\bin\x86\Debug\Interop.Microsoft.Office.Interop.Word.dll
+D:\Projects\BMS_CODE_30_10_12\Utilities\bin\x86\Debug\BaseBusiness.pdb
+D:\Projects\BMS_CODE_30_10_12\Utilities\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Projects\BMS_CODE_30_10_12\Utilities\obj\x86\Debug\BMS.frmGenSelect.resources
+D:\Projects\BMS_CODE_30_10_12\Utilities\obj\x86\Debug\BMS.frmCshLoading.resources
+D:\Projects\BMS_CODE_30_10_12\Utilities\obj\x86\Debug\BMS.ShowProcessBar.resources
+D:\Projects\BMS_CODE_30_10_12\Utilities\obj\x86\Debug\Utilities.Properties.Resources.resources
+D:\Projects\BMS_CODE_30_10_12\Utilities\obj\x86\Debug\BMS.UcGenParam.resources
+D:\Projects\BMS_CODE_30_10_12\Utilities\obj\x86\Debug\BMS.frmCashierLogin.resources
+D:\Projects\BMS_CODE_30_10_12\Utilities\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+D:\Projects\BMS_CODE_30_10_12\Utilities\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+D:\Projects\BMS_CODE_30_10_12\Utilities\obj\x86\Debug\Utilities.dll
+D:\Projects\BMS_CODE_30_10_12\Utilities\obj\x86\Debug\Utilities.pdb
+D:\Project\BMS\Utilities\bin\x86\Debug\Utilities.dll
+D:\Project\BMS\Utilities\bin\x86\Debug\Utilities.pdb
+D:\Project\BMS\Utilities\bin\x86\Debug\BaseBusiness.dll
+D:\Project\BMS\Utilities\bin\x86\Debug\Interop.Microsoft.Office.Core.dll
+D:\Project\BMS\Utilities\bin\x86\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+D:\Project\BMS\Utilities\bin\x86\Debug\Interop.Microsoft.Office.Interop.Word.dll
+D:\Project\BMS\Utilities\bin\x86\Debug\office.dll
+D:\Project\BMS\Utilities\bin\x86\Debug\BaseBusiness.pdb
+D:\Project\BMS\Utilities\bin\x86\Debug\office.xml
+D:\Project\BMS\Utilities\obj\x86\Debug\BMS.frmCshLoading.resources
+D:\Project\BMS\Utilities\obj\x86\Debug\BMS.frmGenSelect.resources
+D:\Project\BMS\Utilities\obj\x86\Debug\BMS.ShowProcessBar.resources
+D:\Project\BMS\Utilities\obj\x86\Debug\Utilities.Properties.Resources.resources
+D:\Project\BMS\Utilities\obj\x86\Debug\BMS.UcGenParam.resources
+D:\Project\BMS\Utilities\obj\x86\Debug\BMS.frmCashierLogin.resources
+D:\Project\BMS\Utilities\obj\x86\Debug\Utilities.dll
+D:\Project\BMS\Utilities\obj\x86\Debug\Utilities.pdb
+E:\APP_2012\BMS\Utilities\bin\x86\Debug\Utilities.dll
+E:\APP_2012\BMS\Utilities\bin\x86\Debug\Utilities.pdb
+E:\APP_2012\BMS\Utilities\bin\x86\Debug\BaseBusiness.dll
+E:\APP_2012\BMS\Utilities\bin\x86\Debug\Interop.Microsoft.Office.Core.dll
+E:\APP_2012\BMS\Utilities\bin\x86\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+E:\APP_2012\BMS\Utilities\bin\x86\Debug\Interop.Microsoft.Office.Interop.Word.dll
+E:\APP_2012\BMS\Utilities\bin\x86\Debug\office.dll
+E:\APP_2012\BMS\Utilities\bin\x86\Debug\BaseBusiness.pdb
+E:\APP_2012\BMS\Utilities\bin\x86\Debug\office.xml
+E:\APP_2012\BMS\Utilities\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\APP_2012\BMS\Utilities\obj\x86\Debug\BMS.frmCshLoading.resources
+E:\APP_2012\BMS\Utilities\obj\x86\Debug\BMS.frmGenSelect.resources
+E:\APP_2012\BMS\Utilities\obj\x86\Debug\BMS.ShowProcessBar.resources
+E:\APP_2012\BMS\Utilities\obj\x86\Debug\Utilities.Properties.Resources.resources
+E:\APP_2012\BMS\Utilities\obj\x86\Debug\BMS.UcGenParam.resources
+E:\APP_2012\BMS\Utilities\obj\x86\Debug\BMS.frmCashierLogin.resources
+E:\APP_2012\BMS\Utilities\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+E:\APP_2012\BMS\Utilities\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+E:\APP_2012\BMS\Utilities\obj\x86\Debug\Utilities.dll
+E:\APP_2012\BMS\Utilities\obj\x86\Debug\Utilities.pdb
+D:\Project\BMS\Utilities\obj\x86\Debug\Utilities.csprojResolveAssemblyReference.cache
+D:\Project\BMS\Utilities\obj\x86\Debug\Utilities.csproj.GenerateResource.Cache
+D:\Projects\BMS_CODE_18_01_13\Utilities\bin\x86\Debug\Utilities.dll
+D:\Projects\BMS_CODE_18_01_13\Utilities\bin\x86\Debug\Utilities.pdb
+D:\Projects\BMS_CODE_18_01_13\Utilities\bin\x86\Debug\BaseBusiness.dll
+D:\Projects\BMS_CODE_18_01_13\Utilities\bin\x86\Debug\Interop.Microsoft.Office.Core.dll
+D:\Projects\BMS_CODE_18_01_13\Utilities\bin\x86\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+D:\Projects\BMS_CODE_18_01_13\Utilities\bin\x86\Debug\Interop.Microsoft.Office.Interop.Word.dll
+D:\Projects\BMS_CODE_18_01_13\Utilities\bin\x86\Debug\BaseBusiness.pdb
+D:\Projects\BMS_CODE_18_01_13\Utilities\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Projects\BMS_CODE_18_01_13\Utilities\obj\x86\Debug\BMS.frmCshLoading.resources
+D:\Projects\BMS_CODE_18_01_13\Utilities\obj\x86\Debug\BMS.frmGenSelect.resources
+D:\Projects\BMS_CODE_18_01_13\Utilities\obj\x86\Debug\BMS.ShowProcessBar.resources
+D:\Projects\BMS_CODE_18_01_13\Utilities\obj\x86\Debug\Utilities.Properties.Resources.resources
+D:\Projects\BMS_CODE_18_01_13\Utilities\obj\x86\Debug\BMS.UcGenParam.resources
+D:\Projects\BMS_CODE_18_01_13\Utilities\obj\x86\Debug\BMS.frmCashierLogin.resources
+D:\Projects\BMS_CODE_18_01_13\Utilities\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+D:\Projects\BMS_CODE_18_01_13\Utilities\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+D:\Projects\BMS_CODE_18_01_13\Utilities\obj\x86\Debug\Utilities.dll
+D:\Projects\BMS_CODE_18_01_13\Utilities\obj\x86\Debug\Utilities.pdb
+D:\Projects\BMS_CODE_24_01_13_17h\Utilities\bin\x86\Debug\Utilities.dll
+D:\Projects\BMS_CODE_24_01_13_17h\Utilities\bin\x86\Debug\Utilities.pdb
+D:\Projects\BMS_CODE_24_01_13_17h\Utilities\bin\x86\Debug\BaseBusiness.dll
+D:\Projects\BMS_CODE_24_01_13_17h\Utilities\bin\x86\Debug\Interop.Microsoft.Office.Core.dll
+D:\Projects\BMS_CODE_24_01_13_17h\Utilities\bin\x86\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+D:\Projects\BMS_CODE_24_01_13_17h\Utilities\bin\x86\Debug\Interop.Microsoft.Office.Interop.Word.dll
+D:\Projects\BMS_CODE_24_01_13_17h\Utilities\bin\x86\Debug\BaseBusiness.pdb
+D:\Projects\BMS_CODE_24_01_13_17h\Utilities\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Projects\BMS_CODE_24_01_13_17h\Utilities\obj\x86\Debug\BMS.frmCshLoading.resources
+D:\Projects\BMS_CODE_24_01_13_17h\Utilities\obj\x86\Debug\BMS.frmGenSelect.resources
+D:\Projects\BMS_CODE_24_01_13_17h\Utilities\obj\x86\Debug\BMS.ShowProcessBar.resources
+D:\Projects\BMS_CODE_24_01_13_17h\Utilities\obj\x86\Debug\Utilities.Properties.Resources.resources
+D:\Projects\BMS_CODE_24_01_13_17h\Utilities\obj\x86\Debug\BMS.UcGenParam.resources
+D:\Projects\BMS_CODE_24_01_13_17h\Utilities\obj\x86\Debug\BMS.frmCashierLogin.resources
+D:\Projects\BMS_CODE_24_01_13_17h\Utilities\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+D:\Projects\BMS_CODE_24_01_13_17h\Utilities\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+D:\Projects\BMS_CODE_24_01_13_17h\Utilities\obj\x86\Debug\Utilities.dll
+D:\Projects\BMS_CODE_24_01_13_17h\Utilities\obj\x86\Debug\Utilities.pdb
+D:\Project\BMS_CODE_26_01_13\Utilities\bin\x86\Debug\Utilities.dll
+D:\Project\BMS_CODE_26_01_13\Utilities\bin\x86\Debug\Utilities.pdb
+D:\Project\BMS_CODE_26_01_13\Utilities\bin\x86\Debug\BaseBusiness.dll
+D:\Project\BMS_CODE_26_01_13\Utilities\bin\x86\Debug\Interop.Microsoft.Office.Core.dll
+D:\Project\BMS_CODE_26_01_13\Utilities\bin\x86\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+D:\Project\BMS_CODE_26_01_13\Utilities\bin\x86\Debug\Interop.Microsoft.Office.Interop.Word.dll
+D:\Project\BMS_CODE_26_01_13\Utilities\bin\x86\Debug\office.dll
+D:\Project\BMS_CODE_26_01_13\Utilities\bin\x86\Debug\BaseBusiness.pdb
+D:\Project\BMS_CODE_26_01_13\Utilities\bin\x86\Debug\office.xml
+D:\Project\BMS_CODE_26_01_13\Utilities\obj\x86\Debug\Utilities.csprojResolveAssemblyReference.cache
+D:\Project\BMS_CODE_26_01_13\Utilities\obj\x86\Debug\BMS.frmCshLoading.resources
+D:\Project\BMS_CODE_26_01_13\Utilities\obj\x86\Debug\BMS.frmGenSelect.resources
+D:\Project\BMS_CODE_26_01_13\Utilities\obj\x86\Debug\BMS.ShowProcessBar.resources
+D:\Project\BMS_CODE_26_01_13\Utilities\obj\x86\Debug\Utilities.Properties.Resources.resources
+D:\Project\BMS_CODE_26_01_13\Utilities\obj\x86\Debug\BMS.UcGenParam.resources
+D:\Project\BMS_CODE_26_01_13\Utilities\obj\x86\Debug\BMS.frmCashierLogin.resources
+D:\Project\BMS_CODE_26_01_13\Utilities\obj\x86\Debug\Utilities.csproj.GenerateResource.Cache
+D:\Project\BMS_CODE_26_01_13\Utilities\obj\x86\Debug\Utilities.dll
+D:\Project\BMS_CODE_26_01_13\Utilities\obj\x86\Debug\Utilities.pdb
+E:\BMS\BMS Project\Utilities\bin\x86\Debug\Utilities.dll
+E:\BMS\BMS Project\Utilities\bin\x86\Debug\Utilities.pdb
+E:\BMS\BMS Project\Utilities\bin\x86\Debug\BaseBusiness.dll
+E:\BMS\BMS Project\Utilities\bin\x86\Debug\Interop.Microsoft.Office.Core.dll
+E:\BMS\BMS Project\Utilities\bin\x86\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+E:\BMS\BMS Project\Utilities\bin\x86\Debug\Interop.Microsoft.Office.Interop.Word.dll
+E:\BMS\BMS Project\Utilities\bin\x86\Debug\office.dll
+E:\BMS\BMS Project\Utilities\bin\x86\Debug\BaseBusiness.pdb
+E:\BMS\BMS Project\Utilities\bin\x86\Debug\office.xml
+E:\BMS\BMS Project\Utilities\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\BMS\BMS Project\Utilities\obj\x86\Debug\BMS.frmCshLoading.resources
+E:\BMS\BMS Project\Utilities\obj\x86\Debug\BMS.frmGenSelect.resources
+E:\BMS\BMS Project\Utilities\obj\x86\Debug\BMS.ShowProcessBar.resources
+E:\BMS\BMS Project\Utilities\obj\x86\Debug\Utilities.Properties.Resources.resources
+E:\BMS\BMS Project\Utilities\obj\x86\Debug\BMS.UcGenParam.resources
+E:\BMS\BMS Project\Utilities\obj\x86\Debug\BMS.frmCashierLogin.resources
+E:\BMS\BMS Project\Utilities\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+E:\BMS\BMS Project\Utilities\obj\x86\Debug\GenerateResource-ResGen.read.4.tlog
+E:\BMS\BMS Project\Utilities\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+E:\BMS\BMS Project\Utilities\obj\x86\Debug\GenerateResource-ResGen.write.4.tlog
+E:\BMS\BMS Project\Utilities\obj\x86\Debug\Utilities.dll
+E:\BMS\BMS Project\Utilities\obj\x86\Debug\Utilities.pdb
+E:\BMS\BMS Code\Utilities\bin\x86\Debug\Utilities.dll
+E:\BMS\BMS Code\Utilities\bin\x86\Debug\Utilities.pdb
+E:\BMS\BMS Code\Utilities\bin\x86\Debug\BaseBusiness.dll
+E:\BMS\BMS Code\Utilities\bin\x86\Debug\Interop.Microsoft.Office.Core.dll
+E:\BMS\BMS Code\Utilities\bin\x86\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+E:\BMS\BMS Code\Utilities\bin\x86\Debug\Interop.Microsoft.Office.Interop.Word.dll
+E:\BMS\BMS Code\Utilities\bin\x86\Debug\office.dll
+E:\BMS\BMS Code\Utilities\bin\x86\Debug\BaseBusiness.pdb
+E:\BMS\BMS Code\Utilities\bin\x86\Debug\office.xml
+E:\BMS\BMS Code\Utilities\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\BMS\BMS Code\Utilities\obj\x86\Debug\BMS.frmCshLoading.resources
+E:\BMS\BMS Code\Utilities\obj\x86\Debug\BMS.frmGenSelect.resources
+E:\BMS\BMS Code\Utilities\obj\x86\Debug\BMS.ShowProcessBar.resources
+E:\BMS\BMS Code\Utilities\obj\x86\Debug\Utilities.Properties.Resources.resources
+E:\BMS\BMS Code\Utilities\obj\x86\Debug\BMS.UcGenParam.resources
+E:\BMS\BMS Code\Utilities\obj\x86\Debug\BMS.frmCashierLogin.resources
+E:\BMS\BMS Code\Utilities\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+E:\BMS\BMS Code\Utilities\obj\x86\Debug\GenerateResource-ResGen.read.4.tlog
+E:\BMS\BMS Code\Utilities\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+E:\BMS\BMS Code\Utilities\obj\x86\Debug\GenerateResource-ResGen.write.4.tlog
+E:\BMS\BMS Code\Utilities\obj\x86\Debug\Utilities.dll
+E:\BMS\BMS Code\Utilities\obj\x86\Debug\Utilities.pdb
+D:\BMS\BMS Code\Utilities\bin\x86\Debug\Utilities.dll
+D:\BMS\BMS Code\Utilities\bin\x86\Debug\Utilities.pdb
+D:\BMS\BMS Code\Utilities\bin\x86\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+D:\BMS\BMS Code\Utilities\bin\x86\Debug\Interop.Microsoft.Office.Interop.Word.dll
+D:\BMS\BMS Code\Utilities\bin\x86\Debug\office.dll
+D:\BMS\BMS Code\Utilities\bin\x86\Debug\Microsoft.Vbe.Interop.dll
+D:\BMS\BMS Code\Utilities\bin\x86\Debug\office.xml
+D:\BMS\BMS Code\Utilities\obj\x86\Debug\Utilities.csprojResolveAssemblyReference.cache
+D:\BMS\BMS Code\Utilities\obj\x86\Debug\BMS.frmCshLoading.resources
+D:\BMS\BMS Code\Utilities\obj\x86\Debug\BMS.frmGenSelect.resources
+D:\BMS\BMS Code\Utilities\obj\x86\Debug\BMS.ShowProcessBar.resources
+D:\BMS\BMS Code\Utilities\obj\x86\Debug\Utilities.Properties.Resources.resources
+D:\BMS\BMS Code\Utilities\obj\x86\Debug\BMS.UcGenParam.resources
+D:\BMS\BMS Code\Utilities\obj\x86\Debug\BMS.frmCashierLogin.resources
+D:\BMS\BMS Code\Utilities\obj\x86\Debug\Utilities.csproj.GenerateResource.Cache
+D:\BMS\BMS Code\Utilities\obj\x86\Debug\Utilities.dll
+D:\BMS\BMS Code\Utilities\obj\x86\Debug\Utilities.pdb
+D:\BMS\BMS Inventory Code\Utilities\bin\x86\Debug\Utilities.dll
+D:\BMS\BMS Inventory Code\Utilities\bin\x86\Debug\Utilities.pdb
+D:\BMS\BMS Inventory Code\Utilities\bin\x86\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+D:\BMS\BMS Inventory Code\Utilities\bin\x86\Debug\Interop.Microsoft.Office.Interop.Word.dll
+D:\BMS\BMS Inventory Code\Utilities\bin\x86\Debug\office.dll
+D:\BMS\BMS Inventory Code\Utilities\bin\x86\Debug\Microsoft.Vbe.Interop.dll
+D:\BMS\BMS Inventory Code\Utilities\bin\x86\Debug\office.xml
+D:\BMS\BMS Inventory Code\Utilities\obj\x86\Debug\Utilities.csprojResolveAssemblyReference.cache
+D:\BMS\BMS Inventory Code\Utilities\obj\x86\Debug\BMS.frmCshLoading.resources
+D:\BMS\BMS Inventory Code\Utilities\obj\x86\Debug\BMS.frmGenSelect.resources
+D:\BMS\BMS Inventory Code\Utilities\obj\x86\Debug\BMS.ShowProcessBar.resources
+D:\BMS\BMS Inventory Code\Utilities\obj\x86\Debug\Utilities.Properties.Resources.resources
+D:\BMS\BMS Inventory Code\Utilities\obj\x86\Debug\BMS.UcGenParam.resources
+D:\BMS\BMS Inventory Code\Utilities\obj\x86\Debug\BMS.frmCashierLogin.resources
+D:\BMS\BMS Inventory Code\Utilities\obj\x86\Debug\Utilities.csproj.GenerateResource.Cache
+D:\BMS\BMS Inventory Code\Utilities\obj\x86\Debug\Utilities.dll
+D:\BMS\BMS Inventory Code\Utilities\obj\x86\Debug\Utilities.pdb
+E:\PROJECTS\CS\VINCOM SAI DONG\BMS Inventory Code\Utilities\bin\x86\Debug\Utilities.dll
+E:\PROJECTS\CS\VINCOM SAI DONG\BMS Inventory Code\Utilities\bin\x86\Debug\Utilities.pdb
+E:\PROJECTS\CS\VINCOM SAI DONG\BMS Inventory Code\Utilities\bin\x86\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+E:\PROJECTS\CS\VINCOM SAI DONG\BMS Inventory Code\Utilities\bin\x86\Debug\Interop.Microsoft.Office.Interop.Word.dll
+E:\PROJECTS\CS\VINCOM SAI DONG\BMS Inventory Code\Utilities\obj\x86\Debug\Utilities.csprojResolveAssemblyReference.cache
+E:\PROJECTS\CS\VINCOM SAI DONG\BMS Inventory Code\Utilities\obj\x86\Debug\BMS.frmCshLoading.resources
+E:\PROJECTS\CS\VINCOM SAI DONG\BMS Inventory Code\Utilities\obj\x86\Debug\BMS.frmGenSelect.resources
+E:\PROJECTS\CS\VINCOM SAI DONG\BMS Inventory Code\Utilities\obj\x86\Debug\BMS.ShowProcessBar.resources
+E:\PROJECTS\CS\VINCOM SAI DONG\BMS Inventory Code\Utilities\obj\x86\Debug\Utilities.Properties.Resources.resources
+E:\PROJECTS\CS\VINCOM SAI DONG\BMS Inventory Code\Utilities\obj\x86\Debug\BMS.UcGenParam.resources
+E:\PROJECTS\CS\VINCOM SAI DONG\BMS Inventory Code\Utilities\obj\x86\Debug\BMS.frmCashierLogin.resources
+E:\PROJECTS\CS\VINCOM SAI DONG\BMS Inventory Code\Utilities\obj\x86\Debug\Utilities.csproj.GenerateResource.Cache
+E:\PROJECTS\CS\VINCOM SAI DONG\BMS Inventory Code\Utilities\obj\x86\Debug\Utilities.dll
+E:\PROJECTS\CS\VINCOM SAI DONG\BMS Inventory Code\Utilities\obj\x86\Debug\Utilities.pdb
+D:\Projects\BMS Inventory Code\Utilities\bin\x86\Debug\Utilities.dll
+D:\Projects\BMS Inventory Code\Utilities\bin\x86\Debug\Utilities.pdb
+D:\Projects\BMS Inventory Code\Utilities\bin\x86\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+D:\Projects\BMS Inventory Code\Utilities\bin\x86\Debug\Interop.Microsoft.Office.Interop.Word.dll
+D:\Projects\BMS Inventory Code\Utilities\bin\x86\Debug\office.dll
+D:\Projects\BMS Inventory Code\Utilities\bin\x86\Debug\office.xml
+D:\Projects\BMS Inventory Code\Utilities\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Projects\BMS Inventory Code\Utilities\obj\x86\Debug\BMS.frmCshLoading.resources
+D:\Projects\BMS Inventory Code\Utilities\obj\x86\Debug\BMS.frmGenSelect.resources
+D:\Projects\BMS Inventory Code\Utilities\obj\x86\Debug\BMS.ShowProcessBar.resources
+D:\Projects\BMS Inventory Code\Utilities\obj\x86\Debug\Utilities.Properties.Resources.resources
+D:\Projects\BMS Inventory Code\Utilities\obj\x86\Debug\BMS.UcGenParam.resources
+D:\Projects\BMS Inventory Code\Utilities\obj\x86\Debug\BMS.frmCashierLogin.resources
+D:\Projects\BMS Inventory Code\Utilities\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Projects\BMS Inventory Code\Utilities\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Projects\BMS Inventory Code\Utilities\obj\x86\Debug\Utilities.dll
+D:\Projects\BMS Inventory Code\Utilities\obj\x86\Debug\Utilities.pdb
+D:\Projects\QUẢN LÝ NHÂN SỰ\BMS Inventory Code\Utilities\bin\x86\Debug\Utilities.dll
+D:\Projects\QUẢN LÝ NHÂN SỰ\BMS Inventory Code\Utilities\bin\x86\Debug\Utilities.pdb
+D:\Projects\QUẢN LÝ NHÂN SỰ\BMS Inventory Code\Utilities\bin\x86\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+D:\Projects\QUẢN LÝ NHÂN SỰ\BMS Inventory Code\Utilities\bin\x86\Debug\Interop.Microsoft.Office.Interop.Word.dll
+D:\Projects\QUẢN LÝ NHÂN SỰ\BMS Inventory Code\Utilities\bin\x86\Debug\office.dll
+D:\Projects\QUẢN LÝ NHÂN SỰ\BMS Inventory Code\Utilities\bin\x86\Debug\office.xml
+D:\Projects\QUẢN LÝ NHÂN SỰ\BMS Inventory Code\Utilities\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Projects\QUẢN LÝ NHÂN SỰ\BMS Inventory Code\Utilities\obj\x86\Debug\BMS.frmCshLoading.resources
+D:\Projects\QUẢN LÝ NHÂN SỰ\BMS Inventory Code\Utilities\obj\x86\Debug\BMS.frmGenSelect.resources
+D:\Projects\QUẢN LÝ NHÂN SỰ\BMS Inventory Code\Utilities\obj\x86\Debug\BMS.ShowProcessBar.resources
+D:\Projects\QUẢN LÝ NHÂN SỰ\BMS Inventory Code\Utilities\obj\x86\Debug\Utilities.Properties.Resources.resources
+D:\Projects\QUẢN LÝ NHÂN SỰ\BMS Inventory Code\Utilities\obj\x86\Debug\BMS.UcGenParam.resources
+D:\Projects\QUẢN LÝ NHÂN SỰ\BMS Inventory Code\Utilities\obj\x86\Debug\BMS.frmCashierLogin.resources
+D:\Projects\QUẢN LÝ NHÂN SỰ\BMS Inventory Code\Utilities\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Projects\QUẢN LÝ NHÂN SỰ\BMS Inventory Code\Utilities\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Projects\QUẢN LÝ NHÂN SỰ\BMS Inventory Code\Utilities\obj\x86\Debug\Utilities.dll
+D:\Projects\QUẢN LÝ NHÂN SỰ\BMS Inventory Code\Utilities\obj\x86\Debug\Utilities.pdb
+D:\Projects\QUẢN LÝ KẾ HOẠCH THIẾT KẾ\BMS Inventory Code\Utilities\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Projects\QUẢN LÝ KẾ HOẠCH THIẾT KẾ\BMS Inventory Code\Utilities\obj\x86\Debug\BMS.frmCshLoading.resources
+D:\Projects\QUẢN LÝ KẾ HOẠCH THIẾT KẾ\BMS Inventory Code\Utilities\obj\x86\Debug\BMS.frmGenSelect.resources
+D:\Projects\QUẢN LÝ KẾ HOẠCH THIẾT KẾ\BMS Inventory Code\Utilities\obj\x86\Debug\BMS.ShowProcessBar.resources
+D:\Projects\QUẢN LÝ KẾ HOẠCH THIẾT KẾ\BMS Inventory Code\Utilities\obj\x86\Debug\Utilities.Properties.Resources.resources
+D:\Projects\QUẢN LÝ KẾ HOẠCH THIẾT KẾ\BMS Inventory Code\Utilities\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+D:\Projects\QUẢN LÝ KẾ HOẠCH THIẾT KẾ\BMS Inventory Code\Utilities\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+D:\Projects\QUẢN LÝ KẾ HOẠCH THIẾT KẾ\BMS Inventory Code\Utilities\bin\x86\Debug\Utilities.dll
+D:\Projects\QUẢN LÝ KẾ HOẠCH THIẾT KẾ\BMS Inventory Code\Utilities\bin\x86\Debug\Utilities.pdb
+D:\Projects\QUẢN LÝ KẾ HOẠCH THIẾT KẾ\BMS Inventory Code\Utilities\bin\x86\Debug\Interop.Microsoft.Office.Core.dll
+D:\Projects\QUẢN LÝ KẾ HOẠCH THIẾT KẾ\BMS Inventory Code\Utilities\bin\x86\Debug\TpaInvClass.dll
+D:\Projects\QUẢN LÝ KẾ HOẠCH THIẾT KẾ\BMS Inventory Code\Utilities\obj\x86\Debug\Utilities.dll
+D:\Projects\QUẢN LÝ KẾ HOẠCH THIẾT KẾ\BMS Inventory Code\Utilities\obj\x86\Debug\Utilities.pdb
+D:\Projects\QUẢN LÝ KẾ HOẠCH THIẾT KẾ\BMS Inventory Code\Utilities\bin\x86\Debug\TPABusiness.dll
+D:\Projects\QUẢN LÝ KẾ HOẠCH THIẾT KẾ\BMS Inventory Code\Utilities\bin\x86\Debug\TPABusiness.pdb
+D:\Projects\QUẢN LÝ KẾ HOẠCH THIẾT KẾ\BMS Inventory Code\Utilities\bin\x86\Debug\ICSharpCode.SharpZipLib.dll
+D:\Projects\QUẢN LÝ KẾ HOẠCH THIẾT KẾ\BMS Inventory Code\Utilities\bin\x86\Debug\itextsharp.dll
+E:\PROJECTS\TP\Soft\QLTK\BMS Inventory Code\Utilities\bin\x86\Debug\Utilities.dll
+E:\PROJECTS\TP\Soft\QLTK\BMS Inventory Code\Utilities\bin\x86\Debug\Utilities.pdb
+E:\PROJECTS\TP\Soft\QLTK\BMS Inventory Code\Utilities\bin\x86\Debug\ICSharpCode.SharpZipLib.dll
+E:\PROJECTS\TP\Soft\QLTK\BMS Inventory Code\Utilities\bin\x86\Debug\Interop.Microsoft.Office.Core.dll
+E:\PROJECTS\TP\Soft\QLTK\BMS Inventory Code\Utilities\bin\x86\Debug\itextsharp.dll
+E:\PROJECTS\TP\Soft\QLTK\BMS Inventory Code\Utilities\bin\x86\Debug\Microsoft.Office.Interop.Excel.dll
+E:\PROJECTS\TP\Soft\QLTK\BMS Inventory Code\Utilities\bin\x86\Debug\Microsoft.Office.Interop.Outlook.dll
+E:\PROJECTS\TP\Soft\QLTK\BMS Inventory Code\Utilities\bin\x86\Debug\Microsoft.Office.Interop.Word.dll
+E:\PROJECTS\TP\Soft\QLTK\BMS Inventory Code\Utilities\bin\x86\Debug\TPABusiness.dll
+E:\PROJECTS\TP\Soft\QLTK\BMS Inventory Code\Utilities\bin\x86\Debug\TpaInvClass.dll
+E:\PROJECTS\TP\Soft\QLTK\BMS Inventory Code\Utilities\bin\x86\Debug\office.dll
+E:\PROJECTS\TP\Soft\QLTK\BMS Inventory Code\Utilities\bin\x86\Debug\Microsoft.Vbe.Interop.dll
+E:\PROJECTS\TP\Soft\QLTK\BMS Inventory Code\Utilities\bin\x86\Debug\TPABusiness.pdb
+E:\PROJECTS\TP\Soft\QLTK\BMS Inventory Code\Utilities\bin\x86\Debug\Microsoft.Office.Interop.Excel.xml
+E:\PROJECTS\TP\Soft\QLTK\BMS Inventory Code\Utilities\bin\x86\Debug\Microsoft.Office.Interop.Outlook.xml
+E:\PROJECTS\TP\Soft\QLTK\BMS Inventory Code\Utilities\bin\x86\Debug\Microsoft.Office.Interop.Word.xml
+E:\PROJECTS\TP\Soft\QLTK\BMS Inventory Code\Utilities\bin\x86\Debug\office.xml
+E:\PROJECTS\TP\Soft\QLTK\BMS Inventory Code\Utilities\obj\x86\Debug\Utilities.csprojResolveAssemblyReference.cache
+E:\PROJECTS\TP\Soft\QLTK\BMS Inventory Code\Utilities\obj\x86\Debug\BMS.frmCshLoading.resources
+E:\PROJECTS\TP\Soft\QLTK\BMS Inventory Code\Utilities\obj\x86\Debug\BMS.frmGenSelect.resources
+E:\PROJECTS\TP\Soft\QLTK\BMS Inventory Code\Utilities\obj\x86\Debug\BMS.ShowProcessBar.resources
+E:\PROJECTS\TP\Soft\QLTK\BMS Inventory Code\Utilities\obj\x86\Debug\Utilities.Properties.Resources.resources
+E:\PROJECTS\TP\Soft\QLTK\BMS Inventory Code\Utilities\obj\x86\Debug\Utilities.csproj.GenerateResource.Cache
+E:\PROJECTS\TP\Soft\QLTK\BMS Inventory Code\Utilities\obj\x86\Debug\Utilities.dll
+E:\PROJECTS\TP\Soft\QLTK\BMS Inventory Code\Utilities\obj\x86\Debug\Utilities.pdb
+E:\PROJECTS\TanPhat\Soft\QLTK\BMS Inventory Code\Utilities\bin\x86\Debug\Utilities.dll
+E:\PROJECTS\TanPhat\Soft\QLTK\BMS Inventory Code\Utilities\bin\x86\Debug\Utilities.pdb
+E:\PROJECTS\TanPhat\Soft\QLTK\BMS Inventory Code\Utilities\bin\x86\Debug\ICSharpCode.SharpZipLib.dll
+E:\PROJECTS\TanPhat\Soft\QLTK\BMS Inventory Code\Utilities\bin\x86\Debug\Interop.Microsoft.Office.Core.dll
+E:\PROJECTS\TanPhat\Soft\QLTK\BMS Inventory Code\Utilities\bin\x86\Debug\itextsharp.dll
+E:\PROJECTS\TanPhat\Soft\QLTK\BMS Inventory Code\Utilities\bin\x86\Debug\TPABusiness.dll
+E:\PROJECTS\TanPhat\Soft\QLTK\BMS Inventory Code\Utilities\bin\x86\Debug\TpaInvClass.dll
+E:\PROJECTS\TanPhat\Soft\QLTK\BMS Inventory Code\Utilities\bin\x86\Debug\TPABusiness.pdb
+E:\PROJECTS\TanPhat\Soft\QLTK\BMS Inventory Code\Utilities\obj\x86\Debug\Utilities.csprojResolveAssemblyReference.cache
+E:\PROJECTS\TanPhat\Soft\QLTK\BMS Inventory Code\Utilities\obj\x86\Debug\BMS.frmCshLoading.resources
+E:\PROJECTS\TanPhat\Soft\QLTK\BMS Inventory Code\Utilities\obj\x86\Debug\BMS.frmGenSelect.resources
+E:\PROJECTS\TanPhat\Soft\QLTK\BMS Inventory Code\Utilities\obj\x86\Debug\BMS.ShowProcessBar.resources
+E:\PROJECTS\TanPhat\Soft\QLTK\BMS Inventory Code\Utilities\obj\x86\Debug\Utilities.Properties.Resources.resources
+E:\PROJECTS\TanPhat\Soft\QLTK\BMS Inventory Code\Utilities\obj\x86\Debug\Utilities.csproj.GenerateResource.Cache
+E:\PROJECTS\TanPhat\Soft\QLTK\BMS Inventory Code\Utilities\obj\x86\Debug\Utilities.dll
+E:\PROJECTS\TanPhat\Soft\QLTK\BMS Inventory Code\Utilities\obj\x86\Debug\Utilities.pdb
+D:\TanPhat\QLTK\BMS Inventory Code\Utilities\bin\x86\Debug\Utilities.dll
+D:\TanPhat\QLTK\BMS Inventory Code\Utilities\bin\x86\Debug\Utilities.pdb
+D:\TanPhat\QLTK\BMS Inventory Code\Utilities\bin\x86\Debug\ICSharpCode.SharpZipLib.dll
+D:\TanPhat\QLTK\BMS Inventory Code\Utilities\bin\x86\Debug\Interop.Microsoft.Office.Core.dll
+D:\TanPhat\QLTK\BMS Inventory Code\Utilities\bin\x86\Debug\itextsharp.dll
+D:\TanPhat\QLTK\BMS Inventory Code\Utilities\bin\x86\Debug\TPABusiness.dll
+D:\TanPhat\QLTK\BMS Inventory Code\Utilities\bin\x86\Debug\TpaInvClass.dll
+D:\TanPhat\QLTK\BMS Inventory Code\Utilities\bin\x86\Debug\TPABusiness.pdb
+D:\TanPhat\QLTK\BMS Inventory Code\Utilities\obj\x86\Debug\Utilities.csprojResolveAssemblyReference.cache
+D:\TanPhat\QLTK\BMS Inventory Code\Utilities\obj\x86\Debug\BMS.frmCshLoading.resources
+D:\TanPhat\QLTK\BMS Inventory Code\Utilities\obj\x86\Debug\BMS.frmGenSelect.resources
+D:\TanPhat\QLTK\BMS Inventory Code\Utilities\obj\x86\Debug\BMS.ShowProcessBar.resources
+D:\TanPhat\QLTK\BMS Inventory Code\Utilities\obj\x86\Debug\Utilities.Properties.Resources.resources
+D:\TanPhat\QLTK\BMS Inventory Code\Utilities\obj\x86\Debug\Utilities.csproj.GenerateResource.Cache
+D:\TanPhat\QLTK\BMS Inventory Code\Utilities\obj\x86\Debug\Utilities.dll
+D:\TanPhat\QLTK\BMS Inventory Code\Utilities\obj\x86\Debug\Utilities.pdb
+D:\DuAn\Socket\BMS Inventory Code\Utilities\obj\x86\Debug\Utilities.csprojResolveAssemblyReference.cache
+D:\DuAn\Socket\BMS Inventory Code\Utilities\obj\x86\Debug\BMS.frmCshLoading.resources
+D:\DuAn\Socket\BMS Inventory Code\Utilities\obj\x86\Debug\BMS.frmGenSelect.resources
+D:\DuAn\Socket\BMS Inventory Code\Utilities\obj\x86\Debug\BMS.ShowProcessBar.resources
+D:\DuAn\Socket\BMS Inventory Code\Utilities\obj\x86\Debug\Utilities.Properties.Resources.resources
+D:\DuAn\Socket\BMS Inventory Code\Utilities\obj\x86\Debug\Utilities.csproj.GenerateResource.Cache
+D:\DuAn\Socket\BMS Inventory Code\Utilities\bin\x86\Debug\Utilities.dll
+D:\DuAn\Socket\BMS Inventory Code\Utilities\bin\x86\Debug\Utilities.pdb
+D:\DuAn\Socket\BMS Inventory Code\Utilities\bin\x86\Debug\ICSharpCode.SharpZipLib.dll
+D:\DuAn\Socket\BMS Inventory Code\Utilities\bin\x86\Debug\Interop.Microsoft.Office.Core.dll
+D:\DuAn\Socket\BMS Inventory Code\Utilities\bin\x86\Debug\itextsharp.dll
+D:\DuAn\Socket\BMS Inventory Code\Utilities\bin\x86\Debug\TpaInvClass.dll
+D:\DuAn\Socket\BMS Inventory Code\Utilities\obj\x86\Debug\Utilities.dll
+D:\DuAn\Socket\BMS Inventory Code\Utilities\obj\x86\Debug\Utilities.pdb
+D:\TanPhat\Car Parking\Init Project\BMS Inventory Code\Utilities\bin\x86\Debug\Utilities.dll
+D:\TanPhat\Car Parking\Init Project\BMS Inventory Code\Utilities\bin\x86\Debug\Utilities.pdb
+D:\TanPhat\Car Parking\Init Project\BMS Inventory Code\Utilities\bin\x86\Debug\ICSharpCode.SharpZipLib.dll
+D:\TanPhat\Car Parking\Init Project\BMS Inventory Code\Utilities\bin\x86\Debug\itextsharp.dll
+D:\TanPhat\Car Parking\Init Project\BMS Inventory Code\Utilities\bin\x86\Debug\TpaInvClass.dll
+D:\TanPhat\Car Parking\Init Project\BMS Inventory Code\Utilities\obj\x86\Debug\Utilities.csprojResolveAssemblyReference.cache
+D:\TanPhat\Car Parking\Init Project\BMS Inventory Code\Utilities\obj\x86\Debug\BMS.frmCshLoading.resources
+D:\TanPhat\Car Parking\Init Project\BMS Inventory Code\Utilities\obj\x86\Debug\BMS.frmGenSelect.resources
+D:\TanPhat\Car Parking\Init Project\BMS Inventory Code\Utilities\obj\x86\Debug\BMS.ShowProcessBar.resources
+D:\TanPhat\Car Parking\Init Project\BMS Inventory Code\Utilities\obj\x86\Debug\Utilities.Properties.Resources.resources
+D:\TanPhat\Car Parking\Init Project\BMS Inventory Code\Utilities\obj\x86\Debug\Utilities.csproj.GenerateResource.Cache
+D:\TanPhat\Car Parking\Init Project\BMS Inventory Code\Utilities\obj\x86\Debug\Utilities.dll
+D:\TanPhat\Car Parking\Init Project\BMS Inventory Code\Utilities\obj\x86\Debug\Utilities.pdb
+D:\TanPhat\Car Parking\Init Project\BMS Inventory Code\Utilities\bin\x86\Debug\SimpleLPR2.dll
+D:\TanPhat\Car Parking\Init Project\BMS Inventory Code\Utilities\bin\x86\Debug\VLC_VideoPlay.dll
+D:\TanPhat\Car Parking\Init Project\BMS Inventory Code\Utilities\bin\x86\Debug\VLC_VideoPlay.pdb
+D:\TanPhat\Car Parking\Init Project\BMS Inventory Code\Utilities\bin\x86\Debug\nVLC.Declarations.dll
+D:\TanPhat\Car Parking\Init Project\BMS Inventory Code\Utilities\bin\x86\Debug\nVLC.Implementation.dll
+D:\TanPhat\Car Parking\Init Project\BMS Inventory Code\Utilities\bin\x86\Debug\nVLC.LibVlcWrapper.dll
+D:\TanPhat\Car Parking\Init Project\BMS Inventory Code\Utilities\bin\x86\Debug\NLog.dll
+D:\TanPhat\Car Parking\Init Project\BMS Inventory Code\Utilities\bin\x86\Debug\TPA.Serial Interface.dll
+G:\NVTHAO\RTC\BMS Inventory Code\Utilities\obj\x86\Debug\Utilities.csprojAssemblyReference.cache
+G:\NVTHAO\RTC\BMS Inventory Code\Utilities\obj\x86\Debug\BMS.frmCshLoading.resources
+G:\NVTHAO\RTC\BMS Inventory Code\Utilities\obj\x86\Debug\BMS.frmGenSelect.resources
+G:\NVTHAO\RTC\BMS Inventory Code\Utilities\obj\x86\Debug\BMS.ShowProcessBar.resources
+G:\NVTHAO\RTC\BMS Inventory Code\Utilities\obj\x86\Debug\Utilities.Properties.Resources.resources
+G:\NVTHAO\RTC\BMS Inventory Code\Utilities\obj\x86\Debug\Utilities.csproj.GenerateResource.cache
+G:\NVTHAO\RTC\BMS Inventory Code\Utilities\obj\x86\Debug\Utilities.csproj.CoreCompileInputs.cache
+G:\NVTHAO\RTC\BMS Inventory Code\Utilities\obj\x86\Debug\Utilities.dll
+G:\NVTHAO\RTC\BMS Inventory Code\Utilities\obj\x86\Debug\Utilities.pdb
+G:\NVTHAO\RTC\BMS Inventory Code\Utilities\bin\x86\Debug\Utilities.dll
+G:\NVTHAO\RTC\BMS Inventory Code\Utilities\bin\x86\Debug\Utilities.pdb
+G:\NVTHAO\RTC\BMS Inventory Code\Utilities\bin\x86\Debug\DevExpress.Data.v13.2.dll
+G:\NVTHAO\RTC\BMS Inventory Code\Utilities\bin\x86\Debug\DevExpress.Printing.v13.2.Core.dll
+G:\NVTHAO\RTC\BMS Inventory Code\Utilities\bin\x86\Debug\DevExpress.Utils.v13.2.dll
+G:\NVTHAO\RTC\BMS Inventory Code\Utilities\bin\x86\Debug\DevExpress.XtraEditors.v13.2.dll
+G:\NVTHAO\RTC\BMS Inventory Code\Utilities\bin\x86\Debug\DevExpress.XtraGrid.v13.2.dll
+G:\NVTHAO\RTC\BMS Inventory Code\Utilities\bin\x86\Debug\DevExpress.XtraPrinting.v13.2.dll
+G:\NVTHAO\RTC\BMS Inventory Code\Utilities\bin\x86\Debug\ICSharpCode.SharpZipLib.dll
+G:\NVTHAO\RTC\BMS Inventory Code\Utilities\bin\x86\Debug\itextsharp.dll
+G:\NVTHAO\RTC\BMS Inventory Code\Utilities\bin\x86\Debug\TPA.Serial Interface.dll
+G:\NVTHAO\RTC\BMS Inventory Code\Utilities\bin\x86\Debug\DevExpress.Printing.v13.2.Core.xml
+G:\NVTHAO\RTC\BMS Inventory Code\Utilities\bin\x86\Debug\DevExpress.Data.v13.2.xml
+G:\NVTHAO\RTC\BMS Inventory Code\Utilities\bin\x86\Debug\DevExpress.Utils.v13.2.xml
+G:\NVTHAO\RTC\BMS Inventory Code\Utilities\bin\x86\Debug\DevExpress.XtraEditors.v13.2.xml
+G:\NVTHAO\RTC\BMS Inventory Code\Utilities\bin\x86\Debug\DevExpress.XtraPrinting.v13.2.xml
+G:\NVTHAO\RTC\BMS Inventory Code\Utilities\bin\x86\Debug\DevExpress.XtraGrid.v13.2.xml
+G:\NVTHAO\RTC\BMS Inventory Code\Utilities\bin\x86\Debug\de\DevExpress.Printing.v13.2.Core.resources.dll
+G:\NVTHAO\RTC\BMS Inventory Code\Utilities\bin\x86\Debug\es\DevExpress.Printing.v13.2.Core.resources.dll
+G:\NVTHAO\RTC\BMS Inventory Code\Utilities\bin\x86\Debug\ja\DevExpress.Printing.v13.2.Core.resources.dll
+G:\NVTHAO\RTC\BMS Inventory Code\Utilities\bin\x86\Debug\ru\DevExpress.Printing.v13.2.Core.resources.dll
+G:\NVTHAO\RTC\BMS Inventory Code\Utilities\bin\x86\Debug\de\DevExpress.Data.v13.2.resources.dll
+G:\NVTHAO\RTC\BMS Inventory Code\Utilities\bin\x86\Debug\es\DevExpress.Data.v13.2.resources.dll
+G:\NVTHAO\RTC\BMS Inventory Code\Utilities\bin\x86\Debug\ja\DevExpress.Data.v13.2.resources.dll
+G:\NVTHAO\RTC\BMS Inventory Code\Utilities\bin\x86\Debug\ru\DevExpress.Data.v13.2.resources.dll
+G:\NVTHAO\RTC\BMS Inventory Code\Utilities\bin\x86\Debug\de\DevExpress.Utils.v13.2.resources.dll
+G:\NVTHAO\RTC\BMS Inventory Code\Utilities\bin\x86\Debug\es\DevExpress.Utils.v13.2.resources.dll
+G:\NVTHAO\RTC\BMS Inventory Code\Utilities\bin\x86\Debug\ja\DevExpress.Utils.v13.2.resources.dll
+G:\NVTHAO\RTC\BMS Inventory Code\Utilities\bin\x86\Debug\ru\DevExpress.Utils.v13.2.resources.dll
+G:\NVTHAO\RTC\BMS Inventory Code\Utilities\bin\x86\Debug\de\DevExpress.XtraEditors.v13.2.resources.dll
+G:\NVTHAO\RTC\BMS Inventory Code\Utilities\bin\x86\Debug\es\DevExpress.XtraEditors.v13.2.resources.dll
+G:\NVTHAO\RTC\BMS Inventory Code\Utilities\bin\x86\Debug\ja\DevExpress.XtraEditors.v13.2.resources.dll
+G:\NVTHAO\RTC\BMS Inventory Code\Utilities\bin\x86\Debug\ru\DevExpress.XtraEditors.v13.2.resources.dll
+G:\NVTHAO\RTC\BMS Inventory Code\Utilities\bin\x86\Debug\de\DevExpress.XtraPrinting.v13.2.resources.dll
+G:\NVTHAO\RTC\BMS Inventory Code\Utilities\bin\x86\Debug\es\DevExpress.XtraPrinting.v13.2.resources.dll
+G:\NVTHAO\RTC\BMS Inventory Code\Utilities\bin\x86\Debug\ja\DevExpress.XtraPrinting.v13.2.resources.dll
+G:\NVTHAO\RTC\BMS Inventory Code\Utilities\bin\x86\Debug\ru\DevExpress.XtraPrinting.v13.2.resources.dll
+G:\NVTHAO\RTC\BMS Inventory Code\Utilities\bin\x86\Debug\de\DevExpress.XtraGrid.v13.2.resources.dll
+G:\NVTHAO\RTC\BMS Inventory Code\Utilities\bin\x86\Debug\es\DevExpress.XtraGrid.v13.2.resources.dll
+G:\NVTHAO\RTC\BMS Inventory Code\Utilities\bin\x86\Debug\ja\DevExpress.XtraGrid.v13.2.resources.dll
+G:\NVTHAO\RTC\BMS Inventory Code\Utilities\bin\x86\Debug\ru\DevExpress.XtraGrid.v13.2.resources.dll
+G:\NVTHAO\RTC\BMS Inventory Code\Utilities\obj\x86\Debug\Utilities.csproj.CopyComplete
+G:\NVTHAO\Sumitomo\PM\Utilities\bin\x86\Debug\Utilities.dll
+G:\NVTHAO\Sumitomo\PM\Utilities\bin\x86\Debug\Utilities.pdb
+G:\NVTHAO\Sumitomo\PM\Utilities\bin\x86\Debug\DevExpress.Data.v13.2.dll
+G:\NVTHAO\Sumitomo\PM\Utilities\bin\x86\Debug\DevExpress.Printing.v13.2.Core.dll
+G:\NVTHAO\Sumitomo\PM\Utilities\bin\x86\Debug\DevExpress.Utils.v13.2.dll
+G:\NVTHAO\Sumitomo\PM\Utilities\bin\x86\Debug\DevExpress.XtraEditors.v13.2.dll
+G:\NVTHAO\Sumitomo\PM\Utilities\bin\x86\Debug\DevExpress.XtraGrid.v13.2.dll
+G:\NVTHAO\Sumitomo\PM\Utilities\bin\x86\Debug\DevExpress.XtraPrinting.v13.2.dll
+G:\NVTHAO\Sumitomo\PM\Utilities\bin\x86\Debug\ICSharpCode.SharpZipLib.dll
+G:\NVTHAO\Sumitomo\PM\Utilities\bin\x86\Debug\itextsharp.dll
+G:\NVTHAO\Sumitomo\PM\Utilities\bin\x86\Debug\TPA.Serial Interface.dll
+G:\NVTHAO\Sumitomo\PM\Utilities\bin\x86\Debug\DevExpress.Printing.v13.2.Core.xml
+G:\NVTHAO\Sumitomo\PM\Utilities\bin\x86\Debug\DevExpress.Data.v13.2.xml
+G:\NVTHAO\Sumitomo\PM\Utilities\bin\x86\Debug\DevExpress.Utils.v13.2.xml
+G:\NVTHAO\Sumitomo\PM\Utilities\bin\x86\Debug\DevExpress.XtraEditors.v13.2.xml
+G:\NVTHAO\Sumitomo\PM\Utilities\bin\x86\Debug\DevExpress.XtraPrinting.v13.2.xml
+G:\NVTHAO\Sumitomo\PM\Utilities\bin\x86\Debug\DevExpress.XtraGrid.v13.2.xml
+G:\NVTHAO\Sumitomo\PM\Utilities\bin\x86\Debug\de\DevExpress.Printing.v13.2.Core.resources.dll
+G:\NVTHAO\Sumitomo\PM\Utilities\bin\x86\Debug\es\DevExpress.Printing.v13.2.Core.resources.dll
+G:\NVTHAO\Sumitomo\PM\Utilities\bin\x86\Debug\ja\DevExpress.Printing.v13.2.Core.resources.dll
+G:\NVTHAO\Sumitomo\PM\Utilities\bin\x86\Debug\ru\DevExpress.Printing.v13.2.Core.resources.dll
+G:\NVTHAO\Sumitomo\PM\Utilities\bin\x86\Debug\de\DevExpress.Data.v13.2.resources.dll
+G:\NVTHAO\Sumitomo\PM\Utilities\bin\x86\Debug\es\DevExpress.Data.v13.2.resources.dll
+G:\NVTHAO\Sumitomo\PM\Utilities\bin\x86\Debug\ja\DevExpress.Data.v13.2.resources.dll
+G:\NVTHAO\Sumitomo\PM\Utilities\bin\x86\Debug\ru\DevExpress.Data.v13.2.resources.dll
+G:\NVTHAO\Sumitomo\PM\Utilities\bin\x86\Debug\de\DevExpress.Utils.v13.2.resources.dll
+G:\NVTHAO\Sumitomo\PM\Utilities\bin\x86\Debug\es\DevExpress.Utils.v13.2.resources.dll
+G:\NVTHAO\Sumitomo\PM\Utilities\bin\x86\Debug\ja\DevExpress.Utils.v13.2.resources.dll
+G:\NVTHAO\Sumitomo\PM\Utilities\bin\x86\Debug\ru\DevExpress.Utils.v13.2.resources.dll
+G:\NVTHAO\Sumitomo\PM\Utilities\bin\x86\Debug\de\DevExpress.XtraEditors.v13.2.resources.dll
+G:\NVTHAO\Sumitomo\PM\Utilities\bin\x86\Debug\es\DevExpress.XtraEditors.v13.2.resources.dll
+G:\NVTHAO\Sumitomo\PM\Utilities\bin\x86\Debug\ja\DevExpress.XtraEditors.v13.2.resources.dll
+G:\NVTHAO\Sumitomo\PM\Utilities\bin\x86\Debug\ru\DevExpress.XtraEditors.v13.2.resources.dll
+G:\NVTHAO\Sumitomo\PM\Utilities\bin\x86\Debug\de\DevExpress.XtraPrinting.v13.2.resources.dll
+G:\NVTHAO\Sumitomo\PM\Utilities\bin\x86\Debug\es\DevExpress.XtraPrinting.v13.2.resources.dll
+G:\NVTHAO\Sumitomo\PM\Utilities\bin\x86\Debug\ja\DevExpress.XtraPrinting.v13.2.resources.dll
+G:\NVTHAO\Sumitomo\PM\Utilities\bin\x86\Debug\ru\DevExpress.XtraPrinting.v13.2.resources.dll
+G:\NVTHAO\Sumitomo\PM\Utilities\bin\x86\Debug\de\DevExpress.XtraGrid.v13.2.resources.dll
+G:\NVTHAO\Sumitomo\PM\Utilities\bin\x86\Debug\es\DevExpress.XtraGrid.v13.2.resources.dll
+G:\NVTHAO\Sumitomo\PM\Utilities\bin\x86\Debug\ja\DevExpress.XtraGrid.v13.2.resources.dll
+G:\NVTHAO\Sumitomo\PM\Utilities\bin\x86\Debug\ru\DevExpress.XtraGrid.v13.2.resources.dll
+G:\NVTHAO\Sumitomo\PM\Utilities\obj\x86\Debug\Utilities.csprojAssemblyReference.cache
+G:\NVTHAO\Sumitomo\PM\Utilities\obj\x86\Debug\BMS.frmCshLoading.resources
+G:\NVTHAO\Sumitomo\PM\Utilities\obj\x86\Debug\BMS.frmGenSelect.resources
+G:\NVTHAO\Sumitomo\PM\Utilities\obj\x86\Debug\BMS.ShowProcessBar.resources
+G:\NVTHAO\Sumitomo\PM\Utilities\obj\x86\Debug\Utilities.Properties.Resources.resources
+G:\NVTHAO\Sumitomo\PM\Utilities\obj\x86\Debug\Utilities.csproj.GenerateResource.cache
+G:\NVTHAO\Sumitomo\PM\Utilities\obj\x86\Debug\Utilities.csproj.CoreCompileInputs.cache
+G:\NVTHAO\Sumitomo\PM\Utilities\obj\x86\Debug\Utilities.csproj.CopyComplete
+G:\NVTHAO\Sumitomo\PM\Utilities\obj\x86\Debug\Utilities.dll
+G:\NVTHAO\Sumitomo\PM\Utilities\obj\x86\Debug\Utilities.pdb
+F:\TECHNICAL\NVTHAO\Sumitomo\PM\Utilities\bin\x86\Debug\Utilities.dll
+F:\TECHNICAL\NVTHAO\Sumitomo\PM\Utilities\bin\x86\Debug\Utilities.pdb
+F:\TECHNICAL\NVTHAO\Sumitomo\PM\Utilities\bin\x86\Debug\DevExpress.Data.v13.2.dll
+F:\TECHNICAL\NVTHAO\Sumitomo\PM\Utilities\bin\x86\Debug\DevExpress.Printing.v13.2.Core.dll
+F:\TECHNICAL\NVTHAO\Sumitomo\PM\Utilities\bin\x86\Debug\DevExpress.Utils.v13.2.dll
+F:\TECHNICAL\NVTHAO\Sumitomo\PM\Utilities\bin\x86\Debug\DevExpress.XtraEditors.v13.2.dll
+F:\TECHNICAL\NVTHAO\Sumitomo\PM\Utilities\bin\x86\Debug\DevExpress.XtraGrid.v13.2.dll
+F:\TECHNICAL\NVTHAO\Sumitomo\PM\Utilities\bin\x86\Debug\DevExpress.XtraPrinting.v13.2.dll
+F:\TECHNICAL\NVTHAO\Sumitomo\PM\Utilities\bin\x86\Debug\ICSharpCode.SharpZipLib.dll
+F:\TECHNICAL\NVTHAO\Sumitomo\PM\Utilities\bin\x86\Debug\itextsharp.dll
+F:\TECHNICAL\NVTHAO\Sumitomo\PM\Utilities\bin\x86\Debug\TPA.Serial Interface.dll
+F:\TECHNICAL\NVTHAO\Sumitomo\PM\Utilities\bin\x86\Debug\DevExpress.Printing.v13.2.Core.xml
+F:\TECHNICAL\NVTHAO\Sumitomo\PM\Utilities\bin\x86\Debug\DevExpress.Data.v13.2.xml
+F:\TECHNICAL\NVTHAO\Sumitomo\PM\Utilities\bin\x86\Debug\DevExpress.Utils.v13.2.xml
+F:\TECHNICAL\NVTHAO\Sumitomo\PM\Utilities\bin\x86\Debug\DevExpress.XtraEditors.v13.2.xml
+F:\TECHNICAL\NVTHAO\Sumitomo\PM\Utilities\bin\x86\Debug\DevExpress.XtraPrinting.v13.2.xml
+F:\TECHNICAL\NVTHAO\Sumitomo\PM\Utilities\bin\x86\Debug\DevExpress.XtraGrid.v13.2.xml
+F:\TECHNICAL\NVTHAO\Sumitomo\PM\Utilities\bin\x86\Debug\de\DevExpress.Printing.v13.2.Core.resources.dll
+F:\TECHNICAL\NVTHAO\Sumitomo\PM\Utilities\bin\x86\Debug\es\DevExpress.Printing.v13.2.Core.resources.dll
+F:\TECHNICAL\NVTHAO\Sumitomo\PM\Utilities\bin\x86\Debug\ja\DevExpress.Printing.v13.2.Core.resources.dll
+F:\TECHNICAL\NVTHAO\Sumitomo\PM\Utilities\bin\x86\Debug\ru\DevExpress.Printing.v13.2.Core.resources.dll
+F:\TECHNICAL\NVTHAO\Sumitomo\PM\Utilities\bin\x86\Debug\de\DevExpress.Data.v13.2.resources.dll
+F:\TECHNICAL\NVTHAO\Sumitomo\PM\Utilities\bin\x86\Debug\es\DevExpress.Data.v13.2.resources.dll
+F:\TECHNICAL\NVTHAO\Sumitomo\PM\Utilities\bin\x86\Debug\ja\DevExpress.Data.v13.2.resources.dll
+F:\TECHNICAL\NVTHAO\Sumitomo\PM\Utilities\bin\x86\Debug\ru\DevExpress.Data.v13.2.resources.dll
+F:\TECHNICAL\NVTHAO\Sumitomo\PM\Utilities\bin\x86\Debug\de\DevExpress.Utils.v13.2.resources.dll
+F:\TECHNICAL\NVTHAO\Sumitomo\PM\Utilities\bin\x86\Debug\es\DevExpress.Utils.v13.2.resources.dll
+F:\TECHNICAL\NVTHAO\Sumitomo\PM\Utilities\bin\x86\Debug\ja\DevExpress.Utils.v13.2.resources.dll
+F:\TECHNICAL\NVTHAO\Sumitomo\PM\Utilities\bin\x86\Debug\ru\DevExpress.Utils.v13.2.resources.dll
+F:\TECHNICAL\NVTHAO\Sumitomo\PM\Utilities\bin\x86\Debug\de\DevExpress.XtraEditors.v13.2.resources.dll
+F:\TECHNICAL\NVTHAO\Sumitomo\PM\Utilities\bin\x86\Debug\es\DevExpress.XtraEditors.v13.2.resources.dll
+F:\TECHNICAL\NVTHAO\Sumitomo\PM\Utilities\bin\x86\Debug\ja\DevExpress.XtraEditors.v13.2.resources.dll
+F:\TECHNICAL\NVTHAO\Sumitomo\PM\Utilities\bin\x86\Debug\ru\DevExpress.XtraEditors.v13.2.resources.dll
+F:\TECHNICAL\NVTHAO\Sumitomo\PM\Utilities\bin\x86\Debug\de\DevExpress.XtraPrinting.v13.2.resources.dll
+F:\TECHNICAL\NVTHAO\Sumitomo\PM\Utilities\bin\x86\Debug\es\DevExpress.XtraPrinting.v13.2.resources.dll
+F:\TECHNICAL\NVTHAO\Sumitomo\PM\Utilities\bin\x86\Debug\ja\DevExpress.XtraPrinting.v13.2.resources.dll
+F:\TECHNICAL\NVTHAO\Sumitomo\PM\Utilities\bin\x86\Debug\ru\DevExpress.XtraPrinting.v13.2.resources.dll
+F:\TECHNICAL\NVTHAO\Sumitomo\PM\Utilities\bin\x86\Debug\de\DevExpress.XtraGrid.v13.2.resources.dll
+F:\TECHNICAL\NVTHAO\Sumitomo\PM\Utilities\bin\x86\Debug\es\DevExpress.XtraGrid.v13.2.resources.dll
+F:\TECHNICAL\NVTHAO\Sumitomo\PM\Utilities\bin\x86\Debug\ja\DevExpress.XtraGrid.v13.2.resources.dll
+F:\TECHNICAL\NVTHAO\Sumitomo\PM\Utilities\bin\x86\Debug\ru\DevExpress.XtraGrid.v13.2.resources.dll
+F:\TECHNICAL\NVTHAO\Sumitomo\PM\Utilities\obj\x86\Debug\Utilities.csprojAssemblyReference.cache
+F:\TECHNICAL\NVTHAO\Sumitomo\PM\Utilities\obj\x86\Debug\BMS.frmCshLoading.resources
+F:\TECHNICAL\NVTHAO\Sumitomo\PM\Utilities\obj\x86\Debug\BMS.frmGenSelect.resources
+F:\TECHNICAL\NVTHAO\Sumitomo\PM\Utilities\obj\x86\Debug\BMS.ShowProcessBar.resources
+F:\TECHNICAL\NVTHAO\Sumitomo\PM\Utilities\obj\x86\Debug\Utilities.Properties.Resources.resources
+F:\TECHNICAL\NVTHAO\Sumitomo\PM\Utilities\obj\x86\Debug\Utilities.csproj.GenerateResource.cache
+F:\TECHNICAL\NVTHAO\Sumitomo\PM\Utilities\obj\x86\Debug\Utilities.csproj.CoreCompileInputs.cache
+F:\TECHNICAL\NVTHAO\Sumitomo\PM\Utilities\obj\x86\Debug\Utilities.csproj.CopyComplete
+F:\TECHNICAL\NVTHAO\Sumitomo\PM\Utilities\obj\x86\Debug\Utilities.dll
+F:\TECHNICAL\NVTHAO\Sumitomo\PM\Utilities\obj\x86\Debug\Utilities.pdb
+F:\TECHNICAL\NVTHAO\Sumitomo\PM.Line\Utilities\bin\x86\Debug\Utilities.dll
+F:\TECHNICAL\NVTHAO\Sumitomo\PM.Line\Utilities\bin\x86\Debug\Utilities.pdb
+F:\TECHNICAL\NVTHAO\Sumitomo\PM.Line\Utilities\bin\x86\Debug\DevExpress.Data.v13.2.dll
+F:\TECHNICAL\NVTHAO\Sumitomo\PM.Line\Utilities\bin\x86\Debug\DevExpress.Printing.v13.2.Core.dll
+F:\TECHNICAL\NVTHAO\Sumitomo\PM.Line\Utilities\bin\x86\Debug\DevExpress.Utils.v13.2.dll
+F:\TECHNICAL\NVTHAO\Sumitomo\PM.Line\Utilities\bin\x86\Debug\DevExpress.XtraEditors.v13.2.dll
+F:\TECHNICAL\NVTHAO\Sumitomo\PM.Line\Utilities\bin\x86\Debug\DevExpress.XtraGrid.v13.2.dll
+F:\TECHNICAL\NVTHAO\Sumitomo\PM.Line\Utilities\bin\x86\Debug\DevExpress.XtraPrinting.v13.2.dll
+F:\TECHNICAL\NVTHAO\Sumitomo\PM.Line\Utilities\bin\x86\Debug\ICSharpCode.SharpZipLib.dll
+F:\TECHNICAL\NVTHAO\Sumitomo\PM.Line\Utilities\bin\x86\Debug\itextsharp.dll
+F:\TECHNICAL\NVTHAO\Sumitomo\PM.Line\Utilities\bin\x86\Debug\TPA.Serial Interface.dll
+F:\TECHNICAL\NVTHAO\Sumitomo\PM.Line\Utilities\bin\x86\Debug\DevExpress.Printing.v13.2.Core.xml
+F:\TECHNICAL\NVTHAO\Sumitomo\PM.Line\Utilities\bin\x86\Debug\DevExpress.Data.v13.2.xml
+F:\TECHNICAL\NVTHAO\Sumitomo\PM.Line\Utilities\bin\x86\Debug\DevExpress.Utils.v13.2.xml
+F:\TECHNICAL\NVTHAO\Sumitomo\PM.Line\Utilities\bin\x86\Debug\DevExpress.XtraEditors.v13.2.xml
+F:\TECHNICAL\NVTHAO\Sumitomo\PM.Line\Utilities\bin\x86\Debug\DevExpress.XtraPrinting.v13.2.xml
+F:\TECHNICAL\NVTHAO\Sumitomo\PM.Line\Utilities\bin\x86\Debug\DevExpress.XtraGrid.v13.2.xml
+F:\TECHNICAL\NVTHAO\Sumitomo\PM.Line\Utilities\bin\x86\Debug\de\DevExpress.Printing.v13.2.Core.resources.dll
+F:\TECHNICAL\NVTHAO\Sumitomo\PM.Line\Utilities\bin\x86\Debug\es\DevExpress.Printing.v13.2.Core.resources.dll
+F:\TECHNICAL\NVTHAO\Sumitomo\PM.Line\Utilities\bin\x86\Debug\ja\DevExpress.Printing.v13.2.Core.resources.dll
+F:\TECHNICAL\NVTHAO\Sumitomo\PM.Line\Utilities\bin\x86\Debug\ru\DevExpress.Printing.v13.2.Core.resources.dll
+F:\TECHNICAL\NVTHAO\Sumitomo\PM.Line\Utilities\bin\x86\Debug\de\DevExpress.Data.v13.2.resources.dll
+F:\TECHNICAL\NVTHAO\Sumitomo\PM.Line\Utilities\bin\x86\Debug\es\DevExpress.Data.v13.2.resources.dll
+F:\TECHNICAL\NVTHAO\Sumitomo\PM.Line\Utilities\bin\x86\Debug\ja\DevExpress.Data.v13.2.resources.dll
+F:\TECHNICAL\NVTHAO\Sumitomo\PM.Line\Utilities\bin\x86\Debug\ru\DevExpress.Data.v13.2.resources.dll
+F:\TECHNICAL\NVTHAO\Sumitomo\PM.Line\Utilities\bin\x86\Debug\de\DevExpress.Utils.v13.2.resources.dll
+F:\TECHNICAL\NVTHAO\Sumitomo\PM.Line\Utilities\bin\x86\Debug\es\DevExpress.Utils.v13.2.resources.dll
+F:\TECHNICAL\NVTHAO\Sumitomo\PM.Line\Utilities\bin\x86\Debug\ja\DevExpress.Utils.v13.2.resources.dll
+F:\TECHNICAL\NVTHAO\Sumitomo\PM.Line\Utilities\bin\x86\Debug\ru\DevExpress.Utils.v13.2.resources.dll
+F:\TECHNICAL\NVTHAO\Sumitomo\PM.Line\Utilities\bin\x86\Debug\de\DevExpress.XtraEditors.v13.2.resources.dll
+F:\TECHNICAL\NVTHAO\Sumitomo\PM.Line\Utilities\bin\x86\Debug\es\DevExpress.XtraEditors.v13.2.resources.dll
+F:\TECHNICAL\NVTHAO\Sumitomo\PM.Line\Utilities\bin\x86\Debug\ja\DevExpress.XtraEditors.v13.2.resources.dll
+F:\TECHNICAL\NVTHAO\Sumitomo\PM.Line\Utilities\bin\x86\Debug\ru\DevExpress.XtraEditors.v13.2.resources.dll
+F:\TECHNICAL\NVTHAO\Sumitomo\PM.Line\Utilities\bin\x86\Debug\de\DevExpress.XtraPrinting.v13.2.resources.dll
+F:\TECHNICAL\NVTHAO\Sumitomo\PM.Line\Utilities\bin\x86\Debug\es\DevExpress.XtraPrinting.v13.2.resources.dll
+F:\TECHNICAL\NVTHAO\Sumitomo\PM.Line\Utilities\bin\x86\Debug\ja\DevExpress.XtraPrinting.v13.2.resources.dll
+F:\TECHNICAL\NVTHAO\Sumitomo\PM.Line\Utilities\bin\x86\Debug\ru\DevExpress.XtraPrinting.v13.2.resources.dll
+F:\TECHNICAL\NVTHAO\Sumitomo\PM.Line\Utilities\bin\x86\Debug\de\DevExpress.XtraGrid.v13.2.resources.dll
+F:\TECHNICAL\NVTHAO\Sumitomo\PM.Line\Utilities\bin\x86\Debug\es\DevExpress.XtraGrid.v13.2.resources.dll
+F:\TECHNICAL\NVTHAO\Sumitomo\PM.Line\Utilities\bin\x86\Debug\ja\DevExpress.XtraGrid.v13.2.resources.dll
+F:\TECHNICAL\NVTHAO\Sumitomo\PM.Line\Utilities\bin\x86\Debug\ru\DevExpress.XtraGrid.v13.2.resources.dll
+F:\TECHNICAL\NVTHAO\Sumitomo\PM.Line\Utilities\obj\x86\Debug\Utilities.csprojAssemblyReference.cache
+F:\TECHNICAL\NVTHAO\Sumitomo\PM.Line\Utilities\obj\x86\Debug\BMS.frmCshLoading.resources
+F:\TECHNICAL\NVTHAO\Sumitomo\PM.Line\Utilities\obj\x86\Debug\BMS.frmGenSelect.resources
+F:\TECHNICAL\NVTHAO\Sumitomo\PM.Line\Utilities\obj\x86\Debug\BMS.ShowProcessBar.resources
+F:\TECHNICAL\NVTHAO\Sumitomo\PM.Line\Utilities\obj\x86\Debug\Utilities.Properties.Resources.resources
+F:\TECHNICAL\NVTHAO\Sumitomo\PM.Line\Utilities\obj\x86\Debug\Utilities.csproj.GenerateResource.cache
+F:\TECHNICAL\NVTHAO\Sumitomo\PM.Line\Utilities\obj\x86\Debug\Utilities.csproj.CoreCompileInputs.cache
+F:\TECHNICAL\NVTHAO\Sumitomo\PM.Line\Utilities\obj\x86\Debug\Utilities.csproj.CopyComplete
+F:\TECHNICAL\NVTHAO\Sumitomo\PM.Line\Utilities\obj\x86\Debug\Utilities.dll
+F:\TECHNICAL\NVTHAO\Sumitomo\PM.Line\Utilities\obj\x86\Debug\Utilities.pdb
+D:\PROJECT\RTC\PM.Line\Utilities\bin\x86\Debug\Utilities.dll
+D:\PROJECT\RTC\PM.Line\Utilities\bin\x86\Debug\Utilities.pdb
+D:\PROJECT\RTC\PM.Line\Utilities\bin\x86\Debug\ICSharpCode.SharpZipLib.dll
+D:\PROJECT\RTC\PM.Line\Utilities\bin\x86\Debug\itextsharp.dll
+D:\PROJECT\RTC\PM.Line\Utilities\bin\x86\Debug\TPA.Serial Interface.dll
+D:\PROJECT\RTC\PM.Line\Utilities\obj\x86\Debug\Utilities.csprojResolveAssemblyReference.cache
+D:\PROJECT\RTC\PM.Line\Utilities\obj\x86\Debug\BMS.frmCshLoading.resources
+D:\PROJECT\RTC\PM.Line\Utilities\obj\x86\Debug\BMS.frmGenSelect.resources
+D:\PROJECT\RTC\PM.Line\Utilities\obj\x86\Debug\BMS.ShowProcessBar.resources
+D:\PROJECT\RTC\PM.Line\Utilities\obj\x86\Debug\Utilities.Properties.Resources.resources
+D:\PROJECT\RTC\PM.Line\Utilities\obj\x86\Debug\Utilities.csproj.GenerateResource.Cache
+D:\PROJECT\RTC\PM.Line\Utilities\obj\x86\Debug\Utilities.dll
+D:\PROJECT\RTC\PM.Line\Utilities\obj\x86\Debug\Utilities.pdb
+F:\TECHNICAL\NVTHAO\Sumitomo\New\Sumitomo\PM.Line\Utilities\bin\x86\Debug\Utilities.dll
+F:\TECHNICAL\NVTHAO\Sumitomo\New\Sumitomo\PM.Line\Utilities\bin\x86\Debug\Utilities.pdb
+F:\TECHNICAL\NVTHAO\Sumitomo\New\Sumitomo\PM.Line\Utilities\bin\x86\Debug\DevExpress.Data.v13.2.dll
+F:\TECHNICAL\NVTHAO\Sumitomo\New\Sumitomo\PM.Line\Utilities\bin\x86\Debug\DevExpress.Printing.v13.2.Core.dll
+F:\TECHNICAL\NVTHAO\Sumitomo\New\Sumitomo\PM.Line\Utilities\bin\x86\Debug\DevExpress.Utils.v13.2.dll
+F:\TECHNICAL\NVTHAO\Sumitomo\New\Sumitomo\PM.Line\Utilities\bin\x86\Debug\DevExpress.XtraEditors.v13.2.dll
+F:\TECHNICAL\NVTHAO\Sumitomo\New\Sumitomo\PM.Line\Utilities\bin\x86\Debug\DevExpress.XtraGrid.v13.2.dll
+F:\TECHNICAL\NVTHAO\Sumitomo\New\Sumitomo\PM.Line\Utilities\bin\x86\Debug\DevExpress.XtraPrinting.v13.2.dll
+F:\TECHNICAL\NVTHAO\Sumitomo\New\Sumitomo\PM.Line\Utilities\bin\x86\Debug\ICSharpCode.SharpZipLib.dll
+F:\TECHNICAL\NVTHAO\Sumitomo\New\Sumitomo\PM.Line\Utilities\bin\x86\Debug\itextsharp.dll
+F:\TECHNICAL\NVTHAO\Sumitomo\New\Sumitomo\PM.Line\Utilities\bin\x86\Debug\TPA.Serial Interface.dll
+F:\TECHNICAL\NVTHAO\Sumitomo\New\Sumitomo\PM.Line\Utilities\bin\x86\Debug\DevExpress.Printing.v13.2.Core.xml
+F:\TECHNICAL\NVTHAO\Sumitomo\New\Sumitomo\PM.Line\Utilities\bin\x86\Debug\DevExpress.Data.v13.2.xml
+F:\TECHNICAL\NVTHAO\Sumitomo\New\Sumitomo\PM.Line\Utilities\bin\x86\Debug\DevExpress.Utils.v13.2.xml
+F:\TECHNICAL\NVTHAO\Sumitomo\New\Sumitomo\PM.Line\Utilities\bin\x86\Debug\DevExpress.XtraEditors.v13.2.xml
+F:\TECHNICAL\NVTHAO\Sumitomo\New\Sumitomo\PM.Line\Utilities\bin\x86\Debug\DevExpress.XtraPrinting.v13.2.xml
+F:\TECHNICAL\NVTHAO\Sumitomo\New\Sumitomo\PM.Line\Utilities\bin\x86\Debug\DevExpress.XtraGrid.v13.2.xml
+F:\TECHNICAL\NVTHAO\Sumitomo\New\Sumitomo\PM.Line\Utilities\bin\x86\Debug\de\DevExpress.Printing.v13.2.Core.resources.dll
+F:\TECHNICAL\NVTHAO\Sumitomo\New\Sumitomo\PM.Line\Utilities\bin\x86\Debug\es\DevExpress.Printing.v13.2.Core.resources.dll
+F:\TECHNICAL\NVTHAO\Sumitomo\New\Sumitomo\PM.Line\Utilities\bin\x86\Debug\ja\DevExpress.Printing.v13.2.Core.resources.dll
+F:\TECHNICAL\NVTHAO\Sumitomo\New\Sumitomo\PM.Line\Utilities\bin\x86\Debug\ru\DevExpress.Printing.v13.2.Core.resources.dll
+F:\TECHNICAL\NVTHAO\Sumitomo\New\Sumitomo\PM.Line\Utilities\bin\x86\Debug\de\DevExpress.Data.v13.2.resources.dll
+F:\TECHNICAL\NVTHAO\Sumitomo\New\Sumitomo\PM.Line\Utilities\bin\x86\Debug\es\DevExpress.Data.v13.2.resources.dll
+F:\TECHNICAL\NVTHAO\Sumitomo\New\Sumitomo\PM.Line\Utilities\bin\x86\Debug\ja\DevExpress.Data.v13.2.resources.dll
+F:\TECHNICAL\NVTHAO\Sumitomo\New\Sumitomo\PM.Line\Utilities\bin\x86\Debug\ru\DevExpress.Data.v13.2.resources.dll
+F:\TECHNICAL\NVTHAO\Sumitomo\New\Sumitomo\PM.Line\Utilities\bin\x86\Debug\de\DevExpress.Utils.v13.2.resources.dll
+F:\TECHNICAL\NVTHAO\Sumitomo\New\Sumitomo\PM.Line\Utilities\bin\x86\Debug\es\DevExpress.Utils.v13.2.resources.dll
+F:\TECHNICAL\NVTHAO\Sumitomo\New\Sumitomo\PM.Line\Utilities\bin\x86\Debug\ja\DevExpress.Utils.v13.2.resources.dll
+F:\TECHNICAL\NVTHAO\Sumitomo\New\Sumitomo\PM.Line\Utilities\bin\x86\Debug\ru\DevExpress.Utils.v13.2.resources.dll
+F:\TECHNICAL\NVTHAO\Sumitomo\New\Sumitomo\PM.Line\Utilities\bin\x86\Debug\de\DevExpress.XtraEditors.v13.2.resources.dll
+F:\TECHNICAL\NVTHAO\Sumitomo\New\Sumitomo\PM.Line\Utilities\bin\x86\Debug\es\DevExpress.XtraEditors.v13.2.resources.dll
+F:\TECHNICAL\NVTHAO\Sumitomo\New\Sumitomo\PM.Line\Utilities\bin\x86\Debug\ja\DevExpress.XtraEditors.v13.2.resources.dll
+F:\TECHNICAL\NVTHAO\Sumitomo\New\Sumitomo\PM.Line\Utilities\bin\x86\Debug\ru\DevExpress.XtraEditors.v13.2.resources.dll
+F:\TECHNICAL\NVTHAO\Sumitomo\New\Sumitomo\PM.Line\Utilities\bin\x86\Debug\de\DevExpress.XtraPrinting.v13.2.resources.dll
+F:\TECHNICAL\NVTHAO\Sumitomo\New\Sumitomo\PM.Line\Utilities\bin\x86\Debug\es\DevExpress.XtraPrinting.v13.2.resources.dll
+F:\TECHNICAL\NVTHAO\Sumitomo\New\Sumitomo\PM.Line\Utilities\bin\x86\Debug\ja\DevExpress.XtraPrinting.v13.2.resources.dll
+F:\TECHNICAL\NVTHAO\Sumitomo\New\Sumitomo\PM.Line\Utilities\bin\x86\Debug\ru\DevExpress.XtraPrinting.v13.2.resources.dll
+F:\TECHNICAL\NVTHAO\Sumitomo\New\Sumitomo\PM.Line\Utilities\bin\x86\Debug\de\DevExpress.XtraGrid.v13.2.resources.dll
+F:\TECHNICAL\NVTHAO\Sumitomo\New\Sumitomo\PM.Line\Utilities\bin\x86\Debug\es\DevExpress.XtraGrid.v13.2.resources.dll
+F:\TECHNICAL\NVTHAO\Sumitomo\New\Sumitomo\PM.Line\Utilities\bin\x86\Debug\ja\DevExpress.XtraGrid.v13.2.resources.dll
+F:\TECHNICAL\NVTHAO\Sumitomo\New\Sumitomo\PM.Line\Utilities\bin\x86\Debug\ru\DevExpress.XtraGrid.v13.2.resources.dll
+F:\TECHNICAL\NVTHAO\Sumitomo\New\Sumitomo\PM.Line\Utilities\obj\x86\Debug\Utilities.csprojAssemblyReference.cache
+F:\TECHNICAL\NVTHAO\Sumitomo\New\Sumitomo\PM.Line\Utilities\obj\x86\Debug\BMS.frmCshLoading.resources
+F:\TECHNICAL\NVTHAO\Sumitomo\New\Sumitomo\PM.Line\Utilities\obj\x86\Debug\BMS.frmGenSelect.resources
+F:\TECHNICAL\NVTHAO\Sumitomo\New\Sumitomo\PM.Line\Utilities\obj\x86\Debug\BMS.ShowProcessBar.resources
+F:\TECHNICAL\NVTHAO\Sumitomo\New\Sumitomo\PM.Line\Utilities\obj\x86\Debug\Utilities.Properties.Resources.resources
+F:\TECHNICAL\NVTHAO\Sumitomo\New\Sumitomo\PM.Line\Utilities\obj\x86\Debug\Utilities.csproj.GenerateResource.cache
+F:\TECHNICAL\NVTHAO\Sumitomo\New\Sumitomo\PM.Line\Utilities\obj\x86\Debug\Utilities.csproj.CoreCompileInputs.cache
+F:\TECHNICAL\NVTHAO\Sumitomo\New\Sumitomo\PM.Line\Utilities\obj\x86\Debug\Utilities.csproj.CopyComplete
+F:\TECHNICAL\NVTHAO\Sumitomo\New\Sumitomo\PM.Line\Utilities\obj\x86\Debug\Utilities.dll
+F:\TECHNICAL\NVTHAO\Sumitomo\New\Sumitomo\PM.Line\Utilities\obj\x86\Debug\Utilities.pdb
+F:\TECHNICAL\NVTHAO\Sumitomo\Code\Sumitomo\PM.Line\Utilities\bin\x86\Debug\Utilities.dll
+F:\TECHNICAL\NVTHAO\Sumitomo\Code\Sumitomo\PM.Line\Utilities\bin\x86\Debug\Utilities.pdb
+F:\TECHNICAL\NVTHAO\Sumitomo\Code\Sumitomo\PM.Line\Utilities\bin\x86\Debug\DevExpress.Data.v13.2.dll
+F:\TECHNICAL\NVTHAO\Sumitomo\Code\Sumitomo\PM.Line\Utilities\bin\x86\Debug\DevExpress.Printing.v13.2.Core.dll
+F:\TECHNICAL\NVTHAO\Sumitomo\Code\Sumitomo\PM.Line\Utilities\bin\x86\Debug\DevExpress.Utils.v13.2.dll
+F:\TECHNICAL\NVTHAO\Sumitomo\Code\Sumitomo\PM.Line\Utilities\bin\x86\Debug\DevExpress.XtraEditors.v13.2.dll
+F:\TECHNICAL\NVTHAO\Sumitomo\Code\Sumitomo\PM.Line\Utilities\bin\x86\Debug\DevExpress.XtraGrid.v13.2.dll
+F:\TECHNICAL\NVTHAO\Sumitomo\Code\Sumitomo\PM.Line\Utilities\bin\x86\Debug\DevExpress.XtraPrinting.v13.2.dll
+F:\TECHNICAL\NVTHAO\Sumitomo\Code\Sumitomo\PM.Line\Utilities\bin\x86\Debug\ICSharpCode.SharpZipLib.dll
+F:\TECHNICAL\NVTHAO\Sumitomo\Code\Sumitomo\PM.Line\Utilities\bin\x86\Debug\itextsharp.dll
+F:\TECHNICAL\NVTHAO\Sumitomo\Code\Sumitomo\PM.Line\Utilities\bin\x86\Debug\TPA.Serial Interface.dll
+F:\TECHNICAL\NVTHAO\Sumitomo\Code\Sumitomo\PM.Line\Utilities\bin\x86\Debug\DevExpress.Printing.v13.2.Core.xml
+F:\TECHNICAL\NVTHAO\Sumitomo\Code\Sumitomo\PM.Line\Utilities\bin\x86\Debug\DevExpress.Data.v13.2.xml
+F:\TECHNICAL\NVTHAO\Sumitomo\Code\Sumitomo\PM.Line\Utilities\bin\x86\Debug\DevExpress.Utils.v13.2.xml
+F:\TECHNICAL\NVTHAO\Sumitomo\Code\Sumitomo\PM.Line\Utilities\bin\x86\Debug\DevExpress.XtraEditors.v13.2.xml
+F:\TECHNICAL\NVTHAO\Sumitomo\Code\Sumitomo\PM.Line\Utilities\bin\x86\Debug\DevExpress.XtraPrinting.v13.2.xml
+F:\TECHNICAL\NVTHAO\Sumitomo\Code\Sumitomo\PM.Line\Utilities\bin\x86\Debug\DevExpress.XtraGrid.v13.2.xml
+F:\TECHNICAL\NVTHAO\Sumitomo\Code\Sumitomo\PM.Line\Utilities\bin\x86\Debug\de\DevExpress.Printing.v13.2.Core.resources.dll
+F:\TECHNICAL\NVTHAO\Sumitomo\Code\Sumitomo\PM.Line\Utilities\bin\x86\Debug\es\DevExpress.Printing.v13.2.Core.resources.dll
+F:\TECHNICAL\NVTHAO\Sumitomo\Code\Sumitomo\PM.Line\Utilities\bin\x86\Debug\ja\DevExpress.Printing.v13.2.Core.resources.dll
+F:\TECHNICAL\NVTHAO\Sumitomo\Code\Sumitomo\PM.Line\Utilities\bin\x86\Debug\ru\DevExpress.Printing.v13.2.Core.resources.dll
+F:\TECHNICAL\NVTHAO\Sumitomo\Code\Sumitomo\PM.Line\Utilities\bin\x86\Debug\de\DevExpress.Data.v13.2.resources.dll
+F:\TECHNICAL\NVTHAO\Sumitomo\Code\Sumitomo\PM.Line\Utilities\bin\x86\Debug\es\DevExpress.Data.v13.2.resources.dll
+F:\TECHNICAL\NVTHAO\Sumitomo\Code\Sumitomo\PM.Line\Utilities\bin\x86\Debug\ja\DevExpress.Data.v13.2.resources.dll
+F:\TECHNICAL\NVTHAO\Sumitomo\Code\Sumitomo\PM.Line\Utilities\bin\x86\Debug\ru\DevExpress.Data.v13.2.resources.dll
+F:\TECHNICAL\NVTHAO\Sumitomo\Code\Sumitomo\PM.Line\Utilities\bin\x86\Debug\de\DevExpress.Utils.v13.2.resources.dll
+F:\TECHNICAL\NVTHAO\Sumitomo\Code\Sumitomo\PM.Line\Utilities\bin\x86\Debug\es\DevExpress.Utils.v13.2.resources.dll
+F:\TECHNICAL\NVTHAO\Sumitomo\Code\Sumitomo\PM.Line\Utilities\bin\x86\Debug\ja\DevExpress.Utils.v13.2.resources.dll
+F:\TECHNICAL\NVTHAO\Sumitomo\Code\Sumitomo\PM.Line\Utilities\bin\x86\Debug\ru\DevExpress.Utils.v13.2.resources.dll
+F:\TECHNICAL\NVTHAO\Sumitomo\Code\Sumitomo\PM.Line\Utilities\bin\x86\Debug\de\DevExpress.XtraEditors.v13.2.resources.dll
+F:\TECHNICAL\NVTHAO\Sumitomo\Code\Sumitomo\PM.Line\Utilities\bin\x86\Debug\es\DevExpress.XtraEditors.v13.2.resources.dll
+F:\TECHNICAL\NVTHAO\Sumitomo\Code\Sumitomo\PM.Line\Utilities\bin\x86\Debug\ja\DevExpress.XtraEditors.v13.2.resources.dll
+F:\TECHNICAL\NVTHAO\Sumitomo\Code\Sumitomo\PM.Line\Utilities\bin\x86\Debug\ru\DevExpress.XtraEditors.v13.2.resources.dll
+F:\TECHNICAL\NVTHAO\Sumitomo\Code\Sumitomo\PM.Line\Utilities\bin\x86\Debug\de\DevExpress.XtraPrinting.v13.2.resources.dll
+F:\TECHNICAL\NVTHAO\Sumitomo\Code\Sumitomo\PM.Line\Utilities\bin\x86\Debug\es\DevExpress.XtraPrinting.v13.2.resources.dll
+F:\TECHNICAL\NVTHAO\Sumitomo\Code\Sumitomo\PM.Line\Utilities\bin\x86\Debug\ja\DevExpress.XtraPrinting.v13.2.resources.dll
+F:\TECHNICAL\NVTHAO\Sumitomo\Code\Sumitomo\PM.Line\Utilities\bin\x86\Debug\ru\DevExpress.XtraPrinting.v13.2.resources.dll
+F:\TECHNICAL\NVTHAO\Sumitomo\Code\Sumitomo\PM.Line\Utilities\bin\x86\Debug\de\DevExpress.XtraGrid.v13.2.resources.dll
+F:\TECHNICAL\NVTHAO\Sumitomo\Code\Sumitomo\PM.Line\Utilities\bin\x86\Debug\es\DevExpress.XtraGrid.v13.2.resources.dll
+F:\TECHNICAL\NVTHAO\Sumitomo\Code\Sumitomo\PM.Line\Utilities\bin\x86\Debug\ja\DevExpress.XtraGrid.v13.2.resources.dll
+F:\TECHNICAL\NVTHAO\Sumitomo\Code\Sumitomo\PM.Line\Utilities\bin\x86\Debug\ru\DevExpress.XtraGrid.v13.2.resources.dll
+F:\TECHNICAL\NVTHAO\Sumitomo\Code\Sumitomo\PM.Line\Utilities\obj\x86\Debug\Utilities.csprojAssemblyReference.cache
+F:\TECHNICAL\NVTHAO\Sumitomo\Code\Sumitomo\PM.Line\Utilities\obj\x86\Debug\BMS.frmCshLoading.resources
+F:\TECHNICAL\NVTHAO\Sumitomo\Code\Sumitomo\PM.Line\Utilities\obj\x86\Debug\BMS.frmGenSelect.resources
+F:\TECHNICAL\NVTHAO\Sumitomo\Code\Sumitomo\PM.Line\Utilities\obj\x86\Debug\BMS.ShowProcessBar.resources
+F:\TECHNICAL\NVTHAO\Sumitomo\Code\Sumitomo\PM.Line\Utilities\obj\x86\Debug\Utilities.Properties.Resources.resources
+F:\TECHNICAL\NVTHAO\Sumitomo\Code\Sumitomo\PM.Line\Utilities\obj\x86\Debug\Utilities.csproj.GenerateResource.cache
+F:\TECHNICAL\NVTHAO\Sumitomo\Code\Sumitomo\PM.Line\Utilities\obj\x86\Debug\Utilities.csproj.CoreCompileInputs.cache
+F:\TECHNICAL\NVTHAO\Sumitomo\Code\Sumitomo\PM.Line\Utilities\obj\x86\Debug\Utilities.csproj.CopyComplete
+F:\TECHNICAL\NVTHAO\Sumitomo\Code\Sumitomo\PM.Line\Utilities\obj\x86\Debug\Utilities.dll
+F:\TECHNICAL\NVTHAO\Sumitomo\Code\Sumitomo\PM.Line\Utilities\obj\x86\Debug\Utilities.pdb
+D:\SETUP\PM.Line\PM.Line\Utilities\obj\x86\Debug\Utilities.csprojAssemblyReference.cache
+D:\SETUP\PM.Line\PM.Line\Utilities\obj\x86\Debug\Utilities.csproj.ResolveComReference.cache
+D:\SETUP\PM.Line\PM.Line\Utilities\bin\x86\Debug\Utilities.dll
+D:\SETUP\PM.Line\PM.Line\Utilities\bin\x86\Debug\Utilities.pdb
+D:\SETUP\PM.Line\PM.Line\Utilities\bin\x86\Debug\DevExpress.Data.v13.2.dll
+D:\SETUP\PM.Line\PM.Line\Utilities\bin\x86\Debug\DevExpress.Printing.v13.2.Core.dll
+D:\SETUP\PM.Line\PM.Line\Utilities\bin\x86\Debug\DevExpress.Utils.v13.2.dll
+D:\SETUP\PM.Line\PM.Line\Utilities\bin\x86\Debug\DevExpress.XtraEditors.v13.2.dll
+D:\SETUP\PM.Line\PM.Line\Utilities\bin\x86\Debug\DevExpress.XtraGrid.v13.2.dll
+D:\SETUP\PM.Line\PM.Line\Utilities\bin\x86\Debug\DevExpress.XtraPrinting.v13.2.dll
+D:\SETUP\PM.Line\PM.Line\Utilities\bin\x86\Debug\ICSharpCode.SharpZipLib.dll
+D:\SETUP\PM.Line\PM.Line\Utilities\bin\x86\Debug\DevExpress.Printing.v13.2.Core.xml
+D:\SETUP\PM.Line\PM.Line\Utilities\bin\x86\Debug\DevExpress.Data.v13.2.xml
+D:\SETUP\PM.Line\PM.Line\Utilities\bin\x86\Debug\DevExpress.Utils.v13.2.xml
+D:\SETUP\PM.Line\PM.Line\Utilities\bin\x86\Debug\DevExpress.XtraEditors.v13.2.xml
+D:\SETUP\PM.Line\PM.Line\Utilities\bin\x86\Debug\DevExpress.XtraPrinting.v13.2.xml
+D:\SETUP\PM.Line\PM.Line\Utilities\bin\x86\Debug\DevExpress.XtraGrid.v13.2.xml
+D:\SETUP\PM.Line\PM.Line\Utilities\bin\x86\Debug\de\DevExpress.Printing.v13.2.Core.resources.dll
+D:\SETUP\PM.Line\PM.Line\Utilities\bin\x86\Debug\es\DevExpress.Printing.v13.2.Core.resources.dll
+D:\SETUP\PM.Line\PM.Line\Utilities\bin\x86\Debug\ja\DevExpress.Printing.v13.2.Core.resources.dll
+D:\SETUP\PM.Line\PM.Line\Utilities\bin\x86\Debug\ru\DevExpress.Printing.v13.2.Core.resources.dll
+D:\SETUP\PM.Line\PM.Line\Utilities\bin\x86\Debug\de\DevExpress.Data.v13.2.resources.dll
+D:\SETUP\PM.Line\PM.Line\Utilities\bin\x86\Debug\es\DevExpress.Data.v13.2.resources.dll
+D:\SETUP\PM.Line\PM.Line\Utilities\bin\x86\Debug\ja\DevExpress.Data.v13.2.resources.dll
+D:\SETUP\PM.Line\PM.Line\Utilities\bin\x86\Debug\ru\DevExpress.Data.v13.2.resources.dll
+D:\SETUP\PM.Line\PM.Line\Utilities\bin\x86\Debug\de\DevExpress.Utils.v13.2.resources.dll
+D:\SETUP\PM.Line\PM.Line\Utilities\bin\x86\Debug\es\DevExpress.Utils.v13.2.resources.dll
+D:\SETUP\PM.Line\PM.Line\Utilities\bin\x86\Debug\ja\DevExpress.Utils.v13.2.resources.dll
+D:\SETUP\PM.Line\PM.Line\Utilities\bin\x86\Debug\ru\DevExpress.Utils.v13.2.resources.dll
+D:\SETUP\PM.Line\PM.Line\Utilities\bin\x86\Debug\de\DevExpress.XtraEditors.v13.2.resources.dll
+D:\SETUP\PM.Line\PM.Line\Utilities\bin\x86\Debug\es\DevExpress.XtraEditors.v13.2.resources.dll
+D:\SETUP\PM.Line\PM.Line\Utilities\bin\x86\Debug\ja\DevExpress.XtraEditors.v13.2.resources.dll
+D:\SETUP\PM.Line\PM.Line\Utilities\bin\x86\Debug\ru\DevExpress.XtraEditors.v13.2.resources.dll
+D:\SETUP\PM.Line\PM.Line\Utilities\bin\x86\Debug\de\DevExpress.XtraPrinting.v13.2.resources.dll
+D:\SETUP\PM.Line\PM.Line\Utilities\bin\x86\Debug\es\DevExpress.XtraPrinting.v13.2.resources.dll
+D:\SETUP\PM.Line\PM.Line\Utilities\bin\x86\Debug\ja\DevExpress.XtraPrinting.v13.2.resources.dll
+D:\SETUP\PM.Line\PM.Line\Utilities\bin\x86\Debug\ru\DevExpress.XtraPrinting.v13.2.resources.dll
+D:\SETUP\PM.Line\PM.Line\Utilities\bin\x86\Debug\de\DevExpress.XtraGrid.v13.2.resources.dll
+D:\SETUP\PM.Line\PM.Line\Utilities\bin\x86\Debug\es\DevExpress.XtraGrid.v13.2.resources.dll
+D:\SETUP\PM.Line\PM.Line\Utilities\bin\x86\Debug\ja\DevExpress.XtraGrid.v13.2.resources.dll
+D:\SETUP\PM.Line\PM.Line\Utilities\bin\x86\Debug\ru\DevExpress.XtraGrid.v13.2.resources.dll
+D:\SETUP\PM.Line\PM.Line\Utilities\obj\x86\Debug\Utilities.Properties.Resources.resources
+D:\SETUP\PM.Line\PM.Line\Utilities\obj\x86\Debug\Utilities.csproj.GenerateResource.cache
+D:\SETUP\PM.Line\PM.Line\Utilities\obj\x86\Debug\Utilities.csproj.CoreCompileInputs.cache
+D:\SETUP\PM.Line\PM.Line\Utilities\obj\x86\Debug\Utilities.csproj.CopyComplete
+D:\SETUP\PM.Line\PM.Line\Utilities\obj\x86\Debug\Utilities.dll
+D:\SETUP\PM.Line\PM.Line\Utilities\obj\x86\Debug\Utilities.pdb
+D:\project\Sumitomo\PM.Line\Utilities\bin\x86\Debug\Utilities.dll
+D:\project\Sumitomo\PM.Line\Utilities\bin\x86\Debug\Utilities.pdb
+D:\project\Sumitomo\PM.Line\Utilities\bin\x86\Debug\DevExpress.Data.v13.2.dll
+D:\project\Sumitomo\PM.Line\Utilities\bin\x86\Debug\DevExpress.Printing.v13.2.Core.dll
+D:\project\Sumitomo\PM.Line\Utilities\bin\x86\Debug\DevExpress.Utils.v13.2.dll
+D:\project\Sumitomo\PM.Line\Utilities\bin\x86\Debug\DevExpress.XtraEditors.v13.2.dll
+D:\project\Sumitomo\PM.Line\Utilities\bin\x86\Debug\DevExpress.XtraGrid.v13.2.dll
+D:\project\Sumitomo\PM.Line\Utilities\bin\x86\Debug\DevExpress.XtraPrinting.v13.2.dll
+D:\project\Sumitomo\PM.Line\Utilities\bin\x86\Debug\DevExpress.Printing.v13.2.Core.xml
+D:\project\Sumitomo\PM.Line\Utilities\bin\x86\Debug\DevExpress.Data.v13.2.xml
+D:\project\Sumitomo\PM.Line\Utilities\bin\x86\Debug\DevExpress.Utils.v13.2.xml
+D:\project\Sumitomo\PM.Line\Utilities\bin\x86\Debug\DevExpress.XtraEditors.v13.2.xml
+D:\project\Sumitomo\PM.Line\Utilities\bin\x86\Debug\DevExpress.XtraPrinting.v13.2.xml
+D:\project\Sumitomo\PM.Line\Utilities\bin\x86\Debug\DevExpress.XtraGrid.v13.2.xml
+D:\project\Sumitomo\PM.Line\Utilities\bin\x86\Debug\de\DevExpress.Printing.v13.2.Core.resources.dll
+D:\project\Sumitomo\PM.Line\Utilities\bin\x86\Debug\es\DevExpress.Printing.v13.2.Core.resources.dll
+D:\project\Sumitomo\PM.Line\Utilities\bin\x86\Debug\ja\DevExpress.Printing.v13.2.Core.resources.dll
+D:\project\Sumitomo\PM.Line\Utilities\bin\x86\Debug\ru\DevExpress.Printing.v13.2.Core.resources.dll
+D:\project\Sumitomo\PM.Line\Utilities\bin\x86\Debug\de\DevExpress.Data.v13.2.resources.dll
+D:\project\Sumitomo\PM.Line\Utilities\bin\x86\Debug\es\DevExpress.Data.v13.2.resources.dll
+D:\project\Sumitomo\PM.Line\Utilities\bin\x86\Debug\ja\DevExpress.Data.v13.2.resources.dll
+D:\project\Sumitomo\PM.Line\Utilities\bin\x86\Debug\ru\DevExpress.Data.v13.2.resources.dll
+D:\project\Sumitomo\PM.Line\Utilities\bin\x86\Debug\de\DevExpress.Utils.v13.2.resources.dll
+D:\project\Sumitomo\PM.Line\Utilities\bin\x86\Debug\es\DevExpress.Utils.v13.2.resources.dll
+D:\project\Sumitomo\PM.Line\Utilities\bin\x86\Debug\ja\DevExpress.Utils.v13.2.resources.dll
+D:\project\Sumitomo\PM.Line\Utilities\bin\x86\Debug\ru\DevExpress.Utils.v13.2.resources.dll
+D:\project\Sumitomo\PM.Line\Utilities\bin\x86\Debug\de\DevExpress.XtraEditors.v13.2.resources.dll
+D:\project\Sumitomo\PM.Line\Utilities\bin\x86\Debug\es\DevExpress.XtraEditors.v13.2.resources.dll
+D:\project\Sumitomo\PM.Line\Utilities\bin\x86\Debug\ja\DevExpress.XtraEditors.v13.2.resources.dll
+D:\project\Sumitomo\PM.Line\Utilities\bin\x86\Debug\ru\DevExpress.XtraEditors.v13.2.resources.dll
+D:\project\Sumitomo\PM.Line\Utilities\bin\x86\Debug\de\DevExpress.XtraPrinting.v13.2.resources.dll
+D:\project\Sumitomo\PM.Line\Utilities\bin\x86\Debug\es\DevExpress.XtraPrinting.v13.2.resources.dll
+D:\project\Sumitomo\PM.Line\Utilities\bin\x86\Debug\ja\DevExpress.XtraPrinting.v13.2.resources.dll
+D:\project\Sumitomo\PM.Line\Utilities\bin\x86\Debug\ru\DevExpress.XtraPrinting.v13.2.resources.dll
+D:\project\Sumitomo\PM.Line\Utilities\bin\x86\Debug\de\DevExpress.XtraGrid.v13.2.resources.dll
+D:\project\Sumitomo\PM.Line\Utilities\bin\x86\Debug\es\DevExpress.XtraGrid.v13.2.resources.dll
+D:\project\Sumitomo\PM.Line\Utilities\bin\x86\Debug\ja\DevExpress.XtraGrid.v13.2.resources.dll
+D:\project\Sumitomo\PM.Line\Utilities\bin\x86\Debug\ru\DevExpress.XtraGrid.v13.2.resources.dll
+D:\project\Sumitomo\PM.Line\Utilities\obj\x86\Debug\Utilities.csprojAssemblyReference.cache
+D:\project\Sumitomo\PM.Line\Utilities\obj\x86\Debug\Utilities.csproj.ResolveComReference.cache
+D:\project\Sumitomo\PM.Line\Utilities\obj\x86\Debug\Utilities.Properties.Resources.resources
+D:\project\Sumitomo\PM.Line\Utilities\obj\x86\Debug\Utilities.csproj.GenerateResource.cache
+D:\project\Sumitomo\PM.Line\Utilities\obj\x86\Debug\Utilities.csproj.CoreCompileInputs.cache
+D:\project\Sumitomo\PM.Line\Utilities\obj\x86\Debug\Utilities.csproj.CopyComplete
+D:\project\Sumitomo\PM.Line\Utilities\obj\x86\Debug\Utilities.dll
+D:\project\Sumitomo\PM.Line\Utilities\obj\x86\Debug\Utilities.pdb
+M:\MANHBEO\WORKS\SUMITOMO\TESLER\project\Sumitomo\PM.Line\Utilities\bin\x86\Debug\Utilities.dll
+M:\MANHBEO\WORKS\SUMITOMO\TESLER\project\Sumitomo\PM.Line\Utilities\bin\x86\Debug\Utilities.pdb
+M:\MANHBEO\WORKS\SUMITOMO\TESLER\project\Sumitomo\PM.Line\Utilities\obj\x86\Debug\Utilities.csprojAssemblyReference.cache
+M:\MANHBEO\WORKS\SUMITOMO\TESLER\project\Sumitomo\PM.Line\Utilities\obj\x86\Debug\Utilities.csproj.ResolveComReference.cache
+M:\MANHBEO\WORKS\SUMITOMO\TESLER\project\Sumitomo\PM.Line\Utilities\obj\x86\Debug\Utilities.Properties.Resources.resources
+M:\MANHBEO\WORKS\SUMITOMO\TESLER\project\Sumitomo\PM.Line\Utilities\obj\x86\Debug\Utilities.csproj.GenerateResource.cache
+M:\MANHBEO\WORKS\SUMITOMO\TESLER\project\Sumitomo\PM.Line\Utilities\obj\x86\Debug\Utilities.csproj.CoreCompileInputs.cache
+M:\MANHBEO\WORKS\SUMITOMO\TESLER\project\Sumitomo\PM.Line\Utilities\obj\x86\Debug\Utilities.csproj.CopyComplete
+M:\MANHBEO\WORKS\SUMITOMO\TESLER\project\Sumitomo\PM.Line\Utilities\obj\x86\Debug\Utilities.dll
+M:\MANHBEO\WORKS\SUMITOMO\TESLER\project\Sumitomo\PM.Line\Utilities\obj\x86\Debug\Utilities.pdb
+F:\TECHNICAL\NVTHAO\1.Sumitomo\Testler\Code\Tesler\Utilities\bin\x86\Debug\Utilities.dll
+F:\TECHNICAL\NVTHAO\1.Sumitomo\Testler\Code\Tesler\Utilities\bin\x86\Debug\Utilities.pdb
+F:\TECHNICAL\NVTHAO\1.Sumitomo\Testler\Code\Tesler\Utilities\bin\x86\Debug\DevExpress.Data.v13.2.dll
+F:\TECHNICAL\NVTHAO\1.Sumitomo\Testler\Code\Tesler\Utilities\bin\x86\Debug\DevExpress.Printing.v13.2.Core.dll
+F:\TECHNICAL\NVTHAO\1.Sumitomo\Testler\Code\Tesler\Utilities\bin\x86\Debug\DevExpress.Utils.v13.2.dll
+F:\TECHNICAL\NVTHAO\1.Sumitomo\Testler\Code\Tesler\Utilities\bin\x86\Debug\DevExpress.XtraEditors.v13.2.dll
+F:\TECHNICAL\NVTHAO\1.Sumitomo\Testler\Code\Tesler\Utilities\bin\x86\Debug\DevExpress.XtraGrid.v13.2.dll
+F:\TECHNICAL\NVTHAO\1.Sumitomo\Testler\Code\Tesler\Utilities\bin\x86\Debug\DevExpress.XtraPrinting.v13.2.dll
+F:\TECHNICAL\NVTHAO\1.Sumitomo\Testler\Code\Tesler\Utilities\bin\x86\Debug\DevExpress.Printing.v13.2.Core.xml
+F:\TECHNICAL\NVTHAO\1.Sumitomo\Testler\Code\Tesler\Utilities\bin\x86\Debug\DevExpress.Data.v13.2.xml
+F:\TECHNICAL\NVTHAO\1.Sumitomo\Testler\Code\Tesler\Utilities\bin\x86\Debug\DevExpress.Utils.v13.2.xml
+F:\TECHNICAL\NVTHAO\1.Sumitomo\Testler\Code\Tesler\Utilities\bin\x86\Debug\DevExpress.XtraEditors.v13.2.xml
+F:\TECHNICAL\NVTHAO\1.Sumitomo\Testler\Code\Tesler\Utilities\bin\x86\Debug\DevExpress.XtraPrinting.v13.2.xml
+F:\TECHNICAL\NVTHAO\1.Sumitomo\Testler\Code\Tesler\Utilities\bin\x86\Debug\DevExpress.XtraGrid.v13.2.xml
+F:\TECHNICAL\NVTHAO\1.Sumitomo\Testler\Code\Tesler\Utilities\bin\x86\Debug\de\DevExpress.Printing.v13.2.Core.resources.dll
+F:\TECHNICAL\NVTHAO\1.Sumitomo\Testler\Code\Tesler\Utilities\bin\x86\Debug\es\DevExpress.Printing.v13.2.Core.resources.dll
+F:\TECHNICAL\NVTHAO\1.Sumitomo\Testler\Code\Tesler\Utilities\bin\x86\Debug\ja\DevExpress.Printing.v13.2.Core.resources.dll
+F:\TECHNICAL\NVTHAO\1.Sumitomo\Testler\Code\Tesler\Utilities\bin\x86\Debug\ru\DevExpress.Printing.v13.2.Core.resources.dll
+F:\TECHNICAL\NVTHAO\1.Sumitomo\Testler\Code\Tesler\Utilities\bin\x86\Debug\de\DevExpress.Data.v13.2.resources.dll
+F:\TECHNICAL\NVTHAO\1.Sumitomo\Testler\Code\Tesler\Utilities\bin\x86\Debug\es\DevExpress.Data.v13.2.resources.dll
+F:\TECHNICAL\NVTHAO\1.Sumitomo\Testler\Code\Tesler\Utilities\bin\x86\Debug\ja\DevExpress.Data.v13.2.resources.dll
+F:\TECHNICAL\NVTHAO\1.Sumitomo\Testler\Code\Tesler\Utilities\bin\x86\Debug\ru\DevExpress.Data.v13.2.resources.dll
+F:\TECHNICAL\NVTHAO\1.Sumitomo\Testler\Code\Tesler\Utilities\bin\x86\Debug\de\DevExpress.Utils.v13.2.resources.dll
+F:\TECHNICAL\NVTHAO\1.Sumitomo\Testler\Code\Tesler\Utilities\bin\x86\Debug\es\DevExpress.Utils.v13.2.resources.dll
+F:\TECHNICAL\NVTHAO\1.Sumitomo\Testler\Code\Tesler\Utilities\bin\x86\Debug\ja\DevExpress.Utils.v13.2.resources.dll
+F:\TECHNICAL\NVTHAO\1.Sumitomo\Testler\Code\Tesler\Utilities\bin\x86\Debug\ru\DevExpress.Utils.v13.2.resources.dll
+F:\TECHNICAL\NVTHAO\1.Sumitomo\Testler\Code\Tesler\Utilities\bin\x86\Debug\de\DevExpress.XtraEditors.v13.2.resources.dll
+F:\TECHNICAL\NVTHAO\1.Sumitomo\Testler\Code\Tesler\Utilities\bin\x86\Debug\es\DevExpress.XtraEditors.v13.2.resources.dll
+F:\TECHNICAL\NVTHAO\1.Sumitomo\Testler\Code\Tesler\Utilities\bin\x86\Debug\ja\DevExpress.XtraEditors.v13.2.resources.dll
+F:\TECHNICAL\NVTHAO\1.Sumitomo\Testler\Code\Tesler\Utilities\bin\x86\Debug\ru\DevExpress.XtraEditors.v13.2.resources.dll
+F:\TECHNICAL\NVTHAO\1.Sumitomo\Testler\Code\Tesler\Utilities\bin\x86\Debug\de\DevExpress.XtraPrinting.v13.2.resources.dll
+F:\TECHNICAL\NVTHAO\1.Sumitomo\Testler\Code\Tesler\Utilities\bin\x86\Debug\es\DevExpress.XtraPrinting.v13.2.resources.dll
+F:\TECHNICAL\NVTHAO\1.Sumitomo\Testler\Code\Tesler\Utilities\bin\x86\Debug\ja\DevExpress.XtraPrinting.v13.2.resources.dll
+F:\TECHNICAL\NVTHAO\1.Sumitomo\Testler\Code\Tesler\Utilities\bin\x86\Debug\ru\DevExpress.XtraPrinting.v13.2.resources.dll
+F:\TECHNICAL\NVTHAO\1.Sumitomo\Testler\Code\Tesler\Utilities\bin\x86\Debug\de\DevExpress.XtraGrid.v13.2.resources.dll
+F:\TECHNICAL\NVTHAO\1.Sumitomo\Testler\Code\Tesler\Utilities\bin\x86\Debug\es\DevExpress.XtraGrid.v13.2.resources.dll
+F:\TECHNICAL\NVTHAO\1.Sumitomo\Testler\Code\Tesler\Utilities\bin\x86\Debug\ja\DevExpress.XtraGrid.v13.2.resources.dll
+F:\TECHNICAL\NVTHAO\1.Sumitomo\Testler\Code\Tesler\Utilities\bin\x86\Debug\ru\DevExpress.XtraGrid.v13.2.resources.dll
+F:\TECHNICAL\NVTHAO\1.Sumitomo\Testler\Code\Tesler\Utilities\obj\x86\Debug\Utilities.csprojAssemblyReference.cache
+F:\TECHNICAL\NVTHAO\1.Sumitomo\Testler\Code\Tesler\Utilities\obj\x86\Debug\Utilities.csproj.ResolveComReference.cache
+F:\TECHNICAL\NVTHAO\1.Sumitomo\Testler\Code\Tesler\Utilities\obj\x86\Debug\Utilities.Properties.Resources.resources
+F:\TECHNICAL\NVTHAO\1.Sumitomo\Testler\Code\Tesler\Utilities\obj\x86\Debug\Utilities.csproj.GenerateResource.cache
+F:\TECHNICAL\NVTHAO\1.Sumitomo\Testler\Code\Tesler\Utilities\obj\x86\Debug\Utilities.csproj.CoreCompileInputs.cache
+F:\TECHNICAL\NVTHAO\1.Sumitomo\Testler\Code\Tesler\Utilities\obj\x86\Debug\Utilities.csproj.CopyComplete
+F:\TECHNICAL\NVTHAO\1.Sumitomo\Testler\Code\Tesler\Utilities\obj\x86\Debug\Utilities.dll
+F:\TECHNICAL\NVTHAO\1.Sumitomo\Testler\Code\Tesler\Utilities\obj\x86\Debug\Utilities.pdb
+F:\TECHNICAL\NVTHAO\4.Project\1.Sumitomo\Testler\Code\Tesler\Utilities\bin\x86\Debug\Utilities.dll
+F:\TECHNICAL\NVTHAO\4.Project\1.Sumitomo\Testler\Code\Tesler\Utilities\bin\x86\Debug\Utilities.pdb
+F:\TECHNICAL\NVTHAO\4.Project\1.Sumitomo\Testler\Code\Tesler\Utilities\bin\x86\Debug\DevExpress.Data.v13.2.dll
+F:\TECHNICAL\NVTHAO\4.Project\1.Sumitomo\Testler\Code\Tesler\Utilities\bin\x86\Debug\DevExpress.Printing.v13.2.Core.dll
+F:\TECHNICAL\NVTHAO\4.Project\1.Sumitomo\Testler\Code\Tesler\Utilities\bin\x86\Debug\DevExpress.Utils.v13.2.dll
+F:\TECHNICAL\NVTHAO\4.Project\1.Sumitomo\Testler\Code\Tesler\Utilities\bin\x86\Debug\DevExpress.XtraEditors.v13.2.dll
+F:\TECHNICAL\NVTHAO\4.Project\1.Sumitomo\Testler\Code\Tesler\Utilities\bin\x86\Debug\DevExpress.XtraGrid.v13.2.dll
+F:\TECHNICAL\NVTHAO\4.Project\1.Sumitomo\Testler\Code\Tesler\Utilities\bin\x86\Debug\DevExpress.XtraPrinting.v13.2.dll
+F:\TECHNICAL\NVTHAO\4.Project\1.Sumitomo\Testler\Code\Tesler\Utilities\bin\x86\Debug\DevExpress.Printing.v13.2.Core.xml
+F:\TECHNICAL\NVTHAO\4.Project\1.Sumitomo\Testler\Code\Tesler\Utilities\bin\x86\Debug\DevExpress.Data.v13.2.xml
+F:\TECHNICAL\NVTHAO\4.Project\1.Sumitomo\Testler\Code\Tesler\Utilities\bin\x86\Debug\DevExpress.Utils.v13.2.xml
+F:\TECHNICAL\NVTHAO\4.Project\1.Sumitomo\Testler\Code\Tesler\Utilities\bin\x86\Debug\DevExpress.XtraEditors.v13.2.xml
+F:\TECHNICAL\NVTHAO\4.Project\1.Sumitomo\Testler\Code\Tesler\Utilities\bin\x86\Debug\DevExpress.XtraPrinting.v13.2.xml
+F:\TECHNICAL\NVTHAO\4.Project\1.Sumitomo\Testler\Code\Tesler\Utilities\bin\x86\Debug\DevExpress.XtraGrid.v13.2.xml
+F:\TECHNICAL\NVTHAO\4.Project\1.Sumitomo\Testler\Code\Tesler\Utilities\bin\x86\Debug\de\DevExpress.Printing.v13.2.Core.resources.dll
+F:\TECHNICAL\NVTHAO\4.Project\1.Sumitomo\Testler\Code\Tesler\Utilities\bin\x86\Debug\es\DevExpress.Printing.v13.2.Core.resources.dll
+F:\TECHNICAL\NVTHAO\4.Project\1.Sumitomo\Testler\Code\Tesler\Utilities\bin\x86\Debug\ja\DevExpress.Printing.v13.2.Core.resources.dll
+F:\TECHNICAL\NVTHAO\4.Project\1.Sumitomo\Testler\Code\Tesler\Utilities\bin\x86\Debug\ru\DevExpress.Printing.v13.2.Core.resources.dll
+F:\TECHNICAL\NVTHAO\4.Project\1.Sumitomo\Testler\Code\Tesler\Utilities\bin\x86\Debug\de\DevExpress.Data.v13.2.resources.dll
+F:\TECHNICAL\NVTHAO\4.Project\1.Sumitomo\Testler\Code\Tesler\Utilities\bin\x86\Debug\es\DevExpress.Data.v13.2.resources.dll
+F:\TECHNICAL\NVTHAO\4.Project\1.Sumitomo\Testler\Code\Tesler\Utilities\bin\x86\Debug\ja\DevExpress.Data.v13.2.resources.dll
+F:\TECHNICAL\NVTHAO\4.Project\1.Sumitomo\Testler\Code\Tesler\Utilities\bin\x86\Debug\ru\DevExpress.Data.v13.2.resources.dll
+F:\TECHNICAL\NVTHAO\4.Project\1.Sumitomo\Testler\Code\Tesler\Utilities\bin\x86\Debug\de\DevExpress.Utils.v13.2.resources.dll
+F:\TECHNICAL\NVTHAO\4.Project\1.Sumitomo\Testler\Code\Tesler\Utilities\bin\x86\Debug\es\DevExpress.Utils.v13.2.resources.dll
+F:\TECHNICAL\NVTHAO\4.Project\1.Sumitomo\Testler\Code\Tesler\Utilities\bin\x86\Debug\ja\DevExpress.Utils.v13.2.resources.dll
+F:\TECHNICAL\NVTHAO\4.Project\1.Sumitomo\Testler\Code\Tesler\Utilities\bin\x86\Debug\ru\DevExpress.Utils.v13.2.resources.dll
+F:\TECHNICAL\NVTHAO\4.Project\1.Sumitomo\Testler\Code\Tesler\Utilities\bin\x86\Debug\de\DevExpress.XtraEditors.v13.2.resources.dll
+F:\TECHNICAL\NVTHAO\4.Project\1.Sumitomo\Testler\Code\Tesler\Utilities\bin\x86\Debug\es\DevExpress.XtraEditors.v13.2.resources.dll
+F:\TECHNICAL\NVTHAO\4.Project\1.Sumitomo\Testler\Code\Tesler\Utilities\bin\x86\Debug\ja\DevExpress.XtraEditors.v13.2.resources.dll
+F:\TECHNICAL\NVTHAO\4.Project\1.Sumitomo\Testler\Code\Tesler\Utilities\bin\x86\Debug\ru\DevExpress.XtraEditors.v13.2.resources.dll
+F:\TECHNICAL\NVTHAO\4.Project\1.Sumitomo\Testler\Code\Tesler\Utilities\bin\x86\Debug\de\DevExpress.XtraPrinting.v13.2.resources.dll
+F:\TECHNICAL\NVTHAO\4.Project\1.Sumitomo\Testler\Code\Tesler\Utilities\bin\x86\Debug\es\DevExpress.XtraPrinting.v13.2.resources.dll
+F:\TECHNICAL\NVTHAO\4.Project\1.Sumitomo\Testler\Code\Tesler\Utilities\bin\x86\Debug\ja\DevExpress.XtraPrinting.v13.2.resources.dll
+F:\TECHNICAL\NVTHAO\4.Project\1.Sumitomo\Testler\Code\Tesler\Utilities\bin\x86\Debug\ru\DevExpress.XtraPrinting.v13.2.resources.dll
+F:\TECHNICAL\NVTHAO\4.Project\1.Sumitomo\Testler\Code\Tesler\Utilities\bin\x86\Debug\de\DevExpress.XtraGrid.v13.2.resources.dll
+F:\TECHNICAL\NVTHAO\4.Project\1.Sumitomo\Testler\Code\Tesler\Utilities\bin\x86\Debug\es\DevExpress.XtraGrid.v13.2.resources.dll
+F:\TECHNICAL\NVTHAO\4.Project\1.Sumitomo\Testler\Code\Tesler\Utilities\bin\x86\Debug\ja\DevExpress.XtraGrid.v13.2.resources.dll
+F:\TECHNICAL\NVTHAO\4.Project\1.Sumitomo\Testler\Code\Tesler\Utilities\bin\x86\Debug\ru\DevExpress.XtraGrid.v13.2.resources.dll
+F:\TECHNICAL\NVTHAO\4.Project\1.Sumitomo\Testler\Code\Tesler\Utilities\obj\x86\Debug\Utilities.csprojAssemblyReference.cache
+F:\TECHNICAL\NVTHAO\4.Project\1.Sumitomo\Testler\Code\Tesler\Utilities\obj\x86\Debug\Utilities.csproj.ResolveComReference.cache
+F:\TECHNICAL\NVTHAO\4.Project\1.Sumitomo\Testler\Code\Tesler\Utilities\obj\x86\Debug\Utilities.Properties.Resources.resources
+F:\TECHNICAL\NVTHAO\4.Project\1.Sumitomo\Testler\Code\Tesler\Utilities\obj\x86\Debug\Utilities.csproj.GenerateResource.cache
+F:\TECHNICAL\NVTHAO\4.Project\1.Sumitomo\Testler\Code\Tesler\Utilities\obj\x86\Debug\Utilities.csproj.CoreCompileInputs.cache
+F:\TECHNICAL\NVTHAO\4.Project\1.Sumitomo\Testler\Code\Tesler\Utilities\obj\x86\Debug\Utilities.csproj.CopyComplete
+F:\TECHNICAL\NVTHAO\4.Project\1.Sumitomo\Testler\Code\Tesler\Utilities\obj\x86\Debug\Utilities.dll
+F:\TECHNICAL\NVTHAO\4.Project\1.Sumitomo\Testler\Code\Tesler\Utilities\obj\x86\Debug\Utilities.pdb
+D:\halcon\projects\SUMITOMO\Testler\Tesler\Utilities\bin\x86\Debug\Utilities.dll
+D:\halcon\projects\SUMITOMO\Testler\Tesler\Utilities\bin\x86\Debug\Utilities.pdb
+D:\halcon\projects\SUMITOMO\Testler\Tesler\Utilities\bin\x86\Debug\DevExpress.Data.v13.2.dll
+D:\halcon\projects\SUMITOMO\Testler\Tesler\Utilities\bin\x86\Debug\DevExpress.Printing.v13.2.Core.dll
+D:\halcon\projects\SUMITOMO\Testler\Tesler\Utilities\bin\x86\Debug\DevExpress.Utils.v13.2.dll
+D:\halcon\projects\SUMITOMO\Testler\Tesler\Utilities\bin\x86\Debug\DevExpress.XtraEditors.v13.2.dll
+D:\halcon\projects\SUMITOMO\Testler\Tesler\Utilities\bin\x86\Debug\DevExpress.XtraGrid.v13.2.dll
+D:\halcon\projects\SUMITOMO\Testler\Tesler\Utilities\bin\x86\Debug\DevExpress.XtraPrinting.v13.2.dll
+D:\halcon\projects\SUMITOMO\Testler\Tesler\Utilities\bin\x86\Debug\DevExpress.Printing.v13.2.Core.xml
+D:\halcon\projects\SUMITOMO\Testler\Tesler\Utilities\bin\x86\Debug\DevExpress.Data.v13.2.xml
+D:\halcon\projects\SUMITOMO\Testler\Tesler\Utilities\bin\x86\Debug\DevExpress.Utils.v13.2.xml
+D:\halcon\projects\SUMITOMO\Testler\Tesler\Utilities\bin\x86\Debug\DevExpress.XtraEditors.v13.2.xml
+D:\halcon\projects\SUMITOMO\Testler\Tesler\Utilities\bin\x86\Debug\DevExpress.XtraPrinting.v13.2.xml
+D:\halcon\projects\SUMITOMO\Testler\Tesler\Utilities\bin\x86\Debug\DevExpress.XtraGrid.v13.2.xml
+D:\halcon\projects\SUMITOMO\Testler\Tesler\Utilities\bin\x86\Debug\de\DevExpress.Printing.v13.2.Core.resources.dll
+D:\halcon\projects\SUMITOMO\Testler\Tesler\Utilities\bin\x86\Debug\es\DevExpress.Printing.v13.2.Core.resources.dll
+D:\halcon\projects\SUMITOMO\Testler\Tesler\Utilities\bin\x86\Debug\ja\DevExpress.Printing.v13.2.Core.resources.dll
+D:\halcon\projects\SUMITOMO\Testler\Tesler\Utilities\bin\x86\Debug\ru\DevExpress.Printing.v13.2.Core.resources.dll
+D:\halcon\projects\SUMITOMO\Testler\Tesler\Utilities\bin\x86\Debug\de\DevExpress.Data.v13.2.resources.dll
+D:\halcon\projects\SUMITOMO\Testler\Tesler\Utilities\bin\x86\Debug\es\DevExpress.Data.v13.2.resources.dll
+D:\halcon\projects\SUMITOMO\Testler\Tesler\Utilities\bin\x86\Debug\ja\DevExpress.Data.v13.2.resources.dll
+D:\halcon\projects\SUMITOMO\Testler\Tesler\Utilities\bin\x86\Debug\ru\DevExpress.Data.v13.2.resources.dll
+D:\halcon\projects\SUMITOMO\Testler\Tesler\Utilities\bin\x86\Debug\de\DevExpress.Utils.v13.2.resources.dll
+D:\halcon\projects\SUMITOMO\Testler\Tesler\Utilities\bin\x86\Debug\es\DevExpress.Utils.v13.2.resources.dll
+D:\halcon\projects\SUMITOMO\Testler\Tesler\Utilities\bin\x86\Debug\ja\DevExpress.Utils.v13.2.resources.dll
+D:\halcon\projects\SUMITOMO\Testler\Tesler\Utilities\bin\x86\Debug\ru\DevExpress.Utils.v13.2.resources.dll
+D:\halcon\projects\SUMITOMO\Testler\Tesler\Utilities\bin\x86\Debug\de\DevExpress.XtraEditors.v13.2.resources.dll
+D:\halcon\projects\SUMITOMO\Testler\Tesler\Utilities\bin\x86\Debug\es\DevExpress.XtraEditors.v13.2.resources.dll
+D:\halcon\projects\SUMITOMO\Testler\Tesler\Utilities\bin\x86\Debug\ja\DevExpress.XtraEditors.v13.2.resources.dll
+D:\halcon\projects\SUMITOMO\Testler\Tesler\Utilities\bin\x86\Debug\ru\DevExpress.XtraEditors.v13.2.resources.dll
+D:\halcon\projects\SUMITOMO\Testler\Tesler\Utilities\bin\x86\Debug\de\DevExpress.XtraPrinting.v13.2.resources.dll
+D:\halcon\projects\SUMITOMO\Testler\Tesler\Utilities\bin\x86\Debug\es\DevExpress.XtraPrinting.v13.2.resources.dll
+D:\halcon\projects\SUMITOMO\Testler\Tesler\Utilities\bin\x86\Debug\ja\DevExpress.XtraPrinting.v13.2.resources.dll
+D:\halcon\projects\SUMITOMO\Testler\Tesler\Utilities\bin\x86\Debug\ru\DevExpress.XtraPrinting.v13.2.resources.dll
+D:\halcon\projects\SUMITOMO\Testler\Tesler\Utilities\bin\x86\Debug\de\DevExpress.XtraGrid.v13.2.resources.dll
+D:\halcon\projects\SUMITOMO\Testler\Tesler\Utilities\bin\x86\Debug\es\DevExpress.XtraGrid.v13.2.resources.dll
+D:\halcon\projects\SUMITOMO\Testler\Tesler\Utilities\bin\x86\Debug\ja\DevExpress.XtraGrid.v13.2.resources.dll
+D:\halcon\projects\SUMITOMO\Testler\Tesler\Utilities\bin\x86\Debug\ru\DevExpress.XtraGrid.v13.2.resources.dll
+D:\halcon\projects\SUMITOMO\Testler\Tesler\Utilities\obj\x86\Debug\Utilities.csprojAssemblyReference.cache
+D:\halcon\projects\SUMITOMO\Testler\Tesler\Utilities\obj\x86\Debug\Utilities.csproj.ResolveComReference.cache
+D:\halcon\projects\SUMITOMO\Testler\Tesler\Utilities\obj\x86\Debug\Utilities.Properties.Resources.resources
+D:\halcon\projects\SUMITOMO\Testler\Tesler\Utilities\obj\x86\Debug\Utilities.csproj.GenerateResource.cache
+D:\halcon\projects\SUMITOMO\Testler\Tesler\Utilities\obj\x86\Debug\Utilities.csproj.CopyComplete
+D:\halcon\projects\SUMITOMO\Testler\Tesler\Utilities\obj\x86\Debug\Utilities.dll
+D:\halcon\projects\SUMITOMO\Testler\Tesler\Utilities\obj\x86\Debug\Utilities.pdb
+D:\Dev\SIMOTOMO\Testler\Tesler\Utilities\bin\x86\Debug\Utilities.dll
+D:\Dev\SIMOTOMO\Testler\Tesler\Utilities\bin\x86\Debug\Utilities.pdb
+D:\Dev\SIMOTOMO\Testler\Tesler\Utilities\bin\x86\Debug\DevExpress.Data.v13.2.dll
+D:\Dev\SIMOTOMO\Testler\Tesler\Utilities\bin\x86\Debug\DevExpress.Printing.v13.2.Core.dll
+D:\Dev\SIMOTOMO\Testler\Tesler\Utilities\bin\x86\Debug\DevExpress.Utils.v13.2.dll
+D:\Dev\SIMOTOMO\Testler\Tesler\Utilities\bin\x86\Debug\DevExpress.XtraEditors.v13.2.dll
+D:\Dev\SIMOTOMO\Testler\Tesler\Utilities\bin\x86\Debug\DevExpress.XtraGrid.v13.2.dll
+D:\Dev\SIMOTOMO\Testler\Tesler\Utilities\bin\x86\Debug\DevExpress.XtraPrinting.v13.2.dll
+D:\Dev\SIMOTOMO\Testler\Tesler\Utilities\bin\x86\Debug\DevExpress.Printing.v13.2.Core.xml
+D:\Dev\SIMOTOMO\Testler\Tesler\Utilities\bin\x86\Debug\DevExpress.Data.v13.2.xml
+D:\Dev\SIMOTOMO\Testler\Tesler\Utilities\bin\x86\Debug\DevExpress.Utils.v13.2.xml
+D:\Dev\SIMOTOMO\Testler\Tesler\Utilities\bin\x86\Debug\DevExpress.XtraEditors.v13.2.xml
+D:\Dev\SIMOTOMO\Testler\Tesler\Utilities\bin\x86\Debug\DevExpress.XtraPrinting.v13.2.xml
+D:\Dev\SIMOTOMO\Testler\Tesler\Utilities\bin\x86\Debug\DevExpress.XtraGrid.v13.2.xml
+D:\Dev\SIMOTOMO\Testler\Tesler\Utilities\bin\x86\Debug\de\DevExpress.Printing.v13.2.Core.resources.dll
+D:\Dev\SIMOTOMO\Testler\Tesler\Utilities\bin\x86\Debug\es\DevExpress.Printing.v13.2.Core.resources.dll
+D:\Dev\SIMOTOMO\Testler\Tesler\Utilities\bin\x86\Debug\ja\DevExpress.Printing.v13.2.Core.resources.dll
+D:\Dev\SIMOTOMO\Testler\Tesler\Utilities\bin\x86\Debug\ru\DevExpress.Printing.v13.2.Core.resources.dll
+D:\Dev\SIMOTOMO\Testler\Tesler\Utilities\bin\x86\Debug\de\DevExpress.Data.v13.2.resources.dll
+D:\Dev\SIMOTOMO\Testler\Tesler\Utilities\bin\x86\Debug\es\DevExpress.Data.v13.2.resources.dll
+D:\Dev\SIMOTOMO\Testler\Tesler\Utilities\bin\x86\Debug\ja\DevExpress.Data.v13.2.resources.dll
+D:\Dev\SIMOTOMO\Testler\Tesler\Utilities\bin\x86\Debug\ru\DevExpress.Data.v13.2.resources.dll
+D:\Dev\SIMOTOMO\Testler\Tesler\Utilities\bin\x86\Debug\de\DevExpress.Utils.v13.2.resources.dll
+D:\Dev\SIMOTOMO\Testler\Tesler\Utilities\bin\x86\Debug\es\DevExpress.Utils.v13.2.resources.dll
+D:\Dev\SIMOTOMO\Testler\Tesler\Utilities\bin\x86\Debug\ja\DevExpress.Utils.v13.2.resources.dll
+D:\Dev\SIMOTOMO\Testler\Tesler\Utilities\bin\x86\Debug\ru\DevExpress.Utils.v13.2.resources.dll
+D:\Dev\SIMOTOMO\Testler\Tesler\Utilities\bin\x86\Debug\de\DevExpress.XtraEditors.v13.2.resources.dll
+D:\Dev\SIMOTOMO\Testler\Tesler\Utilities\bin\x86\Debug\es\DevExpress.XtraEditors.v13.2.resources.dll
+D:\Dev\SIMOTOMO\Testler\Tesler\Utilities\bin\x86\Debug\ja\DevExpress.XtraEditors.v13.2.resources.dll
+D:\Dev\SIMOTOMO\Testler\Tesler\Utilities\bin\x86\Debug\ru\DevExpress.XtraEditors.v13.2.resources.dll
+D:\Dev\SIMOTOMO\Testler\Tesler\Utilities\bin\x86\Debug\de\DevExpress.XtraPrinting.v13.2.resources.dll
+D:\Dev\SIMOTOMO\Testler\Tesler\Utilities\bin\x86\Debug\es\DevExpress.XtraPrinting.v13.2.resources.dll
+D:\Dev\SIMOTOMO\Testler\Tesler\Utilities\bin\x86\Debug\ja\DevExpress.XtraPrinting.v13.2.resources.dll
+D:\Dev\SIMOTOMO\Testler\Tesler\Utilities\bin\x86\Debug\ru\DevExpress.XtraPrinting.v13.2.resources.dll
+D:\Dev\SIMOTOMO\Testler\Tesler\Utilities\bin\x86\Debug\de\DevExpress.XtraGrid.v13.2.resources.dll
+D:\Dev\SIMOTOMO\Testler\Tesler\Utilities\bin\x86\Debug\es\DevExpress.XtraGrid.v13.2.resources.dll
+D:\Dev\SIMOTOMO\Testler\Tesler\Utilities\bin\x86\Debug\ja\DevExpress.XtraGrid.v13.2.resources.dll
+D:\Dev\SIMOTOMO\Testler\Tesler\Utilities\bin\x86\Debug\ru\DevExpress.XtraGrid.v13.2.resources.dll
+D:\Dev\SIMOTOMO\Testler\Tesler\Utilities\obj\x86\Debug\Utilities.csprojAssemblyReference.cache
+D:\Dev\SIMOTOMO\Testler\Tesler\Utilities\obj\x86\Debug\Utilities.csproj.ResolveComReference.cache
+D:\Dev\SIMOTOMO\Testler\Tesler\Utilities\obj\x86\Debug\Utilities.Properties.Resources.resources
+D:\Dev\SIMOTOMO\Testler\Tesler\Utilities\obj\x86\Debug\Utilities.csproj.GenerateResource.cache
+D:\Dev\SIMOTOMO\Testler\Tesler\Utilities\obj\x86\Debug\Utilities.csproj.CopyComplete
+D:\Dev\SIMOTOMO\Testler\Tesler\Utilities\obj\x86\Debug\Utilities.dll
+D:\Dev\SIMOTOMO\Testler\Tesler\Utilities\obj\x86\Debug\Utilities.pdb
+D:\Project\SIMOTOMO\Andon\Code\Utilities\bin\x86\Debug\Utilities.dll
+D:\Project\SIMOTOMO\Andon\Code\Utilities\bin\x86\Debug\Utilities.pdb
+D:\Project\SIMOTOMO\Andon\Code\Utilities\bin\x86\Debug\DevExpress.Data.v13.2.dll
+D:\Project\SIMOTOMO\Andon\Code\Utilities\bin\x86\Debug\DevExpress.Printing.v13.2.Core.dll
+D:\Project\SIMOTOMO\Andon\Code\Utilities\bin\x86\Debug\DevExpress.Utils.v13.2.dll
+D:\Project\SIMOTOMO\Andon\Code\Utilities\bin\x86\Debug\DevExpress.XtraEditors.v13.2.dll
+D:\Project\SIMOTOMO\Andon\Code\Utilities\bin\x86\Debug\DevExpress.XtraGrid.v13.2.dll
+D:\Project\SIMOTOMO\Andon\Code\Utilities\bin\x86\Debug\DevExpress.XtraPrinting.v13.2.dll
+D:\Project\SIMOTOMO\Andon\Code\Utilities\bin\x86\Debug\DevExpress.Printing.v13.2.Core.xml
+D:\Project\SIMOTOMO\Andon\Code\Utilities\bin\x86\Debug\DevExpress.Data.v13.2.xml
+D:\Project\SIMOTOMO\Andon\Code\Utilities\bin\x86\Debug\DevExpress.Utils.v13.2.xml
+D:\Project\SIMOTOMO\Andon\Code\Utilities\bin\x86\Debug\DevExpress.XtraEditors.v13.2.xml
+D:\Project\SIMOTOMO\Andon\Code\Utilities\bin\x86\Debug\DevExpress.XtraPrinting.v13.2.xml
+D:\Project\SIMOTOMO\Andon\Code\Utilities\bin\x86\Debug\DevExpress.XtraGrid.v13.2.xml
+D:\Project\SIMOTOMO\Andon\Code\Utilities\bin\x86\Debug\de\DevExpress.Printing.v13.2.Core.resources.dll
+D:\Project\SIMOTOMO\Andon\Code\Utilities\bin\x86\Debug\es\DevExpress.Printing.v13.2.Core.resources.dll
+D:\Project\SIMOTOMO\Andon\Code\Utilities\bin\x86\Debug\ja\DevExpress.Printing.v13.2.Core.resources.dll
+D:\Project\SIMOTOMO\Andon\Code\Utilities\bin\x86\Debug\ru\DevExpress.Printing.v13.2.Core.resources.dll
+D:\Project\SIMOTOMO\Andon\Code\Utilities\bin\x86\Debug\de\DevExpress.Data.v13.2.resources.dll
+D:\Project\SIMOTOMO\Andon\Code\Utilities\bin\x86\Debug\es\DevExpress.Data.v13.2.resources.dll
+D:\Project\SIMOTOMO\Andon\Code\Utilities\bin\x86\Debug\ja\DevExpress.Data.v13.2.resources.dll
+D:\Project\SIMOTOMO\Andon\Code\Utilities\bin\x86\Debug\ru\DevExpress.Data.v13.2.resources.dll
+D:\Project\SIMOTOMO\Andon\Code\Utilities\bin\x86\Debug\de\DevExpress.Utils.v13.2.resources.dll
+D:\Project\SIMOTOMO\Andon\Code\Utilities\bin\x86\Debug\es\DevExpress.Utils.v13.2.resources.dll
+D:\Project\SIMOTOMO\Andon\Code\Utilities\bin\x86\Debug\ja\DevExpress.Utils.v13.2.resources.dll
+D:\Project\SIMOTOMO\Andon\Code\Utilities\bin\x86\Debug\ru\DevExpress.Utils.v13.2.resources.dll
+D:\Project\SIMOTOMO\Andon\Code\Utilities\bin\x86\Debug\de\DevExpress.XtraEditors.v13.2.resources.dll
+D:\Project\SIMOTOMO\Andon\Code\Utilities\bin\x86\Debug\es\DevExpress.XtraEditors.v13.2.resources.dll
+D:\Project\SIMOTOMO\Andon\Code\Utilities\bin\x86\Debug\ja\DevExpress.XtraEditors.v13.2.resources.dll
+D:\Project\SIMOTOMO\Andon\Code\Utilities\bin\x86\Debug\ru\DevExpress.XtraEditors.v13.2.resources.dll
+D:\Project\SIMOTOMO\Andon\Code\Utilities\bin\x86\Debug\de\DevExpress.XtraPrinting.v13.2.resources.dll
+D:\Project\SIMOTOMO\Andon\Code\Utilities\bin\x86\Debug\es\DevExpress.XtraPrinting.v13.2.resources.dll
+D:\Project\SIMOTOMO\Andon\Code\Utilities\bin\x86\Debug\ja\DevExpress.XtraPrinting.v13.2.resources.dll
+D:\Project\SIMOTOMO\Andon\Code\Utilities\bin\x86\Debug\ru\DevExpress.XtraPrinting.v13.2.resources.dll
+D:\Project\SIMOTOMO\Andon\Code\Utilities\bin\x86\Debug\de\DevExpress.XtraGrid.v13.2.resources.dll
+D:\Project\SIMOTOMO\Andon\Code\Utilities\bin\x86\Debug\es\DevExpress.XtraGrid.v13.2.resources.dll
+D:\Project\SIMOTOMO\Andon\Code\Utilities\bin\x86\Debug\ja\DevExpress.XtraGrid.v13.2.resources.dll
+D:\Project\SIMOTOMO\Andon\Code\Utilities\bin\x86\Debug\ru\DevExpress.XtraGrid.v13.2.resources.dll
+D:\Project\SIMOTOMO\Andon\Code\Utilities\obj\x86\Debug\Utilities.csprojAssemblyReference.cache
+D:\Project\SIMOTOMO\Andon\Code\Utilities\obj\x86\Debug\Utilities.csproj.ResolveComReference.cache
+D:\Project\SIMOTOMO\Andon\Code\Utilities\obj\x86\Debug\Utilities.Properties.Resources.resources
+D:\Project\SIMOTOMO\Andon\Code\Utilities\obj\x86\Debug\Utilities.csproj.GenerateResource.cache
+D:\Project\SIMOTOMO\Andon\Code\Utilities\obj\x86\Debug\Utilities.csproj.CopyComplete
+D:\Project\SIMOTOMO\Andon\Code\Utilities\obj\x86\Debug\Utilities.dll
+D:\Project\SIMOTOMO\Andon\Code\Utilities\obj\x86\Debug\Utilities.pdb
+D:\Project\Sumitomo\AndonCode\Utilities\bin\x86\Debug\Utilities.dll
+D:\Project\Sumitomo\AndonCode\Utilities\bin\x86\Debug\Utilities.pdb
+D:\Project\Sumitomo\AndonCode\Utilities\bin\x86\Debug\DevExpress.Data.v13.2.dll
+D:\Project\Sumitomo\AndonCode\Utilities\bin\x86\Debug\DevExpress.Printing.v13.2.Core.dll
+D:\Project\Sumitomo\AndonCode\Utilities\bin\x86\Debug\DevExpress.Utils.v13.2.dll
+D:\Project\Sumitomo\AndonCode\Utilities\bin\x86\Debug\DevExpress.XtraEditors.v13.2.dll
+D:\Project\Sumitomo\AndonCode\Utilities\bin\x86\Debug\DevExpress.XtraGrid.v13.2.dll
+D:\Project\Sumitomo\AndonCode\Utilities\bin\x86\Debug\DevExpress.XtraPrinting.v13.2.dll
+D:\Project\Sumitomo\AndonCode\Utilities\bin\x86\Debug\DevExpress.Printing.v13.2.Core.xml
+D:\Project\Sumitomo\AndonCode\Utilities\bin\x86\Debug\DevExpress.Data.v13.2.xml
+D:\Project\Sumitomo\AndonCode\Utilities\bin\x86\Debug\DevExpress.Utils.v13.2.xml
+D:\Project\Sumitomo\AndonCode\Utilities\bin\x86\Debug\DevExpress.XtraEditors.v13.2.xml
+D:\Project\Sumitomo\AndonCode\Utilities\bin\x86\Debug\DevExpress.XtraPrinting.v13.2.xml
+D:\Project\Sumitomo\AndonCode\Utilities\bin\x86\Debug\DevExpress.XtraGrid.v13.2.xml
+D:\Project\Sumitomo\AndonCode\Utilities\bin\x86\Debug\de\DevExpress.Printing.v13.2.Core.resources.dll
+D:\Project\Sumitomo\AndonCode\Utilities\bin\x86\Debug\es\DevExpress.Printing.v13.2.Core.resources.dll
+D:\Project\Sumitomo\AndonCode\Utilities\bin\x86\Debug\ja\DevExpress.Printing.v13.2.Core.resources.dll
+D:\Project\Sumitomo\AndonCode\Utilities\bin\x86\Debug\ru\DevExpress.Printing.v13.2.Core.resources.dll
+D:\Project\Sumitomo\AndonCode\Utilities\bin\x86\Debug\de\DevExpress.Data.v13.2.resources.dll
+D:\Project\Sumitomo\AndonCode\Utilities\bin\x86\Debug\es\DevExpress.Data.v13.2.resources.dll
+D:\Project\Sumitomo\AndonCode\Utilities\bin\x86\Debug\ja\DevExpress.Data.v13.2.resources.dll
+D:\Project\Sumitomo\AndonCode\Utilities\bin\x86\Debug\ru\DevExpress.Data.v13.2.resources.dll
+D:\Project\Sumitomo\AndonCode\Utilities\bin\x86\Debug\de\DevExpress.Utils.v13.2.resources.dll
+D:\Project\Sumitomo\AndonCode\Utilities\bin\x86\Debug\es\DevExpress.Utils.v13.2.resources.dll
+D:\Project\Sumitomo\AndonCode\Utilities\bin\x86\Debug\ja\DevExpress.Utils.v13.2.resources.dll
+D:\Project\Sumitomo\AndonCode\Utilities\bin\x86\Debug\ru\DevExpress.Utils.v13.2.resources.dll
+D:\Project\Sumitomo\AndonCode\Utilities\bin\x86\Debug\de\DevExpress.XtraEditors.v13.2.resources.dll
+D:\Project\Sumitomo\AndonCode\Utilities\bin\x86\Debug\es\DevExpress.XtraEditors.v13.2.resources.dll
+D:\Project\Sumitomo\AndonCode\Utilities\bin\x86\Debug\ja\DevExpress.XtraEditors.v13.2.resources.dll
+D:\Project\Sumitomo\AndonCode\Utilities\bin\x86\Debug\ru\DevExpress.XtraEditors.v13.2.resources.dll
+D:\Project\Sumitomo\AndonCode\Utilities\bin\x86\Debug\de\DevExpress.XtraPrinting.v13.2.resources.dll
+D:\Project\Sumitomo\AndonCode\Utilities\bin\x86\Debug\es\DevExpress.XtraPrinting.v13.2.resources.dll
+D:\Project\Sumitomo\AndonCode\Utilities\bin\x86\Debug\ja\DevExpress.XtraPrinting.v13.2.resources.dll
+D:\Project\Sumitomo\AndonCode\Utilities\bin\x86\Debug\ru\DevExpress.XtraPrinting.v13.2.resources.dll
+D:\Project\Sumitomo\AndonCode\Utilities\bin\x86\Debug\de\DevExpress.XtraGrid.v13.2.resources.dll
+D:\Project\Sumitomo\AndonCode\Utilities\bin\x86\Debug\es\DevExpress.XtraGrid.v13.2.resources.dll
+D:\Project\Sumitomo\AndonCode\Utilities\bin\x86\Debug\ja\DevExpress.XtraGrid.v13.2.resources.dll
+D:\Project\Sumitomo\AndonCode\Utilities\bin\x86\Debug\ru\DevExpress.XtraGrid.v13.2.resources.dll
+D:\Project\Sumitomo\AndonCode\Utilities\obj\x86\Debug\Utilities.csprojAssemblyReference.cache
+D:\Project\Sumitomo\AndonCode\Utilities\obj\x86\Debug\Utilities.csproj.ResolveComReference.cache
+D:\Project\Sumitomo\AndonCode\Utilities\obj\x86\Debug\Utilities.Properties.Resources.resources
+D:\Project\Sumitomo\AndonCode\Utilities\obj\x86\Debug\Utilities.csproj.GenerateResource.cache
+D:\Project\Sumitomo\AndonCode\Utilities\obj\x86\Debug\Utilities.csproj.CopyComplete
+D:\Project\Sumitomo\AndonCode\Utilities\obj\x86\Debug\Utilities.dll
+D:\Project\Sumitomo\AndonCode\Utilities\obj\x86\Debug\Utilities.pdb
+D:\Project\SIMOTOMO\Andon\AndonCode\Utilities\bin\x86\Debug\Utilities.dll
+D:\Project\SIMOTOMO\Andon\AndonCode\Utilities\bin\x86\Debug\Utilities.pdb
+D:\Project\SIMOTOMO\Andon\AndonCode\Utilities\bin\x86\Debug\DevExpress.Data.v13.2.dll
+D:\Project\SIMOTOMO\Andon\AndonCode\Utilities\bin\x86\Debug\DevExpress.Printing.v13.2.Core.dll
+D:\Project\SIMOTOMO\Andon\AndonCode\Utilities\bin\x86\Debug\DevExpress.Utils.v13.2.dll
+D:\Project\SIMOTOMO\Andon\AndonCode\Utilities\bin\x86\Debug\DevExpress.XtraEditors.v13.2.dll
+D:\Project\SIMOTOMO\Andon\AndonCode\Utilities\bin\x86\Debug\DevExpress.XtraGrid.v13.2.dll
+D:\Project\SIMOTOMO\Andon\AndonCode\Utilities\bin\x86\Debug\DevExpress.XtraPrinting.v13.2.dll
+D:\Project\SIMOTOMO\Andon\AndonCode\Utilities\bin\x86\Debug\DevExpress.Printing.v13.2.Core.xml
+D:\Project\SIMOTOMO\Andon\AndonCode\Utilities\bin\x86\Debug\DevExpress.Data.v13.2.xml
+D:\Project\SIMOTOMO\Andon\AndonCode\Utilities\bin\x86\Debug\DevExpress.Utils.v13.2.xml
+D:\Project\SIMOTOMO\Andon\AndonCode\Utilities\bin\x86\Debug\DevExpress.XtraEditors.v13.2.xml
+D:\Project\SIMOTOMO\Andon\AndonCode\Utilities\bin\x86\Debug\DevExpress.XtraPrinting.v13.2.xml
+D:\Project\SIMOTOMO\Andon\AndonCode\Utilities\bin\x86\Debug\DevExpress.XtraGrid.v13.2.xml
+D:\Project\SIMOTOMO\Andon\AndonCode\Utilities\bin\x86\Debug\de\DevExpress.Printing.v13.2.Core.resources.dll
+D:\Project\SIMOTOMO\Andon\AndonCode\Utilities\bin\x86\Debug\es\DevExpress.Printing.v13.2.Core.resources.dll
+D:\Project\SIMOTOMO\Andon\AndonCode\Utilities\bin\x86\Debug\ja\DevExpress.Printing.v13.2.Core.resources.dll
+D:\Project\SIMOTOMO\Andon\AndonCode\Utilities\bin\x86\Debug\ru\DevExpress.Printing.v13.2.Core.resources.dll
+D:\Project\SIMOTOMO\Andon\AndonCode\Utilities\bin\x86\Debug\de\DevExpress.Data.v13.2.resources.dll
+D:\Project\SIMOTOMO\Andon\AndonCode\Utilities\bin\x86\Debug\es\DevExpress.Data.v13.2.resources.dll
+D:\Project\SIMOTOMO\Andon\AndonCode\Utilities\bin\x86\Debug\ja\DevExpress.Data.v13.2.resources.dll
+D:\Project\SIMOTOMO\Andon\AndonCode\Utilities\bin\x86\Debug\ru\DevExpress.Data.v13.2.resources.dll
+D:\Project\SIMOTOMO\Andon\AndonCode\Utilities\bin\x86\Debug\de\DevExpress.Utils.v13.2.resources.dll
+D:\Project\SIMOTOMO\Andon\AndonCode\Utilities\bin\x86\Debug\es\DevExpress.Utils.v13.2.resources.dll
+D:\Project\SIMOTOMO\Andon\AndonCode\Utilities\bin\x86\Debug\ja\DevExpress.Utils.v13.2.resources.dll
+D:\Project\SIMOTOMO\Andon\AndonCode\Utilities\bin\x86\Debug\ru\DevExpress.Utils.v13.2.resources.dll
+D:\Project\SIMOTOMO\Andon\AndonCode\Utilities\bin\x86\Debug\de\DevExpress.XtraEditors.v13.2.resources.dll
+D:\Project\SIMOTOMO\Andon\AndonCode\Utilities\bin\x86\Debug\es\DevExpress.XtraEditors.v13.2.resources.dll
+D:\Project\SIMOTOMO\Andon\AndonCode\Utilities\bin\x86\Debug\ja\DevExpress.XtraEditors.v13.2.resources.dll
+D:\Project\SIMOTOMO\Andon\AndonCode\Utilities\bin\x86\Debug\ru\DevExpress.XtraEditors.v13.2.resources.dll
+D:\Project\SIMOTOMO\Andon\AndonCode\Utilities\bin\x86\Debug\de\DevExpress.XtraPrinting.v13.2.resources.dll
+D:\Project\SIMOTOMO\Andon\AndonCode\Utilities\bin\x86\Debug\es\DevExpress.XtraPrinting.v13.2.resources.dll
+D:\Project\SIMOTOMO\Andon\AndonCode\Utilities\bin\x86\Debug\ja\DevExpress.XtraPrinting.v13.2.resources.dll
+D:\Project\SIMOTOMO\Andon\AndonCode\Utilities\bin\x86\Debug\ru\DevExpress.XtraPrinting.v13.2.resources.dll
+D:\Project\SIMOTOMO\Andon\AndonCode\Utilities\bin\x86\Debug\de\DevExpress.XtraGrid.v13.2.resources.dll
+D:\Project\SIMOTOMO\Andon\AndonCode\Utilities\bin\x86\Debug\es\DevExpress.XtraGrid.v13.2.resources.dll
+D:\Project\SIMOTOMO\Andon\AndonCode\Utilities\bin\x86\Debug\ja\DevExpress.XtraGrid.v13.2.resources.dll
+D:\Project\SIMOTOMO\Andon\AndonCode\Utilities\bin\x86\Debug\ru\DevExpress.XtraGrid.v13.2.resources.dll
+D:\Project\SIMOTOMO\Andon\AndonCode\Utilities\obj\x86\Debug\Utilities.csprojAssemblyReference.cache
+D:\Project\SIMOTOMO\Andon\AndonCode\Utilities\obj\x86\Debug\Utilities.csproj.ResolveComReference.cache
+D:\Project\SIMOTOMO\Andon\AndonCode\Utilities\obj\x86\Debug\Utilities.Properties.Resources.resources
+D:\Project\SIMOTOMO\Andon\AndonCode\Utilities\obj\x86\Debug\Utilities.csproj.GenerateResource.cache
+D:\Project\SIMOTOMO\Andon\AndonCode\Utilities\obj\x86\Debug\Utilities.csproj.CopyComplete
+D:\Project\SIMOTOMO\Andon\AndonCode\Utilities\obj\x86\Debug\Utilities.dll
+D:\Project\SIMOTOMO\Andon\AndonCode\Utilities\obj\x86\Debug\Utilities.pdb
+D:\PROJECT\RTC\Sumitomo\25-02-2020\AndonCode\Utilities\obj\x86\Debug\Utilities.csprojResolveAssemblyReference.cache
+D:\PROJECT\RTC\Sumitomo\25-02-2020\AndonCode\Utilities\obj\x86\Debug\Utilities.csproj.ResolveComReference.cache
+D:\PROJECT\RTC\Sumitomo\25-02-2020\AndonCode\Utilities\obj\x86\Debug\Utilities.Properties.Resources.resources
+D:\PROJECT\RTC\Sumitomo\25-02-2020\AndonCode\Utilities\obj\x86\Debug\Utilities.csproj.GenerateResource.Cache
+D:\PROJECT\RTC\Sumitomo\25-02-2020\AndonCode\Utilities\obj\x86\Debug\Utilities.dll
+D:\PROJECT\RTC\Sumitomo\25-02-2020\AndonCode\Utilities\obj\x86\Debug\Utilities.pdb
+D:\PROJECT\RTC\Sumitomo\25-02-2020\AndonCode\Utilities\bin\x86\Debug\Utilities.dll
+D:\PROJECT\RTC\Sumitomo\25-02-2020\AndonCode\Utilities\bin\x86\Debug\Utilities.pdb
+D:\Project\Andon_27-02-2020\AndonCode\Utilities\bin\x86\Debug\Utilities.dll
+D:\Project\Andon_27-02-2020\AndonCode\Utilities\bin\x86\Debug\Utilities.pdb
+D:\Project\Andon_27-02-2020\AndonCode\Utilities\bin\x86\Debug\DevExpress.Data.v13.2.dll
+D:\Project\Andon_27-02-2020\AndonCode\Utilities\bin\x86\Debug\DevExpress.Printing.v13.2.Core.dll
+D:\Project\Andon_27-02-2020\AndonCode\Utilities\bin\x86\Debug\DevExpress.Utils.v13.2.dll
+D:\Project\Andon_27-02-2020\AndonCode\Utilities\bin\x86\Debug\DevExpress.XtraEditors.v13.2.dll
+D:\Project\Andon_27-02-2020\AndonCode\Utilities\bin\x86\Debug\DevExpress.XtraGrid.v13.2.dll
+D:\Project\Andon_27-02-2020\AndonCode\Utilities\bin\x86\Debug\DevExpress.XtraPrinting.v13.2.dll
+D:\Project\Andon_27-02-2020\AndonCode\Utilities\bin\x86\Debug\DevExpress.Printing.v13.2.Core.xml
+D:\Project\Andon_27-02-2020\AndonCode\Utilities\bin\x86\Debug\DevExpress.Data.v13.2.xml
+D:\Project\Andon_27-02-2020\AndonCode\Utilities\bin\x86\Debug\DevExpress.Utils.v13.2.xml
+D:\Project\Andon_27-02-2020\AndonCode\Utilities\bin\x86\Debug\DevExpress.XtraEditors.v13.2.xml
+D:\Project\Andon_27-02-2020\AndonCode\Utilities\bin\x86\Debug\DevExpress.XtraPrinting.v13.2.xml
+D:\Project\Andon_27-02-2020\AndonCode\Utilities\bin\x86\Debug\DevExpress.XtraGrid.v13.2.xml
+D:\Project\Andon_27-02-2020\AndonCode\Utilities\bin\x86\Debug\de\DevExpress.Printing.v13.2.Core.resources.dll
+D:\Project\Andon_27-02-2020\AndonCode\Utilities\bin\x86\Debug\es\DevExpress.Printing.v13.2.Core.resources.dll
+D:\Project\Andon_27-02-2020\AndonCode\Utilities\bin\x86\Debug\ja\DevExpress.Printing.v13.2.Core.resources.dll
+D:\Project\Andon_27-02-2020\AndonCode\Utilities\bin\x86\Debug\ru\DevExpress.Printing.v13.2.Core.resources.dll
+D:\Project\Andon_27-02-2020\AndonCode\Utilities\bin\x86\Debug\de\DevExpress.Data.v13.2.resources.dll
+D:\Project\Andon_27-02-2020\AndonCode\Utilities\bin\x86\Debug\es\DevExpress.Data.v13.2.resources.dll
+D:\Project\Andon_27-02-2020\AndonCode\Utilities\bin\x86\Debug\ja\DevExpress.Data.v13.2.resources.dll
+D:\Project\Andon_27-02-2020\AndonCode\Utilities\bin\x86\Debug\ru\DevExpress.Data.v13.2.resources.dll
+D:\Project\Andon_27-02-2020\AndonCode\Utilities\bin\x86\Debug\de\DevExpress.Utils.v13.2.resources.dll
+D:\Project\Andon_27-02-2020\AndonCode\Utilities\bin\x86\Debug\es\DevExpress.Utils.v13.2.resources.dll
+D:\Project\Andon_27-02-2020\AndonCode\Utilities\bin\x86\Debug\ja\DevExpress.Utils.v13.2.resources.dll
+D:\Project\Andon_27-02-2020\AndonCode\Utilities\bin\x86\Debug\ru\DevExpress.Utils.v13.2.resources.dll
+D:\Project\Andon_27-02-2020\AndonCode\Utilities\bin\x86\Debug\de\DevExpress.XtraEditors.v13.2.resources.dll
+D:\Project\Andon_27-02-2020\AndonCode\Utilities\bin\x86\Debug\es\DevExpress.XtraEditors.v13.2.resources.dll
+D:\Project\Andon_27-02-2020\AndonCode\Utilities\bin\x86\Debug\ja\DevExpress.XtraEditors.v13.2.resources.dll
+D:\Project\Andon_27-02-2020\AndonCode\Utilities\bin\x86\Debug\ru\DevExpress.XtraEditors.v13.2.resources.dll
+D:\Project\Andon_27-02-2020\AndonCode\Utilities\bin\x86\Debug\de\DevExpress.XtraPrinting.v13.2.resources.dll
+D:\Project\Andon_27-02-2020\AndonCode\Utilities\bin\x86\Debug\es\DevExpress.XtraPrinting.v13.2.resources.dll
+D:\Project\Andon_27-02-2020\AndonCode\Utilities\bin\x86\Debug\ja\DevExpress.XtraPrinting.v13.2.resources.dll
+D:\Project\Andon_27-02-2020\AndonCode\Utilities\bin\x86\Debug\ru\DevExpress.XtraPrinting.v13.2.resources.dll
+D:\Project\Andon_27-02-2020\AndonCode\Utilities\bin\x86\Debug\de\DevExpress.XtraGrid.v13.2.resources.dll
+D:\Project\Andon_27-02-2020\AndonCode\Utilities\bin\x86\Debug\es\DevExpress.XtraGrid.v13.2.resources.dll
+D:\Project\Andon_27-02-2020\AndonCode\Utilities\bin\x86\Debug\ja\DevExpress.XtraGrid.v13.2.resources.dll
+D:\Project\Andon_27-02-2020\AndonCode\Utilities\bin\x86\Debug\ru\DevExpress.XtraGrid.v13.2.resources.dll
+D:\Project\Andon_27-02-2020\AndonCode\Utilities\obj\x86\Debug\Utilities.csprojAssemblyReference.cache
+D:\Project\Andon_27-02-2020\AndonCode\Utilities\obj\x86\Debug\Utilities.csproj.ResolveComReference.cache
+D:\Project\Andon_27-02-2020\AndonCode\Utilities\obj\x86\Debug\Utilities.Properties.Resources.resources
+D:\Project\Andon_27-02-2020\AndonCode\Utilities\obj\x86\Debug\Utilities.csproj.GenerateResource.cache
+D:\Project\Andon_27-02-2020\AndonCode\Utilities\obj\x86\Debug\Utilities.csproj.CopyComplete
+D:\Project\Andon_27-02-2020\AndonCode\Utilities\obj\x86\Debug\Utilities.dll
+D:\Project\Andon_27-02-2020\AndonCode\Utilities\obj\x86\Debug\Utilities.pdb
+C:\Users\MrThao\Desktop\AndonCode\Utilities\bin\x86\Debug\Utilities.dll
+C:\Users\MrThao\Desktop\AndonCode\Utilities\bin\x86\Debug\Utilities.pdb
+C:\Users\MrThao\Desktop\AndonCode\Utilities\obj\x86\Debug\Utilities.csprojResolveAssemblyReference.cache
+C:\Users\MrThao\Desktop\AndonCode\Utilities\obj\x86\Debug\Utilities.csproj.ResolveComReference.cache
+C:\Users\MrThao\Desktop\AndonCode\Utilities\obj\x86\Debug\Utilities.Properties.Resources.resources
+C:\Users\MrThao\Desktop\AndonCode\Utilities\obj\x86\Debug\Utilities.csproj.GenerateResource.Cache
+C:\Users\MrThao\Desktop\AndonCode\Utilities\obj\x86\Debug\Utilities.dll
+C:\Users\MrThao\Desktop\AndonCode\Utilities\obj\x86\Debug\Utilities.pdb
+D:\Project\Andon_27-02-2020\AndonCode (1)\AndonCode\Utilities\bin\x86\Debug\Utilities.dll
+D:\Project\Andon_27-02-2020\AndonCode (1)\AndonCode\Utilities\bin\x86\Debug\Utilities.pdb
+D:\Project\Andon_27-02-2020\AndonCode (1)\AndonCode\Utilities\bin\x86\Debug\DevExpress.Data.v13.2.dll
+D:\Project\Andon_27-02-2020\AndonCode (1)\AndonCode\Utilities\bin\x86\Debug\DevExpress.Printing.v13.2.Core.dll
+D:\Project\Andon_27-02-2020\AndonCode (1)\AndonCode\Utilities\bin\x86\Debug\DevExpress.Utils.v13.2.dll
+D:\Project\Andon_27-02-2020\AndonCode (1)\AndonCode\Utilities\bin\x86\Debug\DevExpress.XtraEditors.v13.2.dll
+D:\Project\Andon_27-02-2020\AndonCode (1)\AndonCode\Utilities\bin\x86\Debug\DevExpress.XtraGrid.v13.2.dll
+D:\Project\Andon_27-02-2020\AndonCode (1)\AndonCode\Utilities\bin\x86\Debug\DevExpress.XtraPrinting.v13.2.dll
+D:\Project\Andon_27-02-2020\AndonCode (1)\AndonCode\Utilities\bin\x86\Debug\DevExpress.Printing.v13.2.Core.xml
+D:\Project\Andon_27-02-2020\AndonCode (1)\AndonCode\Utilities\bin\x86\Debug\DevExpress.Data.v13.2.xml
+D:\Project\Andon_27-02-2020\AndonCode (1)\AndonCode\Utilities\bin\x86\Debug\DevExpress.Utils.v13.2.xml
+D:\Project\Andon_27-02-2020\AndonCode (1)\AndonCode\Utilities\bin\x86\Debug\DevExpress.XtraEditors.v13.2.xml
+D:\Project\Andon_27-02-2020\AndonCode (1)\AndonCode\Utilities\bin\x86\Debug\DevExpress.XtraPrinting.v13.2.xml
+D:\Project\Andon_27-02-2020\AndonCode (1)\AndonCode\Utilities\bin\x86\Debug\DevExpress.XtraGrid.v13.2.xml
+D:\Project\Andon_27-02-2020\AndonCode (1)\AndonCode\Utilities\bin\x86\Debug\de\DevExpress.Printing.v13.2.Core.resources.dll
+D:\Project\Andon_27-02-2020\AndonCode (1)\AndonCode\Utilities\bin\x86\Debug\es\DevExpress.Printing.v13.2.Core.resources.dll
+D:\Project\Andon_27-02-2020\AndonCode (1)\AndonCode\Utilities\bin\x86\Debug\ja\DevExpress.Printing.v13.2.Core.resources.dll
+D:\Project\Andon_27-02-2020\AndonCode (1)\AndonCode\Utilities\bin\x86\Debug\ru\DevExpress.Printing.v13.2.Core.resources.dll
+D:\Project\Andon_27-02-2020\AndonCode (1)\AndonCode\Utilities\bin\x86\Debug\de\DevExpress.Data.v13.2.resources.dll
+D:\Project\Andon_27-02-2020\AndonCode (1)\AndonCode\Utilities\bin\x86\Debug\es\DevExpress.Data.v13.2.resources.dll
+D:\Project\Andon_27-02-2020\AndonCode (1)\AndonCode\Utilities\bin\x86\Debug\ja\DevExpress.Data.v13.2.resources.dll
+D:\Project\Andon_27-02-2020\AndonCode (1)\AndonCode\Utilities\bin\x86\Debug\ru\DevExpress.Data.v13.2.resources.dll
+D:\Project\Andon_27-02-2020\AndonCode (1)\AndonCode\Utilities\bin\x86\Debug\de\DevExpress.Utils.v13.2.resources.dll
+D:\Project\Andon_27-02-2020\AndonCode (1)\AndonCode\Utilities\bin\x86\Debug\es\DevExpress.Utils.v13.2.resources.dll
+D:\Project\Andon_27-02-2020\AndonCode (1)\AndonCode\Utilities\bin\x86\Debug\ja\DevExpress.Utils.v13.2.resources.dll
+D:\Project\Andon_27-02-2020\AndonCode (1)\AndonCode\Utilities\bin\x86\Debug\ru\DevExpress.Utils.v13.2.resources.dll
+D:\Project\Andon_27-02-2020\AndonCode (1)\AndonCode\Utilities\bin\x86\Debug\de\DevExpress.XtraEditors.v13.2.resources.dll
+D:\Project\Andon_27-02-2020\AndonCode (1)\AndonCode\Utilities\bin\x86\Debug\es\DevExpress.XtraEditors.v13.2.resources.dll
+D:\Project\Andon_27-02-2020\AndonCode (1)\AndonCode\Utilities\bin\x86\Debug\ja\DevExpress.XtraEditors.v13.2.resources.dll
+D:\Project\Andon_27-02-2020\AndonCode (1)\AndonCode\Utilities\bin\x86\Debug\ru\DevExpress.XtraEditors.v13.2.resources.dll
+D:\Project\Andon_27-02-2020\AndonCode (1)\AndonCode\Utilities\bin\x86\Debug\de\DevExpress.XtraPrinting.v13.2.resources.dll
+D:\Project\Andon_27-02-2020\AndonCode (1)\AndonCode\Utilities\bin\x86\Debug\es\DevExpress.XtraPrinting.v13.2.resources.dll
+D:\Project\Andon_27-02-2020\AndonCode (1)\AndonCode\Utilities\bin\x86\Debug\ja\DevExpress.XtraPrinting.v13.2.resources.dll
+D:\Project\Andon_27-02-2020\AndonCode (1)\AndonCode\Utilities\bin\x86\Debug\ru\DevExpress.XtraPrinting.v13.2.resources.dll
+D:\Project\Andon_27-02-2020\AndonCode (1)\AndonCode\Utilities\bin\x86\Debug\de\DevExpress.XtraGrid.v13.2.resources.dll
+D:\Project\Andon_27-02-2020\AndonCode (1)\AndonCode\Utilities\bin\x86\Debug\es\DevExpress.XtraGrid.v13.2.resources.dll
+D:\Project\Andon_27-02-2020\AndonCode (1)\AndonCode\Utilities\bin\x86\Debug\ja\DevExpress.XtraGrid.v13.2.resources.dll
+D:\Project\Andon_27-02-2020\AndonCode (1)\AndonCode\Utilities\bin\x86\Debug\ru\DevExpress.XtraGrid.v13.2.resources.dll
+D:\Project\Andon_27-02-2020\AndonCode (1)\AndonCode\Utilities\obj\x86\Debug\Utilities.csprojAssemblyReference.cache
+D:\Project\Andon_27-02-2020\AndonCode (1)\AndonCode\Utilities\obj\x86\Debug\Utilities.csproj.ResolveComReference.cache
+D:\Project\Andon_27-02-2020\AndonCode (1)\AndonCode\Utilities\obj\x86\Debug\Utilities.Properties.Resources.resources
+D:\Project\Andon_27-02-2020\AndonCode (1)\AndonCode\Utilities\obj\x86\Debug\Utilities.csproj.GenerateResource.cache
+D:\Project\Andon_27-02-2020\AndonCode (1)\AndonCode\Utilities\obj\x86\Debug\Utilities.csproj.CopyComplete
+D:\Project\Andon_27-02-2020\AndonCode (1)\AndonCode\Utilities\obj\x86\Debug\Utilities.dll
+D:\Project\Andon_27-02-2020\AndonCode (1)\AndonCode\Utilities\obj\x86\Debug\Utilities.pdb
+D:\Project\SIMOTOMO\Andon\2-3-2020\AndonCode\Utilities\bin\x86\Debug\Utilities.dll
+D:\Project\SIMOTOMO\Andon\2-3-2020\AndonCode\Utilities\bin\x86\Debug\Utilities.pdb
+D:\Project\SIMOTOMO\Andon\2-3-2020\AndonCode\Utilities\bin\x86\Debug\DevExpress.Data.v13.2.dll
+D:\Project\SIMOTOMO\Andon\2-3-2020\AndonCode\Utilities\bin\x86\Debug\DevExpress.Printing.v13.2.Core.dll
+D:\Project\SIMOTOMO\Andon\2-3-2020\AndonCode\Utilities\bin\x86\Debug\DevExpress.Utils.v13.2.dll
+D:\Project\SIMOTOMO\Andon\2-3-2020\AndonCode\Utilities\bin\x86\Debug\DevExpress.XtraEditors.v13.2.dll
+D:\Project\SIMOTOMO\Andon\2-3-2020\AndonCode\Utilities\bin\x86\Debug\DevExpress.XtraGrid.v13.2.dll
+D:\Project\SIMOTOMO\Andon\2-3-2020\AndonCode\Utilities\bin\x86\Debug\DevExpress.XtraPrinting.v13.2.dll
+D:\Project\SIMOTOMO\Andon\2-3-2020\AndonCode\Utilities\bin\x86\Debug\DevExpress.Printing.v13.2.Core.xml
+D:\Project\SIMOTOMO\Andon\2-3-2020\AndonCode\Utilities\bin\x86\Debug\DevExpress.Data.v13.2.xml
+D:\Project\SIMOTOMO\Andon\2-3-2020\AndonCode\Utilities\bin\x86\Debug\DevExpress.Utils.v13.2.xml
+D:\Project\SIMOTOMO\Andon\2-3-2020\AndonCode\Utilities\bin\x86\Debug\DevExpress.XtraEditors.v13.2.xml
+D:\Project\SIMOTOMO\Andon\2-3-2020\AndonCode\Utilities\bin\x86\Debug\DevExpress.XtraPrinting.v13.2.xml
+D:\Project\SIMOTOMO\Andon\2-3-2020\AndonCode\Utilities\bin\x86\Debug\DevExpress.XtraGrid.v13.2.xml
+D:\Project\SIMOTOMO\Andon\2-3-2020\AndonCode\Utilities\bin\x86\Debug\de\DevExpress.Printing.v13.2.Core.resources.dll
+D:\Project\SIMOTOMO\Andon\2-3-2020\AndonCode\Utilities\bin\x86\Debug\es\DevExpress.Printing.v13.2.Core.resources.dll
+D:\Project\SIMOTOMO\Andon\2-3-2020\AndonCode\Utilities\bin\x86\Debug\ja\DevExpress.Printing.v13.2.Core.resources.dll
+D:\Project\SIMOTOMO\Andon\2-3-2020\AndonCode\Utilities\bin\x86\Debug\ru\DevExpress.Printing.v13.2.Core.resources.dll
+D:\Project\SIMOTOMO\Andon\2-3-2020\AndonCode\Utilities\bin\x86\Debug\de\DevExpress.Data.v13.2.resources.dll
+D:\Project\SIMOTOMO\Andon\2-3-2020\AndonCode\Utilities\bin\x86\Debug\es\DevExpress.Data.v13.2.resources.dll
+D:\Project\SIMOTOMO\Andon\2-3-2020\AndonCode\Utilities\bin\x86\Debug\ja\DevExpress.Data.v13.2.resources.dll
+D:\Project\SIMOTOMO\Andon\2-3-2020\AndonCode\Utilities\bin\x86\Debug\ru\DevExpress.Data.v13.2.resources.dll
+D:\Project\SIMOTOMO\Andon\2-3-2020\AndonCode\Utilities\bin\x86\Debug\de\DevExpress.Utils.v13.2.resources.dll
+D:\Project\SIMOTOMO\Andon\2-3-2020\AndonCode\Utilities\bin\x86\Debug\es\DevExpress.Utils.v13.2.resources.dll
+D:\Project\SIMOTOMO\Andon\2-3-2020\AndonCode\Utilities\bin\x86\Debug\ja\DevExpress.Utils.v13.2.resources.dll
+D:\Project\SIMOTOMO\Andon\2-3-2020\AndonCode\Utilities\bin\x86\Debug\ru\DevExpress.Utils.v13.2.resources.dll
+D:\Project\SIMOTOMO\Andon\2-3-2020\AndonCode\Utilities\bin\x86\Debug\de\DevExpress.XtraEditors.v13.2.resources.dll
+D:\Project\SIMOTOMO\Andon\2-3-2020\AndonCode\Utilities\bin\x86\Debug\es\DevExpress.XtraEditors.v13.2.resources.dll
+D:\Project\SIMOTOMO\Andon\2-3-2020\AndonCode\Utilities\bin\x86\Debug\ja\DevExpress.XtraEditors.v13.2.resources.dll
+D:\Project\SIMOTOMO\Andon\2-3-2020\AndonCode\Utilities\bin\x86\Debug\ru\DevExpress.XtraEditors.v13.2.resources.dll
+D:\Project\SIMOTOMO\Andon\2-3-2020\AndonCode\Utilities\bin\x86\Debug\de\DevExpress.XtraPrinting.v13.2.resources.dll
+D:\Project\SIMOTOMO\Andon\2-3-2020\AndonCode\Utilities\bin\x86\Debug\es\DevExpress.XtraPrinting.v13.2.resources.dll
+D:\Project\SIMOTOMO\Andon\2-3-2020\AndonCode\Utilities\bin\x86\Debug\ja\DevExpress.XtraPrinting.v13.2.resources.dll
+D:\Project\SIMOTOMO\Andon\2-3-2020\AndonCode\Utilities\bin\x86\Debug\ru\DevExpress.XtraPrinting.v13.2.resources.dll
+D:\Project\SIMOTOMO\Andon\2-3-2020\AndonCode\Utilities\bin\x86\Debug\de\DevExpress.XtraGrid.v13.2.resources.dll
+D:\Project\SIMOTOMO\Andon\2-3-2020\AndonCode\Utilities\bin\x86\Debug\es\DevExpress.XtraGrid.v13.2.resources.dll
+D:\Project\SIMOTOMO\Andon\2-3-2020\AndonCode\Utilities\bin\x86\Debug\ja\DevExpress.XtraGrid.v13.2.resources.dll
+D:\Project\SIMOTOMO\Andon\2-3-2020\AndonCode\Utilities\bin\x86\Debug\ru\DevExpress.XtraGrid.v13.2.resources.dll
+D:\Project\SIMOTOMO\Andon\2-3-2020\AndonCode\Utilities\obj\x86\Debug\Utilities.csprojAssemblyReference.cache
+D:\Project\SIMOTOMO\Andon\2-3-2020\AndonCode\Utilities\obj\x86\Debug\Utilities.csproj.ResolveComReference.cache
+D:\Project\SIMOTOMO\Andon\2-3-2020\AndonCode\Utilities\obj\x86\Debug\Utilities.Properties.Resources.resources
+D:\Project\SIMOTOMO\Andon\2-3-2020\AndonCode\Utilities\obj\x86\Debug\Utilities.csproj.GenerateResource.cache
+D:\Project\SIMOTOMO\Andon\2-3-2020\AndonCode\Utilities\obj\x86\Debug\Utilities.csproj.CopyComplete
+D:\Project\SIMOTOMO\Andon\2-3-2020\AndonCode\Utilities\obj\x86\Debug\Utilities.dll
+D:\Project\SIMOTOMO\Andon\2-3-2020\AndonCode\Utilities\obj\x86\Debug\Utilities.pdb
+D:\Project\SIMOTOMO\Andon\2-3-2020\AndonCode - Copy\Utilities\bin\x86\Debug\Utilities.dll
+D:\Project\SIMOTOMO\Andon\2-3-2020\AndonCode - Copy\Utilities\bin\x86\Debug\Utilities.pdb
+D:\Project\SIMOTOMO\Andon\2-3-2020\AndonCode - Copy\Utilities\bin\x86\Debug\DevExpress.Data.v13.2.dll
+D:\Project\SIMOTOMO\Andon\2-3-2020\AndonCode - Copy\Utilities\bin\x86\Debug\DevExpress.Printing.v13.2.Core.dll
+D:\Project\SIMOTOMO\Andon\2-3-2020\AndonCode - Copy\Utilities\bin\x86\Debug\DevExpress.Utils.v13.2.dll
+D:\Project\SIMOTOMO\Andon\2-3-2020\AndonCode - Copy\Utilities\bin\x86\Debug\DevExpress.XtraEditors.v13.2.dll
+D:\Project\SIMOTOMO\Andon\2-3-2020\AndonCode - Copy\Utilities\bin\x86\Debug\DevExpress.XtraGrid.v13.2.dll
+D:\Project\SIMOTOMO\Andon\2-3-2020\AndonCode - Copy\Utilities\bin\x86\Debug\DevExpress.XtraPrinting.v13.2.dll
+D:\Project\SIMOTOMO\Andon\2-3-2020\AndonCode - Copy\Utilities\bin\x86\Debug\DevExpress.Printing.v13.2.Core.xml
+D:\Project\SIMOTOMO\Andon\2-3-2020\AndonCode - Copy\Utilities\bin\x86\Debug\DevExpress.Data.v13.2.xml
+D:\Project\SIMOTOMO\Andon\2-3-2020\AndonCode - Copy\Utilities\bin\x86\Debug\DevExpress.Utils.v13.2.xml
+D:\Project\SIMOTOMO\Andon\2-3-2020\AndonCode - Copy\Utilities\bin\x86\Debug\DevExpress.XtraEditors.v13.2.xml
+D:\Project\SIMOTOMO\Andon\2-3-2020\AndonCode - Copy\Utilities\bin\x86\Debug\DevExpress.XtraPrinting.v13.2.xml
+D:\Project\SIMOTOMO\Andon\2-3-2020\AndonCode - Copy\Utilities\bin\x86\Debug\DevExpress.XtraGrid.v13.2.xml
+D:\Project\SIMOTOMO\Andon\2-3-2020\AndonCode - Copy\Utilities\bin\x86\Debug\de\DevExpress.Printing.v13.2.Core.resources.dll
+D:\Project\SIMOTOMO\Andon\2-3-2020\AndonCode - Copy\Utilities\bin\x86\Debug\es\DevExpress.Printing.v13.2.Core.resources.dll
+D:\Project\SIMOTOMO\Andon\2-3-2020\AndonCode - Copy\Utilities\bin\x86\Debug\ja\DevExpress.Printing.v13.2.Core.resources.dll
+D:\Project\SIMOTOMO\Andon\2-3-2020\AndonCode - Copy\Utilities\bin\x86\Debug\ru\DevExpress.Printing.v13.2.Core.resources.dll
+D:\Project\SIMOTOMO\Andon\2-3-2020\AndonCode - Copy\Utilities\bin\x86\Debug\de\DevExpress.Data.v13.2.resources.dll
+D:\Project\SIMOTOMO\Andon\2-3-2020\AndonCode - Copy\Utilities\bin\x86\Debug\es\DevExpress.Data.v13.2.resources.dll
+D:\Project\SIMOTOMO\Andon\2-3-2020\AndonCode - Copy\Utilities\bin\x86\Debug\ja\DevExpress.Data.v13.2.resources.dll
+D:\Project\SIMOTOMO\Andon\2-3-2020\AndonCode - Copy\Utilities\bin\x86\Debug\ru\DevExpress.Data.v13.2.resources.dll
+D:\Project\SIMOTOMO\Andon\2-3-2020\AndonCode - Copy\Utilities\bin\x86\Debug\de\DevExpress.Utils.v13.2.resources.dll
+D:\Project\SIMOTOMO\Andon\2-3-2020\AndonCode - Copy\Utilities\bin\x86\Debug\es\DevExpress.Utils.v13.2.resources.dll
+D:\Project\SIMOTOMO\Andon\2-3-2020\AndonCode - Copy\Utilities\bin\x86\Debug\ja\DevExpress.Utils.v13.2.resources.dll
+D:\Project\SIMOTOMO\Andon\2-3-2020\AndonCode - Copy\Utilities\bin\x86\Debug\ru\DevExpress.Utils.v13.2.resources.dll
+D:\Project\SIMOTOMO\Andon\2-3-2020\AndonCode - Copy\Utilities\bin\x86\Debug\de\DevExpress.XtraEditors.v13.2.resources.dll
+D:\Project\SIMOTOMO\Andon\2-3-2020\AndonCode - Copy\Utilities\bin\x86\Debug\es\DevExpress.XtraEditors.v13.2.resources.dll
+D:\Project\SIMOTOMO\Andon\2-3-2020\AndonCode - Copy\Utilities\bin\x86\Debug\ja\DevExpress.XtraEditors.v13.2.resources.dll
+D:\Project\SIMOTOMO\Andon\2-3-2020\AndonCode - Copy\Utilities\bin\x86\Debug\ru\DevExpress.XtraEditors.v13.2.resources.dll
+D:\Project\SIMOTOMO\Andon\2-3-2020\AndonCode - Copy\Utilities\bin\x86\Debug\de\DevExpress.XtraPrinting.v13.2.resources.dll
+D:\Project\SIMOTOMO\Andon\2-3-2020\AndonCode - Copy\Utilities\bin\x86\Debug\es\DevExpress.XtraPrinting.v13.2.resources.dll
+D:\Project\SIMOTOMO\Andon\2-3-2020\AndonCode - Copy\Utilities\bin\x86\Debug\ja\DevExpress.XtraPrinting.v13.2.resources.dll
+D:\Project\SIMOTOMO\Andon\2-3-2020\AndonCode - Copy\Utilities\bin\x86\Debug\ru\DevExpress.XtraPrinting.v13.2.resources.dll
+D:\Project\SIMOTOMO\Andon\2-3-2020\AndonCode - Copy\Utilities\bin\x86\Debug\de\DevExpress.XtraGrid.v13.2.resources.dll
+D:\Project\SIMOTOMO\Andon\2-3-2020\AndonCode - Copy\Utilities\bin\x86\Debug\es\DevExpress.XtraGrid.v13.2.resources.dll
+D:\Project\SIMOTOMO\Andon\2-3-2020\AndonCode - Copy\Utilities\bin\x86\Debug\ja\DevExpress.XtraGrid.v13.2.resources.dll
+D:\Project\SIMOTOMO\Andon\2-3-2020\AndonCode - Copy\Utilities\bin\x86\Debug\ru\DevExpress.XtraGrid.v13.2.resources.dll
+D:\Project\SIMOTOMO\Andon\2-3-2020\AndonCode - Copy\Utilities\obj\x86\Debug\Utilities.csprojAssemblyReference.cache
+D:\Project\SIMOTOMO\Andon\2-3-2020\AndonCode - Copy\Utilities\obj\x86\Debug\Utilities.csproj.ResolveComReference.cache
+D:\Project\SIMOTOMO\Andon\2-3-2020\AndonCode - Copy\Utilities\obj\x86\Debug\Utilities.Properties.Resources.resources
+D:\Project\SIMOTOMO\Andon\2-3-2020\AndonCode - Copy\Utilities\obj\x86\Debug\Utilities.csproj.GenerateResource.cache
+D:\Project\SIMOTOMO\Andon\2-3-2020\AndonCode - Copy\Utilities\obj\x86\Debug\Utilities.csproj.CopyComplete
+D:\Project\SIMOTOMO\Andon\2-3-2020\AndonCode - Copy\Utilities\obj\x86\Debug\Utilities.dll
+D:\Project\SIMOTOMO\Andon\2-3-2020\AndonCode - Copy\Utilities\obj\x86\Debug\Utilities.pdb
+D:\Project\SIMOTOMO\Andon\07-03-2020\AndonCode2\Utilities\bin\x86\Debug\Utilities.dll
+D:\Project\SIMOTOMO\Andon\07-03-2020\AndonCode2\Utilities\bin\x86\Debug\Utilities.pdb
+D:\Project\SIMOTOMO\Andon\07-03-2020\AndonCode2\Utilities\bin\x86\Debug\DevExpress.Data.v13.2.dll
+D:\Project\SIMOTOMO\Andon\07-03-2020\AndonCode2\Utilities\bin\x86\Debug\DevExpress.Printing.v13.2.Core.dll
+D:\Project\SIMOTOMO\Andon\07-03-2020\AndonCode2\Utilities\bin\x86\Debug\DevExpress.Utils.v13.2.dll
+D:\Project\SIMOTOMO\Andon\07-03-2020\AndonCode2\Utilities\bin\x86\Debug\DevExpress.XtraEditors.v13.2.dll
+D:\Project\SIMOTOMO\Andon\07-03-2020\AndonCode2\Utilities\bin\x86\Debug\DevExpress.XtraGrid.v13.2.dll
+D:\Project\SIMOTOMO\Andon\07-03-2020\AndonCode2\Utilities\bin\x86\Debug\DevExpress.XtraPrinting.v13.2.dll
+D:\Project\SIMOTOMO\Andon\07-03-2020\AndonCode2\Utilities\bin\x86\Debug\DevExpress.Printing.v13.2.Core.xml
+D:\Project\SIMOTOMO\Andon\07-03-2020\AndonCode2\Utilities\bin\x86\Debug\DevExpress.Data.v13.2.xml
+D:\Project\SIMOTOMO\Andon\07-03-2020\AndonCode2\Utilities\bin\x86\Debug\DevExpress.Utils.v13.2.xml
+D:\Project\SIMOTOMO\Andon\07-03-2020\AndonCode2\Utilities\bin\x86\Debug\DevExpress.XtraEditors.v13.2.xml
+D:\Project\SIMOTOMO\Andon\07-03-2020\AndonCode2\Utilities\bin\x86\Debug\DevExpress.XtraPrinting.v13.2.xml
+D:\Project\SIMOTOMO\Andon\07-03-2020\AndonCode2\Utilities\bin\x86\Debug\DevExpress.XtraGrid.v13.2.xml
+D:\Project\SIMOTOMO\Andon\07-03-2020\AndonCode2\Utilities\bin\x86\Debug\de\DevExpress.Printing.v13.2.Core.resources.dll
+D:\Project\SIMOTOMO\Andon\07-03-2020\AndonCode2\Utilities\bin\x86\Debug\es\DevExpress.Printing.v13.2.Core.resources.dll
+D:\Project\SIMOTOMO\Andon\07-03-2020\AndonCode2\Utilities\bin\x86\Debug\ja\DevExpress.Printing.v13.2.Core.resources.dll
+D:\Project\SIMOTOMO\Andon\07-03-2020\AndonCode2\Utilities\bin\x86\Debug\ru\DevExpress.Printing.v13.2.Core.resources.dll
+D:\Project\SIMOTOMO\Andon\07-03-2020\AndonCode2\Utilities\bin\x86\Debug\de\DevExpress.Data.v13.2.resources.dll
+D:\Project\SIMOTOMO\Andon\07-03-2020\AndonCode2\Utilities\bin\x86\Debug\es\DevExpress.Data.v13.2.resources.dll
+D:\Project\SIMOTOMO\Andon\07-03-2020\AndonCode2\Utilities\bin\x86\Debug\ja\DevExpress.Data.v13.2.resources.dll
+D:\Project\SIMOTOMO\Andon\07-03-2020\AndonCode2\Utilities\bin\x86\Debug\ru\DevExpress.Data.v13.2.resources.dll
+D:\Project\SIMOTOMO\Andon\07-03-2020\AndonCode2\Utilities\bin\x86\Debug\de\DevExpress.Utils.v13.2.resources.dll
+D:\Project\SIMOTOMO\Andon\07-03-2020\AndonCode2\Utilities\bin\x86\Debug\es\DevExpress.Utils.v13.2.resources.dll
+D:\Project\SIMOTOMO\Andon\07-03-2020\AndonCode2\Utilities\bin\x86\Debug\ja\DevExpress.Utils.v13.2.resources.dll
+D:\Project\SIMOTOMO\Andon\07-03-2020\AndonCode2\Utilities\bin\x86\Debug\ru\DevExpress.Utils.v13.2.resources.dll
+D:\Project\SIMOTOMO\Andon\07-03-2020\AndonCode2\Utilities\bin\x86\Debug\de\DevExpress.XtraEditors.v13.2.resources.dll
+D:\Project\SIMOTOMO\Andon\07-03-2020\AndonCode2\Utilities\bin\x86\Debug\es\DevExpress.XtraEditors.v13.2.resources.dll
+D:\Project\SIMOTOMO\Andon\07-03-2020\AndonCode2\Utilities\bin\x86\Debug\ja\DevExpress.XtraEditors.v13.2.resources.dll
+D:\Project\SIMOTOMO\Andon\07-03-2020\AndonCode2\Utilities\bin\x86\Debug\ru\DevExpress.XtraEditors.v13.2.resources.dll
+D:\Project\SIMOTOMO\Andon\07-03-2020\AndonCode2\Utilities\bin\x86\Debug\de\DevExpress.XtraPrinting.v13.2.resources.dll
+D:\Project\SIMOTOMO\Andon\07-03-2020\AndonCode2\Utilities\bin\x86\Debug\es\DevExpress.XtraPrinting.v13.2.resources.dll
+D:\Project\SIMOTOMO\Andon\07-03-2020\AndonCode2\Utilities\bin\x86\Debug\ja\DevExpress.XtraPrinting.v13.2.resources.dll
+D:\Project\SIMOTOMO\Andon\07-03-2020\AndonCode2\Utilities\bin\x86\Debug\ru\DevExpress.XtraPrinting.v13.2.resources.dll
+D:\Project\SIMOTOMO\Andon\07-03-2020\AndonCode2\Utilities\bin\x86\Debug\de\DevExpress.XtraGrid.v13.2.resources.dll
+D:\Project\SIMOTOMO\Andon\07-03-2020\AndonCode2\Utilities\bin\x86\Debug\es\DevExpress.XtraGrid.v13.2.resources.dll
+D:\Project\SIMOTOMO\Andon\07-03-2020\AndonCode2\Utilities\bin\x86\Debug\ja\DevExpress.XtraGrid.v13.2.resources.dll
+D:\Project\SIMOTOMO\Andon\07-03-2020\AndonCode2\Utilities\bin\x86\Debug\ru\DevExpress.XtraGrid.v13.2.resources.dll
+D:\Project\SIMOTOMO\Andon\07-03-2020\AndonCode2\Utilities\obj\x86\Debug\Utilities.csprojAssemblyReference.cache
+D:\Project\SIMOTOMO\Andon\07-03-2020\AndonCode2\Utilities\obj\x86\Debug\Utilities.csproj.ResolveComReference.cache
+D:\Project\SIMOTOMO\Andon\07-03-2020\AndonCode2\Utilities\obj\x86\Debug\Utilities.Properties.Resources.resources
+D:\Project\SIMOTOMO\Andon\07-03-2020\AndonCode2\Utilities\obj\x86\Debug\Utilities.csproj.GenerateResource.cache
+D:\Project\SIMOTOMO\Andon\07-03-2020\AndonCode2\Utilities\obj\x86\Debug\Utilities.csproj.CopyComplete
+D:\Project\SIMOTOMO\Andon\07-03-2020\AndonCode2\Utilities\obj\x86\Debug\Utilities.dll
+D:\Project\SIMOTOMO\Andon\07-03-2020\AndonCode2\Utilities\obj\x86\Debug\Utilities.pdb
+D:\Project\SIMOTOMO\Andon\12-03-2020\AndonCode\Utilities\bin\x86\Debug\Utilities.dll
+D:\Project\SIMOTOMO\Andon\12-03-2020\AndonCode\Utilities\bin\x86\Debug\Utilities.pdb
+D:\Project\SIMOTOMO\Andon\12-03-2020\AndonCode\Utilities\bin\x86\Debug\DevExpress.Data.v13.2.dll
+D:\Project\SIMOTOMO\Andon\12-03-2020\AndonCode\Utilities\bin\x86\Debug\DevExpress.Printing.v13.2.Core.dll
+D:\Project\SIMOTOMO\Andon\12-03-2020\AndonCode\Utilities\bin\x86\Debug\DevExpress.Utils.v13.2.dll
+D:\Project\SIMOTOMO\Andon\12-03-2020\AndonCode\Utilities\bin\x86\Debug\DevExpress.XtraEditors.v13.2.dll
+D:\Project\SIMOTOMO\Andon\12-03-2020\AndonCode\Utilities\bin\x86\Debug\DevExpress.XtraGrid.v13.2.dll
+D:\Project\SIMOTOMO\Andon\12-03-2020\AndonCode\Utilities\bin\x86\Debug\DevExpress.XtraPrinting.v13.2.dll
+D:\Project\SIMOTOMO\Andon\12-03-2020\AndonCode\Utilities\bin\x86\Debug\DevExpress.Printing.v13.2.Core.xml
+D:\Project\SIMOTOMO\Andon\12-03-2020\AndonCode\Utilities\bin\x86\Debug\DevExpress.Data.v13.2.xml
+D:\Project\SIMOTOMO\Andon\12-03-2020\AndonCode\Utilities\bin\x86\Debug\DevExpress.Utils.v13.2.xml
+D:\Project\SIMOTOMO\Andon\12-03-2020\AndonCode\Utilities\bin\x86\Debug\DevExpress.XtraEditors.v13.2.xml
+D:\Project\SIMOTOMO\Andon\12-03-2020\AndonCode\Utilities\bin\x86\Debug\DevExpress.XtraPrinting.v13.2.xml
+D:\Project\SIMOTOMO\Andon\12-03-2020\AndonCode\Utilities\bin\x86\Debug\DevExpress.XtraGrid.v13.2.xml
+D:\Project\SIMOTOMO\Andon\12-03-2020\AndonCode\Utilities\bin\x86\Debug\de\DevExpress.Printing.v13.2.Core.resources.dll
+D:\Project\SIMOTOMO\Andon\12-03-2020\AndonCode\Utilities\bin\x86\Debug\es\DevExpress.Printing.v13.2.Core.resources.dll
+D:\Project\SIMOTOMO\Andon\12-03-2020\AndonCode\Utilities\bin\x86\Debug\ja\DevExpress.Printing.v13.2.Core.resources.dll
+D:\Project\SIMOTOMO\Andon\12-03-2020\AndonCode\Utilities\bin\x86\Debug\ru\DevExpress.Printing.v13.2.Core.resources.dll
+D:\Project\SIMOTOMO\Andon\12-03-2020\AndonCode\Utilities\bin\x86\Debug\de\DevExpress.Data.v13.2.resources.dll
+D:\Project\SIMOTOMO\Andon\12-03-2020\AndonCode\Utilities\bin\x86\Debug\es\DevExpress.Data.v13.2.resources.dll
+D:\Project\SIMOTOMO\Andon\12-03-2020\AndonCode\Utilities\bin\x86\Debug\ja\DevExpress.Data.v13.2.resources.dll
+D:\Project\SIMOTOMO\Andon\12-03-2020\AndonCode\Utilities\bin\x86\Debug\ru\DevExpress.Data.v13.2.resources.dll
+D:\Project\SIMOTOMO\Andon\12-03-2020\AndonCode\Utilities\bin\x86\Debug\de\DevExpress.Utils.v13.2.resources.dll
+D:\Project\SIMOTOMO\Andon\12-03-2020\AndonCode\Utilities\bin\x86\Debug\es\DevExpress.Utils.v13.2.resources.dll
+D:\Project\SIMOTOMO\Andon\12-03-2020\AndonCode\Utilities\bin\x86\Debug\ja\DevExpress.Utils.v13.2.resources.dll
+D:\Project\SIMOTOMO\Andon\12-03-2020\AndonCode\Utilities\bin\x86\Debug\ru\DevExpress.Utils.v13.2.resources.dll
+D:\Project\SIMOTOMO\Andon\12-03-2020\AndonCode\Utilities\bin\x86\Debug\de\DevExpress.XtraEditors.v13.2.resources.dll
+D:\Project\SIMOTOMO\Andon\12-03-2020\AndonCode\Utilities\bin\x86\Debug\es\DevExpress.XtraEditors.v13.2.resources.dll
+D:\Project\SIMOTOMO\Andon\12-03-2020\AndonCode\Utilities\bin\x86\Debug\ja\DevExpress.XtraEditors.v13.2.resources.dll
+D:\Project\SIMOTOMO\Andon\12-03-2020\AndonCode\Utilities\bin\x86\Debug\ru\DevExpress.XtraEditors.v13.2.resources.dll
+D:\Project\SIMOTOMO\Andon\12-03-2020\AndonCode\Utilities\bin\x86\Debug\de\DevExpress.XtraPrinting.v13.2.resources.dll
+D:\Project\SIMOTOMO\Andon\12-03-2020\AndonCode\Utilities\bin\x86\Debug\es\DevExpress.XtraPrinting.v13.2.resources.dll
+D:\Project\SIMOTOMO\Andon\12-03-2020\AndonCode\Utilities\bin\x86\Debug\ja\DevExpress.XtraPrinting.v13.2.resources.dll
+D:\Project\SIMOTOMO\Andon\12-03-2020\AndonCode\Utilities\bin\x86\Debug\ru\DevExpress.XtraPrinting.v13.2.resources.dll
+D:\Project\SIMOTOMO\Andon\12-03-2020\AndonCode\Utilities\bin\x86\Debug\de\DevExpress.XtraGrid.v13.2.resources.dll
+D:\Project\SIMOTOMO\Andon\12-03-2020\AndonCode\Utilities\bin\x86\Debug\es\DevExpress.XtraGrid.v13.2.resources.dll
+D:\Project\SIMOTOMO\Andon\12-03-2020\AndonCode\Utilities\bin\x86\Debug\ja\DevExpress.XtraGrid.v13.2.resources.dll
+D:\Project\SIMOTOMO\Andon\12-03-2020\AndonCode\Utilities\bin\x86\Debug\ru\DevExpress.XtraGrid.v13.2.resources.dll
+D:\Project\SIMOTOMO\Andon\12-03-2020\AndonCode\Utilities\obj\x86\Debug\Utilities.csprojAssemblyReference.cache
+D:\Project\SIMOTOMO\Andon\12-03-2020\AndonCode\Utilities\obj\x86\Debug\Utilities.csproj.ResolveComReference.cache
+D:\Project\SIMOTOMO\Andon\12-03-2020\AndonCode\Utilities\obj\x86\Debug\Utilities.Properties.Resources.resources
+D:\Project\SIMOTOMO\Andon\12-03-2020\AndonCode\Utilities\obj\x86\Debug\Utilities.csproj.GenerateResource.cache
+D:\Project\SIMOTOMO\Andon\12-03-2020\AndonCode\Utilities\obj\x86\Debug\Utilities.csproj.CopyComplete
+D:\Project\SIMOTOMO\Andon\12-03-2020\AndonCode\Utilities\obj\x86\Debug\Utilities.dll
+D:\Project\SIMOTOMO\Andon\12-03-2020\AndonCode\Utilities\obj\x86\Debug\Utilities.pdb
+D:\Project\SIMOTOMO\Andon\12-03-2020\AndonCode\Utilities\obj\x86\Debug\Utilities.csproj.CoreCompileInputs.cache
+D:\Project\SIMOTOMO\Andon\AndonControl\7-4-2020-improvement\AndonCode\Utilities\bin\x86\Debug\Utilities.dll
+D:\Project\SIMOTOMO\Andon\AndonControl\7-4-2020-improvement\AndonCode\Utilities\bin\x86\Debug\Utilities.pdb
+D:\Project\SIMOTOMO\Andon\AndonControl\7-4-2020-improvement\AndonCode\Utilities\bin\x86\Debug\DevExpress.Data.v13.2.dll
+D:\Project\SIMOTOMO\Andon\AndonControl\7-4-2020-improvement\AndonCode\Utilities\bin\x86\Debug\DevExpress.Printing.v13.2.Core.dll
+D:\Project\SIMOTOMO\Andon\AndonControl\7-4-2020-improvement\AndonCode\Utilities\bin\x86\Debug\DevExpress.Utils.v13.2.dll
+D:\Project\SIMOTOMO\Andon\AndonControl\7-4-2020-improvement\AndonCode\Utilities\bin\x86\Debug\DevExpress.XtraEditors.v13.2.dll
+D:\Project\SIMOTOMO\Andon\AndonControl\7-4-2020-improvement\AndonCode\Utilities\bin\x86\Debug\DevExpress.XtraGrid.v13.2.dll
+D:\Project\SIMOTOMO\Andon\AndonControl\7-4-2020-improvement\AndonCode\Utilities\bin\x86\Debug\DevExpress.XtraPrinting.v13.2.dll
+D:\Project\SIMOTOMO\Andon\AndonControl\7-4-2020-improvement\AndonCode\Utilities\bin\x86\Debug\DevExpress.Printing.v13.2.Core.xml
+D:\Project\SIMOTOMO\Andon\AndonControl\7-4-2020-improvement\AndonCode\Utilities\bin\x86\Debug\DevExpress.Data.v13.2.xml
+D:\Project\SIMOTOMO\Andon\AndonControl\7-4-2020-improvement\AndonCode\Utilities\bin\x86\Debug\DevExpress.Utils.v13.2.xml
+D:\Project\SIMOTOMO\Andon\AndonControl\7-4-2020-improvement\AndonCode\Utilities\bin\x86\Debug\DevExpress.XtraEditors.v13.2.xml
+D:\Project\SIMOTOMO\Andon\AndonControl\7-4-2020-improvement\AndonCode\Utilities\bin\x86\Debug\DevExpress.XtraPrinting.v13.2.xml
+D:\Project\SIMOTOMO\Andon\AndonControl\7-4-2020-improvement\AndonCode\Utilities\bin\x86\Debug\DevExpress.XtraGrid.v13.2.xml
+D:\Project\SIMOTOMO\Andon\AndonControl\7-4-2020-improvement\AndonCode\Utilities\bin\x86\Debug\de\DevExpress.Printing.v13.2.Core.resources.dll
+D:\Project\SIMOTOMO\Andon\AndonControl\7-4-2020-improvement\AndonCode\Utilities\bin\x86\Debug\es\DevExpress.Printing.v13.2.Core.resources.dll
+D:\Project\SIMOTOMO\Andon\AndonControl\7-4-2020-improvement\AndonCode\Utilities\bin\x86\Debug\ja\DevExpress.Printing.v13.2.Core.resources.dll
+D:\Project\SIMOTOMO\Andon\AndonControl\7-4-2020-improvement\AndonCode\Utilities\bin\x86\Debug\ru\DevExpress.Printing.v13.2.Core.resources.dll
+D:\Project\SIMOTOMO\Andon\AndonControl\7-4-2020-improvement\AndonCode\Utilities\bin\x86\Debug\de\DevExpress.Data.v13.2.resources.dll
+D:\Project\SIMOTOMO\Andon\AndonControl\7-4-2020-improvement\AndonCode\Utilities\bin\x86\Debug\es\DevExpress.Data.v13.2.resources.dll
+D:\Project\SIMOTOMO\Andon\AndonControl\7-4-2020-improvement\AndonCode\Utilities\bin\x86\Debug\ja\DevExpress.Data.v13.2.resources.dll
+D:\Project\SIMOTOMO\Andon\AndonControl\7-4-2020-improvement\AndonCode\Utilities\bin\x86\Debug\ru\DevExpress.Data.v13.2.resources.dll
+D:\Project\SIMOTOMO\Andon\AndonControl\7-4-2020-improvement\AndonCode\Utilities\bin\x86\Debug\de\DevExpress.Utils.v13.2.resources.dll
+D:\Project\SIMOTOMO\Andon\AndonControl\7-4-2020-improvement\AndonCode\Utilities\bin\x86\Debug\es\DevExpress.Utils.v13.2.resources.dll
+D:\Project\SIMOTOMO\Andon\AndonControl\7-4-2020-improvement\AndonCode\Utilities\bin\x86\Debug\ja\DevExpress.Utils.v13.2.resources.dll
+D:\Project\SIMOTOMO\Andon\AndonControl\7-4-2020-improvement\AndonCode\Utilities\bin\x86\Debug\ru\DevExpress.Utils.v13.2.resources.dll
+D:\Project\SIMOTOMO\Andon\AndonControl\7-4-2020-improvement\AndonCode\Utilities\bin\x86\Debug\de\DevExpress.XtraEditors.v13.2.resources.dll
+D:\Project\SIMOTOMO\Andon\AndonControl\7-4-2020-improvement\AndonCode\Utilities\bin\x86\Debug\es\DevExpress.XtraEditors.v13.2.resources.dll
+D:\Project\SIMOTOMO\Andon\AndonControl\7-4-2020-improvement\AndonCode\Utilities\bin\x86\Debug\ja\DevExpress.XtraEditors.v13.2.resources.dll
+D:\Project\SIMOTOMO\Andon\AndonControl\7-4-2020-improvement\AndonCode\Utilities\bin\x86\Debug\ru\DevExpress.XtraEditors.v13.2.resources.dll
+D:\Project\SIMOTOMO\Andon\AndonControl\7-4-2020-improvement\AndonCode\Utilities\bin\x86\Debug\de\DevExpress.XtraPrinting.v13.2.resources.dll
+D:\Project\SIMOTOMO\Andon\AndonControl\7-4-2020-improvement\AndonCode\Utilities\bin\x86\Debug\es\DevExpress.XtraPrinting.v13.2.resources.dll
+D:\Project\SIMOTOMO\Andon\AndonControl\7-4-2020-improvement\AndonCode\Utilities\bin\x86\Debug\ja\DevExpress.XtraPrinting.v13.2.resources.dll
+D:\Project\SIMOTOMO\Andon\AndonControl\7-4-2020-improvement\AndonCode\Utilities\bin\x86\Debug\ru\DevExpress.XtraPrinting.v13.2.resources.dll
+D:\Project\SIMOTOMO\Andon\AndonControl\7-4-2020-improvement\AndonCode\Utilities\bin\x86\Debug\de\DevExpress.XtraGrid.v13.2.resources.dll
+D:\Project\SIMOTOMO\Andon\AndonControl\7-4-2020-improvement\AndonCode\Utilities\bin\x86\Debug\es\DevExpress.XtraGrid.v13.2.resources.dll
+D:\Project\SIMOTOMO\Andon\AndonControl\7-4-2020-improvement\AndonCode\Utilities\bin\x86\Debug\ja\DevExpress.XtraGrid.v13.2.resources.dll
+D:\Project\SIMOTOMO\Andon\AndonControl\7-4-2020-improvement\AndonCode\Utilities\bin\x86\Debug\ru\DevExpress.XtraGrid.v13.2.resources.dll
+D:\Project\SIMOTOMO\Andon\AndonControl\7-4-2020-improvement\AndonCode\Utilities\obj\x86\Debug\Utilities.csprojAssemblyReference.cache
+D:\Project\SIMOTOMO\Andon\AndonControl\7-4-2020-improvement\AndonCode\Utilities\obj\x86\Debug\Utilities.csproj.ResolveComReference.cache
+D:\Project\SIMOTOMO\Andon\AndonControl\7-4-2020-improvement\AndonCode\Utilities\obj\x86\Debug\Utilities.Properties.Resources.resources
+D:\Project\SIMOTOMO\Andon\AndonControl\7-4-2020-improvement\AndonCode\Utilities\obj\x86\Debug\Utilities.csproj.GenerateResource.cache
+D:\Project\SIMOTOMO\Andon\AndonControl\7-4-2020-improvement\AndonCode\Utilities\obj\x86\Debug\Utilities.csproj.CoreCompileInputs.cache
+D:\Project\SIMOTOMO\Andon\AndonControl\7-4-2020-improvement\AndonCode\Utilities\obj\x86\Debug\Utilities.csproj.CopyComplete
+D:\Project\SIMOTOMO\Andon\AndonControl\7-4-2020-improvement\AndonCode\Utilities\obj\x86\Debug\Utilities.dll
+D:\Project\SIMOTOMO\Andon\AndonControl\7-4-2020-improvement\AndonCode\Utilities\obj\x86\Debug\Utilities.pdb
+D:\project\Sumitomo\AdonAltax\AndonCode\Utilities\bin\x86\Debug\Utilities.dll
+D:\project\Sumitomo\AdonAltax\AndonCode\Utilities\bin\x86\Debug\Utilities.pdb
+D:\project\Sumitomo\AdonAltax\AndonCode\Utilities\bin\x86\Debug\DevExpress.Data.v13.2.dll
+D:\project\Sumitomo\AdonAltax\AndonCode\Utilities\bin\x86\Debug\DevExpress.Printing.v13.2.Core.dll
+D:\project\Sumitomo\AdonAltax\AndonCode\Utilities\bin\x86\Debug\DevExpress.Utils.v13.2.dll
+D:\project\Sumitomo\AdonAltax\AndonCode\Utilities\bin\x86\Debug\DevExpress.XtraEditors.v13.2.dll
+D:\project\Sumitomo\AdonAltax\AndonCode\Utilities\bin\x86\Debug\DevExpress.XtraGrid.v13.2.dll
+D:\project\Sumitomo\AdonAltax\AndonCode\Utilities\bin\x86\Debug\DevExpress.XtraPrinting.v13.2.dll
+D:\project\Sumitomo\AdonAltax\AndonCode\Utilities\bin\x86\Debug\DevExpress.Printing.v13.2.Core.xml
+D:\project\Sumitomo\AdonAltax\AndonCode\Utilities\bin\x86\Debug\DevExpress.Data.v13.2.xml
+D:\project\Sumitomo\AdonAltax\AndonCode\Utilities\bin\x86\Debug\DevExpress.Utils.v13.2.xml
+D:\project\Sumitomo\AdonAltax\AndonCode\Utilities\bin\x86\Debug\DevExpress.XtraEditors.v13.2.xml
+D:\project\Sumitomo\AdonAltax\AndonCode\Utilities\bin\x86\Debug\DevExpress.XtraPrinting.v13.2.xml
+D:\project\Sumitomo\AdonAltax\AndonCode\Utilities\bin\x86\Debug\DevExpress.XtraGrid.v13.2.xml
+D:\project\Sumitomo\AdonAltax\AndonCode\Utilities\bin\x86\Debug\de\DevExpress.Printing.v13.2.Core.resources.dll
+D:\project\Sumitomo\AdonAltax\AndonCode\Utilities\bin\x86\Debug\es\DevExpress.Printing.v13.2.Core.resources.dll
+D:\project\Sumitomo\AdonAltax\AndonCode\Utilities\bin\x86\Debug\ja\DevExpress.Printing.v13.2.Core.resources.dll
+D:\project\Sumitomo\AdonAltax\AndonCode\Utilities\bin\x86\Debug\ru\DevExpress.Printing.v13.2.Core.resources.dll
+D:\project\Sumitomo\AdonAltax\AndonCode\Utilities\bin\x86\Debug\de\DevExpress.Data.v13.2.resources.dll
+D:\project\Sumitomo\AdonAltax\AndonCode\Utilities\bin\x86\Debug\es\DevExpress.Data.v13.2.resources.dll
+D:\project\Sumitomo\AdonAltax\AndonCode\Utilities\bin\x86\Debug\ja\DevExpress.Data.v13.2.resources.dll
+D:\project\Sumitomo\AdonAltax\AndonCode\Utilities\bin\x86\Debug\ru\DevExpress.Data.v13.2.resources.dll
+D:\project\Sumitomo\AdonAltax\AndonCode\Utilities\bin\x86\Debug\de\DevExpress.Utils.v13.2.resources.dll
+D:\project\Sumitomo\AdonAltax\AndonCode\Utilities\bin\x86\Debug\es\DevExpress.Utils.v13.2.resources.dll
+D:\project\Sumitomo\AdonAltax\AndonCode\Utilities\bin\x86\Debug\ja\DevExpress.Utils.v13.2.resources.dll
+D:\project\Sumitomo\AdonAltax\AndonCode\Utilities\bin\x86\Debug\ru\DevExpress.Utils.v13.2.resources.dll
+D:\project\Sumitomo\AdonAltax\AndonCode\Utilities\bin\x86\Debug\de\DevExpress.XtraEditors.v13.2.resources.dll
+D:\project\Sumitomo\AdonAltax\AndonCode\Utilities\bin\x86\Debug\es\DevExpress.XtraEditors.v13.2.resources.dll
+D:\project\Sumitomo\AdonAltax\AndonCode\Utilities\bin\x86\Debug\ja\DevExpress.XtraEditors.v13.2.resources.dll
+D:\project\Sumitomo\AdonAltax\AndonCode\Utilities\bin\x86\Debug\ru\DevExpress.XtraEditors.v13.2.resources.dll
+D:\project\Sumitomo\AdonAltax\AndonCode\Utilities\bin\x86\Debug\de\DevExpress.XtraPrinting.v13.2.resources.dll
+D:\project\Sumitomo\AdonAltax\AndonCode\Utilities\bin\x86\Debug\es\DevExpress.XtraPrinting.v13.2.resources.dll
+D:\project\Sumitomo\AdonAltax\AndonCode\Utilities\bin\x86\Debug\ja\DevExpress.XtraPrinting.v13.2.resources.dll
+D:\project\Sumitomo\AdonAltax\AndonCode\Utilities\bin\x86\Debug\ru\DevExpress.XtraPrinting.v13.2.resources.dll
+D:\project\Sumitomo\AdonAltax\AndonCode\Utilities\bin\x86\Debug\de\DevExpress.XtraGrid.v13.2.resources.dll
+D:\project\Sumitomo\AdonAltax\AndonCode\Utilities\bin\x86\Debug\es\DevExpress.XtraGrid.v13.2.resources.dll
+D:\project\Sumitomo\AdonAltax\AndonCode\Utilities\bin\x86\Debug\ja\DevExpress.XtraGrid.v13.2.resources.dll
+D:\project\Sumitomo\AdonAltax\AndonCode\Utilities\bin\x86\Debug\ru\DevExpress.XtraGrid.v13.2.resources.dll
+D:\project\Sumitomo\AdonAltax\AndonCode\Utilities\obj\x86\Debug\Utilities.csprojAssemblyReference.cache
+D:\project\Sumitomo\AdonAltax\AndonCode\Utilities\obj\x86\Debug\Utilities.csproj.ResolveComReference.cache
+D:\project\Sumitomo\AdonAltax\AndonCode\Utilities\obj\x86\Debug\Utilities.Properties.Resources.resources
+D:\project\Sumitomo\AdonAltax\AndonCode\Utilities\obj\x86\Debug\Utilities.csproj.GenerateResource.cache
+D:\project\Sumitomo\AdonAltax\AndonCode\Utilities\obj\x86\Debug\Utilities.csproj.CoreCompileInputs.cache
+D:\project\Sumitomo\AdonAltax\AndonCode\Utilities\obj\x86\Debug\Utilities.csproj.CopyComplete
+D:\project\Sumitomo\AdonAltax\AndonCode\Utilities\obj\x86\Debug\Utilities.dll
+D:\project\Sumitomo\AdonAltax\AndonCode\Utilities\obj\x86\Debug\Utilities.pdb
+D:\project\Sumitomo\Line\Altax\Andon\AndonCode\Utilities\bin\x86\Debug\Utilities.dll
+D:\project\Sumitomo\Line\Altax\Andon\AndonCode\Utilities\bin\x86\Debug\Utilities.pdb
+D:\project\Sumitomo\Line\Altax\Andon\AndonCode\Utilities\bin\x86\Debug\DevExpress.Data.v13.2.dll
+D:\project\Sumitomo\Line\Altax\Andon\AndonCode\Utilities\bin\x86\Debug\DevExpress.Printing.v13.2.Core.dll
+D:\project\Sumitomo\Line\Altax\Andon\AndonCode\Utilities\bin\x86\Debug\DevExpress.Utils.v13.2.dll
+D:\project\Sumitomo\Line\Altax\Andon\AndonCode\Utilities\bin\x86\Debug\DevExpress.XtraEditors.v13.2.dll
+D:\project\Sumitomo\Line\Altax\Andon\AndonCode\Utilities\bin\x86\Debug\DevExpress.XtraGrid.v13.2.dll
+D:\project\Sumitomo\Line\Altax\Andon\AndonCode\Utilities\bin\x86\Debug\DevExpress.XtraPrinting.v13.2.dll
+D:\project\Sumitomo\Line\Altax\Andon\AndonCode\Utilities\bin\x86\Debug\DevExpress.Printing.v13.2.Core.xml
+D:\project\Sumitomo\Line\Altax\Andon\AndonCode\Utilities\bin\x86\Debug\DevExpress.Data.v13.2.xml
+D:\project\Sumitomo\Line\Altax\Andon\AndonCode\Utilities\bin\x86\Debug\DevExpress.Utils.v13.2.xml
+D:\project\Sumitomo\Line\Altax\Andon\AndonCode\Utilities\bin\x86\Debug\DevExpress.XtraEditors.v13.2.xml
+D:\project\Sumitomo\Line\Altax\Andon\AndonCode\Utilities\bin\x86\Debug\DevExpress.XtraPrinting.v13.2.xml
+D:\project\Sumitomo\Line\Altax\Andon\AndonCode\Utilities\bin\x86\Debug\DevExpress.XtraGrid.v13.2.xml
+D:\project\Sumitomo\Line\Altax\Andon\AndonCode\Utilities\bin\x86\Debug\de\DevExpress.Printing.v13.2.Core.resources.dll
+D:\project\Sumitomo\Line\Altax\Andon\AndonCode\Utilities\bin\x86\Debug\es\DevExpress.Printing.v13.2.Core.resources.dll
+D:\project\Sumitomo\Line\Altax\Andon\AndonCode\Utilities\bin\x86\Debug\ja\DevExpress.Printing.v13.2.Core.resources.dll
+D:\project\Sumitomo\Line\Altax\Andon\AndonCode\Utilities\bin\x86\Debug\ru\DevExpress.Printing.v13.2.Core.resources.dll
+D:\project\Sumitomo\Line\Altax\Andon\AndonCode\Utilities\bin\x86\Debug\de\DevExpress.Data.v13.2.resources.dll
+D:\project\Sumitomo\Line\Altax\Andon\AndonCode\Utilities\bin\x86\Debug\es\DevExpress.Data.v13.2.resources.dll
+D:\project\Sumitomo\Line\Altax\Andon\AndonCode\Utilities\bin\x86\Debug\ja\DevExpress.Data.v13.2.resources.dll
+D:\project\Sumitomo\Line\Altax\Andon\AndonCode\Utilities\bin\x86\Debug\ru\DevExpress.Data.v13.2.resources.dll
+D:\project\Sumitomo\Line\Altax\Andon\AndonCode\Utilities\bin\x86\Debug\de\DevExpress.Utils.v13.2.resources.dll
+D:\project\Sumitomo\Line\Altax\Andon\AndonCode\Utilities\bin\x86\Debug\es\DevExpress.Utils.v13.2.resources.dll
+D:\project\Sumitomo\Line\Altax\Andon\AndonCode\Utilities\bin\x86\Debug\ja\DevExpress.Utils.v13.2.resources.dll
+D:\project\Sumitomo\Line\Altax\Andon\AndonCode\Utilities\bin\x86\Debug\ru\DevExpress.Utils.v13.2.resources.dll
+D:\project\Sumitomo\Line\Altax\Andon\AndonCode\Utilities\bin\x86\Debug\de\DevExpress.XtraEditors.v13.2.resources.dll
+D:\project\Sumitomo\Line\Altax\Andon\AndonCode\Utilities\bin\x86\Debug\es\DevExpress.XtraEditors.v13.2.resources.dll
+D:\project\Sumitomo\Line\Altax\Andon\AndonCode\Utilities\bin\x86\Debug\ja\DevExpress.XtraEditors.v13.2.resources.dll
+D:\project\Sumitomo\Line\Altax\Andon\AndonCode\Utilities\bin\x86\Debug\ru\DevExpress.XtraEditors.v13.2.resources.dll
+D:\project\Sumitomo\Line\Altax\Andon\AndonCode\Utilities\bin\x86\Debug\de\DevExpress.XtraPrinting.v13.2.resources.dll
+D:\project\Sumitomo\Line\Altax\Andon\AndonCode\Utilities\bin\x86\Debug\es\DevExpress.XtraPrinting.v13.2.resources.dll
+D:\project\Sumitomo\Line\Altax\Andon\AndonCode\Utilities\bin\x86\Debug\ja\DevExpress.XtraPrinting.v13.2.resources.dll
+D:\project\Sumitomo\Line\Altax\Andon\AndonCode\Utilities\bin\x86\Debug\ru\DevExpress.XtraPrinting.v13.2.resources.dll
+D:\project\Sumitomo\Line\Altax\Andon\AndonCode\Utilities\bin\x86\Debug\de\DevExpress.XtraGrid.v13.2.resources.dll
+D:\project\Sumitomo\Line\Altax\Andon\AndonCode\Utilities\bin\x86\Debug\es\DevExpress.XtraGrid.v13.2.resources.dll
+D:\project\Sumitomo\Line\Altax\Andon\AndonCode\Utilities\bin\x86\Debug\ja\DevExpress.XtraGrid.v13.2.resources.dll
+D:\project\Sumitomo\Line\Altax\Andon\AndonCode\Utilities\bin\x86\Debug\ru\DevExpress.XtraGrid.v13.2.resources.dll
+D:\project\Sumitomo\Line\Altax\Andon\AndonCode\Utilities\obj\x86\Debug\Utilities.csprojAssemblyReference.cache
+D:\project\Sumitomo\Line\Altax\Andon\AndonCode\Utilities\obj\x86\Debug\Utilities.csproj.ResolveComReference.cache
+D:\project\Sumitomo\Line\Altax\Andon\AndonCode\Utilities\obj\x86\Debug\Utilities.Properties.Resources.resources
+D:\project\Sumitomo\Line\Altax\Andon\AndonCode\Utilities\obj\x86\Debug\Utilities.csproj.GenerateResource.cache
+D:\project\Sumitomo\Line\Altax\Andon\AndonCode\Utilities\obj\x86\Debug\Utilities.csproj.CoreCompileInputs.cache
+D:\project\Sumitomo\Line\Altax\Andon\AndonCode\Utilities\obj\x86\Debug\Utilities.csproj.CopyComplete
+D:\project\Sumitomo\Line\Altax\Andon\AndonCode\Utilities\obj\x86\Debug\Utilities.dll
+D:\project\Sumitomo\Line\Altax\Andon\AndonCode\Utilities\obj\x86\Debug\Utilities.pdb
+C:\project\Sumitomo\Line\Altax\Andon\AndonCode\Utilities\bin\x86\Debug\Utilities.dll
+C:\project\Sumitomo\Line\Altax\Andon\AndonCode\Utilities\bin\x86\Debug\Utilities.pdb
+C:\project\Sumitomo\Line\Altax\Andon\AndonCode\Utilities\bin\x86\Debug\DevExpress.Data.v13.2.dll
+C:\project\Sumitomo\Line\Altax\Andon\AndonCode\Utilities\bin\x86\Debug\DevExpress.Printing.v13.2.Core.dll
+C:\project\Sumitomo\Line\Altax\Andon\AndonCode\Utilities\bin\x86\Debug\DevExpress.Utils.v13.2.dll
+C:\project\Sumitomo\Line\Altax\Andon\AndonCode\Utilities\bin\x86\Debug\DevExpress.XtraEditors.v13.2.dll
+C:\project\Sumitomo\Line\Altax\Andon\AndonCode\Utilities\bin\x86\Debug\DevExpress.XtraGrid.v13.2.dll
+C:\project\Sumitomo\Line\Altax\Andon\AndonCode\Utilities\bin\x86\Debug\DevExpress.XtraPrinting.v13.2.dll
+C:\project\Sumitomo\Line\Altax\Andon\AndonCode\Utilities\bin\x86\Debug\DevExpress.Printing.v13.2.Core.xml
+C:\project\Sumitomo\Line\Altax\Andon\AndonCode\Utilities\bin\x86\Debug\DevExpress.Data.v13.2.xml
+C:\project\Sumitomo\Line\Altax\Andon\AndonCode\Utilities\bin\x86\Debug\DevExpress.Utils.v13.2.xml
+C:\project\Sumitomo\Line\Altax\Andon\AndonCode\Utilities\bin\x86\Debug\DevExpress.XtraEditors.v13.2.xml
+C:\project\Sumitomo\Line\Altax\Andon\AndonCode\Utilities\bin\x86\Debug\DevExpress.XtraPrinting.v13.2.xml
+C:\project\Sumitomo\Line\Altax\Andon\AndonCode\Utilities\bin\x86\Debug\DevExpress.XtraGrid.v13.2.xml
+C:\project\Sumitomo\Line\Altax\Andon\AndonCode\Utilities\bin\x86\Debug\de\DevExpress.Printing.v13.2.Core.resources.dll
+C:\project\Sumitomo\Line\Altax\Andon\AndonCode\Utilities\bin\x86\Debug\es\DevExpress.Printing.v13.2.Core.resources.dll
+C:\project\Sumitomo\Line\Altax\Andon\AndonCode\Utilities\bin\x86\Debug\ja\DevExpress.Printing.v13.2.Core.resources.dll
+C:\project\Sumitomo\Line\Altax\Andon\AndonCode\Utilities\bin\x86\Debug\ru\DevExpress.Printing.v13.2.Core.resources.dll
+C:\project\Sumitomo\Line\Altax\Andon\AndonCode\Utilities\bin\x86\Debug\de\DevExpress.Data.v13.2.resources.dll
+C:\project\Sumitomo\Line\Altax\Andon\AndonCode\Utilities\bin\x86\Debug\es\DevExpress.Data.v13.2.resources.dll
+C:\project\Sumitomo\Line\Altax\Andon\AndonCode\Utilities\bin\x86\Debug\ja\DevExpress.Data.v13.2.resources.dll
+C:\project\Sumitomo\Line\Altax\Andon\AndonCode\Utilities\bin\x86\Debug\ru\DevExpress.Data.v13.2.resources.dll
+C:\project\Sumitomo\Line\Altax\Andon\AndonCode\Utilities\bin\x86\Debug\de\DevExpress.Utils.v13.2.resources.dll
+C:\project\Sumitomo\Line\Altax\Andon\AndonCode\Utilities\bin\x86\Debug\es\DevExpress.Utils.v13.2.resources.dll
+C:\project\Sumitomo\Line\Altax\Andon\AndonCode\Utilities\bin\x86\Debug\ja\DevExpress.Utils.v13.2.resources.dll
+C:\project\Sumitomo\Line\Altax\Andon\AndonCode\Utilities\bin\x86\Debug\ru\DevExpress.Utils.v13.2.resources.dll
+C:\project\Sumitomo\Line\Altax\Andon\AndonCode\Utilities\bin\x86\Debug\de\DevExpress.XtraEditors.v13.2.resources.dll
+C:\project\Sumitomo\Line\Altax\Andon\AndonCode\Utilities\bin\x86\Debug\es\DevExpress.XtraEditors.v13.2.resources.dll
+C:\project\Sumitomo\Line\Altax\Andon\AndonCode\Utilities\bin\x86\Debug\ja\DevExpress.XtraEditors.v13.2.resources.dll
+C:\project\Sumitomo\Line\Altax\Andon\AndonCode\Utilities\bin\x86\Debug\ru\DevExpress.XtraEditors.v13.2.resources.dll
+C:\project\Sumitomo\Line\Altax\Andon\AndonCode\Utilities\bin\x86\Debug\de\DevExpress.XtraPrinting.v13.2.resources.dll
+C:\project\Sumitomo\Line\Altax\Andon\AndonCode\Utilities\bin\x86\Debug\es\DevExpress.XtraPrinting.v13.2.resources.dll
+C:\project\Sumitomo\Line\Altax\Andon\AndonCode\Utilities\bin\x86\Debug\ja\DevExpress.XtraPrinting.v13.2.resources.dll
+C:\project\Sumitomo\Line\Altax\Andon\AndonCode\Utilities\bin\x86\Debug\ru\DevExpress.XtraPrinting.v13.2.resources.dll
+C:\project\Sumitomo\Line\Altax\Andon\AndonCode\Utilities\bin\x86\Debug\de\DevExpress.XtraGrid.v13.2.resources.dll
+C:\project\Sumitomo\Line\Altax\Andon\AndonCode\Utilities\bin\x86\Debug\es\DevExpress.XtraGrid.v13.2.resources.dll
+C:\project\Sumitomo\Line\Altax\Andon\AndonCode\Utilities\bin\x86\Debug\ja\DevExpress.XtraGrid.v13.2.resources.dll
+C:\project\Sumitomo\Line\Altax\Andon\AndonCode\Utilities\bin\x86\Debug\ru\DevExpress.XtraGrid.v13.2.resources.dll
+C:\project\Sumitomo\Line\Altax\Andon\AndonCode\Utilities\obj\x86\Debug\Utilities.csprojAssemblyReference.cache
+C:\project\Sumitomo\Line\Altax\Andon\AndonCode\Utilities\obj\x86\Debug\Utilities.csproj.ResolveComReference.cache
+C:\project\Sumitomo\Line\Altax\Andon\AndonCode\Utilities\obj\x86\Debug\Utilities.Properties.Resources.resources
+C:\project\Sumitomo\Line\Altax\Andon\AndonCode\Utilities\obj\x86\Debug\Utilities.csproj.GenerateResource.cache
+C:\project\Sumitomo\Line\Altax\Andon\AndonCode\Utilities\obj\x86\Debug\Utilities.csproj.CoreCompileInputs.cache
+C:\project\Sumitomo\Line\Altax\Andon\AndonCode\Utilities\obj\x86\Debug\Utilities.csproj.CopyComplete
+C:\project\Sumitomo\Line\Altax\Andon\AndonCode\Utilities\obj\x86\Debug\Utilities.dll
+C:\project\Sumitomo\Line\Altax\Andon\AndonCode\Utilities\obj\x86\Debug\Utilities.pdb
+D:\project\Sumitomo\Line\Altax\Andon\AndonCode_Altax\Utilities\bin\x86\Debug\Utilities.dll
+D:\project\Sumitomo\Line\Altax\Andon\AndonCode_Altax\Utilities\bin\x86\Debug\Utilities.pdb
+D:\project\Sumitomo\Line\Altax\Andon\AndonCode_Altax\Utilities\bin\x86\Debug\DevExpress.Data.v13.2.dll
+D:\project\Sumitomo\Line\Altax\Andon\AndonCode_Altax\Utilities\bin\x86\Debug\DevExpress.Printing.v13.2.Core.dll
+D:\project\Sumitomo\Line\Altax\Andon\AndonCode_Altax\Utilities\bin\x86\Debug\DevExpress.Utils.v13.2.dll
+D:\project\Sumitomo\Line\Altax\Andon\AndonCode_Altax\Utilities\bin\x86\Debug\DevExpress.XtraEditors.v13.2.dll
+D:\project\Sumitomo\Line\Altax\Andon\AndonCode_Altax\Utilities\bin\x86\Debug\DevExpress.XtraGrid.v13.2.dll
+D:\project\Sumitomo\Line\Altax\Andon\AndonCode_Altax\Utilities\bin\x86\Debug\DevExpress.XtraPrinting.v13.2.dll
+D:\project\Sumitomo\Line\Altax\Andon\AndonCode_Altax\Utilities\bin\x86\Debug\DevExpress.Printing.v13.2.Core.xml
+D:\project\Sumitomo\Line\Altax\Andon\AndonCode_Altax\Utilities\bin\x86\Debug\DevExpress.Data.v13.2.xml
+D:\project\Sumitomo\Line\Altax\Andon\AndonCode_Altax\Utilities\bin\x86\Debug\DevExpress.Utils.v13.2.xml
+D:\project\Sumitomo\Line\Altax\Andon\AndonCode_Altax\Utilities\bin\x86\Debug\DevExpress.XtraEditors.v13.2.xml
+D:\project\Sumitomo\Line\Altax\Andon\AndonCode_Altax\Utilities\bin\x86\Debug\DevExpress.XtraPrinting.v13.2.xml
+D:\project\Sumitomo\Line\Altax\Andon\AndonCode_Altax\Utilities\bin\x86\Debug\DevExpress.XtraGrid.v13.2.xml
+D:\project\Sumitomo\Line\Altax\Andon\AndonCode_Altax\Utilities\bin\x86\Debug\de\DevExpress.Printing.v13.2.Core.resources.dll
+D:\project\Sumitomo\Line\Altax\Andon\AndonCode_Altax\Utilities\bin\x86\Debug\es\DevExpress.Printing.v13.2.Core.resources.dll
+D:\project\Sumitomo\Line\Altax\Andon\AndonCode_Altax\Utilities\bin\x86\Debug\ja\DevExpress.Printing.v13.2.Core.resources.dll
+D:\project\Sumitomo\Line\Altax\Andon\AndonCode_Altax\Utilities\bin\x86\Debug\ru\DevExpress.Printing.v13.2.Core.resources.dll
+D:\project\Sumitomo\Line\Altax\Andon\AndonCode_Altax\Utilities\bin\x86\Debug\de\DevExpress.Data.v13.2.resources.dll
+D:\project\Sumitomo\Line\Altax\Andon\AndonCode_Altax\Utilities\bin\x86\Debug\es\DevExpress.Data.v13.2.resources.dll
+D:\project\Sumitomo\Line\Altax\Andon\AndonCode_Altax\Utilities\bin\x86\Debug\ja\DevExpress.Data.v13.2.resources.dll
+D:\project\Sumitomo\Line\Altax\Andon\AndonCode_Altax\Utilities\bin\x86\Debug\ru\DevExpress.Data.v13.2.resources.dll
+D:\project\Sumitomo\Line\Altax\Andon\AndonCode_Altax\Utilities\bin\x86\Debug\de\DevExpress.Utils.v13.2.resources.dll
+D:\project\Sumitomo\Line\Altax\Andon\AndonCode_Altax\Utilities\bin\x86\Debug\es\DevExpress.Utils.v13.2.resources.dll
+D:\project\Sumitomo\Line\Altax\Andon\AndonCode_Altax\Utilities\bin\x86\Debug\ja\DevExpress.Utils.v13.2.resources.dll
+D:\project\Sumitomo\Line\Altax\Andon\AndonCode_Altax\Utilities\bin\x86\Debug\ru\DevExpress.Utils.v13.2.resources.dll
+D:\project\Sumitomo\Line\Altax\Andon\AndonCode_Altax\Utilities\bin\x86\Debug\de\DevExpress.XtraEditors.v13.2.resources.dll
+D:\project\Sumitomo\Line\Altax\Andon\AndonCode_Altax\Utilities\bin\x86\Debug\es\DevExpress.XtraEditors.v13.2.resources.dll
+D:\project\Sumitomo\Line\Altax\Andon\AndonCode_Altax\Utilities\bin\x86\Debug\ja\DevExpress.XtraEditors.v13.2.resources.dll
+D:\project\Sumitomo\Line\Altax\Andon\AndonCode_Altax\Utilities\bin\x86\Debug\ru\DevExpress.XtraEditors.v13.2.resources.dll
+D:\project\Sumitomo\Line\Altax\Andon\AndonCode_Altax\Utilities\bin\x86\Debug\de\DevExpress.XtraPrinting.v13.2.resources.dll
+D:\project\Sumitomo\Line\Altax\Andon\AndonCode_Altax\Utilities\bin\x86\Debug\es\DevExpress.XtraPrinting.v13.2.resources.dll
+D:\project\Sumitomo\Line\Altax\Andon\AndonCode_Altax\Utilities\bin\x86\Debug\ja\DevExpress.XtraPrinting.v13.2.resources.dll
+D:\project\Sumitomo\Line\Altax\Andon\AndonCode_Altax\Utilities\bin\x86\Debug\ru\DevExpress.XtraPrinting.v13.2.resources.dll
+D:\project\Sumitomo\Line\Altax\Andon\AndonCode_Altax\Utilities\bin\x86\Debug\de\DevExpress.XtraGrid.v13.2.resources.dll
+D:\project\Sumitomo\Line\Altax\Andon\AndonCode_Altax\Utilities\bin\x86\Debug\es\DevExpress.XtraGrid.v13.2.resources.dll
+D:\project\Sumitomo\Line\Altax\Andon\AndonCode_Altax\Utilities\bin\x86\Debug\ja\DevExpress.XtraGrid.v13.2.resources.dll
+D:\project\Sumitomo\Line\Altax\Andon\AndonCode_Altax\Utilities\bin\x86\Debug\ru\DevExpress.XtraGrid.v13.2.resources.dll
+D:\project\Sumitomo\Line\Altax\Andon\AndonCode_Altax\Utilities\obj\x86\Debug\Utilities.csprojAssemblyReference.cache
+D:\project\Sumitomo\Line\Altax\Andon\AndonCode_Altax\Utilities\obj\x86\Debug\Utilities.csproj.ResolveComReference.cache
+D:\project\Sumitomo\Line\Altax\Andon\AndonCode_Altax\Utilities\obj\x86\Debug\Utilities.Properties.Resources.resources
+D:\project\Sumitomo\Line\Altax\Andon\AndonCode_Altax\Utilities\obj\x86\Debug\Utilities.csproj.GenerateResource.cache
+D:\project\Sumitomo\Line\Altax\Andon\AndonCode_Altax\Utilities\obj\x86\Debug\Utilities.csproj.CoreCompileInputs.cache
+D:\project\Sumitomo\Line\Altax\Andon\AndonCode_Altax\Utilities\obj\x86\Debug\Utilities.csproj.CopyComplete
+D:\project\Sumitomo\Line\Altax\Andon\AndonCode_Altax\Utilities\obj\x86\Debug\Utilities.dll
+D:\project\Sumitomo\Line\Altax\Andon\AndonCode_Altax\Utilities\obj\x86\Debug\Utilities.pdb

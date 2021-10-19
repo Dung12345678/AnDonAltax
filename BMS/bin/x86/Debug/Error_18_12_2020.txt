@@ -1,0 +1,36 @@
+14:56:45:bgwCD1_DoWork(): System.IndexOutOfRangeException: Cannot find table 0.
+   at System.Data.DataTableCollection.get_Item(Int32 index)
+   at BMS.frmAndonDetailVer4.bgwCD1_DoWork(Object sender, DoWorkEventArgs e) in D:\project\Sumitomo\Line\Altax\Andon\AndonCode\Forms\frmAndonDetailVer4.cs:line 882
+14:57:16:bgwCD1_DoWork(): System.IndexOutOfRangeException: Cannot find table 0.
+   at System.Data.DataTableCollection.get_Item(Int32 index)
+   at BMS.frmAndonDetailVer4.bgwCD1_DoWork(Object sender, DoWorkEventArgs e) in D:\project\Sumitomo\Line\Altax\Andon\AndonCode\Forms\frmAndonDetailVer4.cs:line 882
+14:57:47:bgwCD1_DoWork(): System.IndexOutOfRangeException: Cannot find table 0.
+   at System.Data.DataTableCollection.get_Item(Int32 index)
+   at BMS.frmAndonDetailVer4.bgwCD1_DoWork(Object sender, DoWorkEventArgs e) in D:\project\Sumitomo\Line\Altax\Andon\AndonCode\Forms\frmAndonDetailVer4.cs:line 882
+14:58:18:bgwCD1_DoWork(): System.IndexOutOfRangeException: Cannot find table 0.
+   at System.Data.DataTableCollection.get_Item(Int32 index)
+   at BMS.frmAndonDetailVer4.bgwCD1_DoWork(Object sender, DoWorkEventArgs e) in D:\project\Sumitomo\Line\Altax\Andon\AndonCode\Forms\frmAndonDetailVer4.cs:line 882
+14:58:49:bgwCD1_DoWork(): System.IndexOutOfRangeException: Cannot find table 0.
+   at System.Data.DataTableCollection.get_Item(Int32 index)
+   at BMS.frmAndonDetailVer4.bgwCD1_DoWork(Object sender, DoWorkEventArgs e) in D:\project\Sumitomo\Line\Altax\Andon\AndonCode\Forms\frmAndonDetailVer4.cs:line 882
+14:59:20:bgwCD1_DoWork(): System.IndexOutOfRangeException: Cannot find table 0.
+   at System.Data.DataTableCollection.get_Item(Int32 index)
+   at BMS.frmAndonDetailVer4.bgwCD1_DoWork(Object sender, DoWorkEventArgs e) in D:\project\Sumitomo\Line\Altax\Andon\AndonCode\Forms\frmAndonDetailVer4.cs:line 882
+14:59:51:bgwCD1_DoWork(): System.IndexOutOfRangeException: Cannot find table 0.
+   at System.Data.DataTableCollection.get_Item(Int32 index)
+   at BMS.frmAndonDetailVer4.bgwCD1_DoWork(Object sender, DoWorkEventArgs e) in D:\project\Sumitomo\Line\Altax\Andon\AndonCode\Forms\frmAndonDetailVer4.cs:line 882
+15:00:22:bgwCD1_DoWork(): System.IndexOutOfRangeException: Cannot find table 0.
+   at System.Data.DataTableCollection.get_Item(Int32 index)
+   at BMS.frmAndonDetailVer4.bgwCD1_DoWork(Object sender, DoWorkEventArgs e) in D:\project\Sumitomo\Line\Altax\Andon\AndonCode\Forms\frmAndonDetailVer4.cs:line 882
+15:00:53:bgwCD1_DoWork(): System.IndexOutOfRangeException: Cannot find table 0.
+   at System.Data.DataTableCollection.get_Item(Int32 index)
+   at BMS.frmAndonDetailVer4.bgwCD1_DoWork(Object sender, DoWorkEventArgs e) in D:\project\Sumitomo\Line\Altax\Andon\AndonCode\Forms\frmAndonDetailVer4.cs:line 882
+15:01:53:bgwCD1_DoWork(): System.IndexOutOfRangeException: Cannot find table 0.
+   at System.Data.DataTableCollection.get_Item(Int32 index)
+   at BMS.frmAndonDetailVer4.bgwCD1_DoWork(Object sender, DoWorkEventArgs e) in D:\project\Sumitomo\Line\Altax\Andon\AndonCode\Forms\frmAndonDetailVer4.cs:line 882
+15:02:24:bgwCD1_DoWork(): System.IndexOutOfRangeException: Cannot find table 0.
+   at System.Data.DataTableCollection.get_Item(Int32 index)
+   at BMS.frmAndonDetailVer4.bgwCD1_DoWork(Object sender, DoWorkEventArgs e) in D:\project\Sumitomo\Line\Altax\Andon\AndonCode\Forms\frmAndonDetailVer4.cs:line 882
+15:02:55:bgwCD1_DoWork(): System.IndexOutOfRangeException: Cannot find table 0.
+   at System.Data.DataTableCollection.get_Item(Int32 index)
+   at BMS.frmAndonDetailVer4.bgwCD1_DoWork(Object sender, DoWorkEventArgs e) in D:\project\Sumitomo\Line\Altax\Andon\AndonCode\Forms\frmAndonDetailVer4.cs:line 882

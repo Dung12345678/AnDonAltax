@@ -1,0 +1,8 @@
+10:38:17:LoadAndon(): System.Threading.ThreadAbortException: Thread was being aborted.
+   at BMS.Facade.BaseFacade.GetListObject(String procedureName, String[] paramName, Object[] paramValue) in C:\project\Sumitomo\Line\Altax\Andon\AndonCode\BaseBusiness\Facade\BaseFacade.cs:line 756
+   at BMS.Business.BaseBO.GetListObject(String procedureName, String[] paramName, Object[] paramValue) in C:\project\Sumitomo\Line\Altax\Andon\AndonCode\BaseBusiness\BO\BaseBO.cs:line 550
+   at BMS.frmAndonDetailVer4.LoadAndon() in C:\project\Sumitomo\Line\Altax\Andon\AndonCode\Forms\frmAndonDetailVer4.cs:line 737
+17:46:41:LoadAndon(): System.Threading.ThreadAbortException: Thread was being aborted.
+   at BMS.Facade.BaseFacade.GetListObject(String procedureName, String[] paramName, Object[] paramValue) in C:\project\Sumitomo\Line\Altax\Andon\AndonCode\BaseBusiness\Facade\BaseFacade.cs:line 756
+   at BMS.Business.BaseBO.GetListObject(String procedureName, String[] paramName, Object[] paramValue) in C:\project\Sumitomo\Line\Altax\Andon\AndonCode\BaseBusiness\BO\BaseBO.cs:line 550
+   at BMS.frmAndonDetailVer4.LoadAndon() in C:\project\Sumitomo\Line\Altax\Andon\AndonCode\Forms\frmAndonDetailVer4.cs:line 737

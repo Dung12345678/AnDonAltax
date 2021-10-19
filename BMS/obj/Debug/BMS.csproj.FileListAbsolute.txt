@@ -1,0 +1,230 @@
+D:\Quan_ly_tour\TourManagement\TourManagement\bin\Debug\TourManagement.exe.config
+D:\Quan_ly_tour\TourManagement\TourManagement\bin\Debug\TourManagement.exe
+D:\Quan_ly_tour\TourManagement\TourManagement\bin\Debug\TourManagement.pdb
+D:\Quan_ly_tour\TourManagement\TourManagement\bin\Debug\BaseBusiness.dll
+D:\Quan_ly_tour\TourManagement\TourManagement\bin\Debug\BookTour.dll
+D:\Quan_ly_tour\TourManagement\TourManagement\bin\Debug\DevExpress.Data.v11.1.dll
+D:\Quan_ly_tour\TourManagement\TourManagement\bin\Debug\DevExpress.Printing.v11.1.Core.dll
+D:\Quan_ly_tour\TourManagement\TourManagement\bin\Debug\DevExpress.Utils.v11.1.dll
+D:\Quan_ly_tour\TourManagement\TourManagement\bin\Debug\DevExpress.XtraEditors.v11.1.dll
+D:\Quan_ly_tour\TourManagement\TourManagement\bin\Debug\DevExpress.XtraGrid.v11.1.dll
+D:\Quan_ly_tour\TourManagement\TourManagement\bin\Debug\DevExpress.XtraLayout.v11.1.dll
+D:\Quan_ly_tour\TourManagement\TourManagement\bin\Debug\DevExpress.XtraNavBar.v11.1.dll
+D:\Quan_ly_tour\TourManagement\TourManagement\bin\Debug\Forms.dll
+D:\Quan_ly_tour\TourManagement\TourManagement\bin\Debug\Security.dll
+D:\Quan_ly_tour\TourManagement\TourManagement\bin\Debug\Utilities.dll
+D:\Quan_ly_tour\TourManagement\TourManagement\bin\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+D:\Quan_ly_tour\TourManagement\TourManagement\bin\Debug\office.dll
+D:\Quan_ly_tour\TourManagement\TourManagement\bin\Debug\BaseBusiness.pdb
+D:\Quan_ly_tour\TourManagement\TourManagement\bin\Debug\Forms.pdb
+D:\Quan_ly_tour\TourManagement\TourManagement\bin\Debug\Security.pdb
+D:\Quan_ly_tour\TourManagement\TourManagement\bin\Debug\Utilities.pdb
+D:\Quan_ly_tour\TourManagement\TourManagement\bin\Debug\BookTour.pdb
+D:\Quan_ly_tour\TourManagement\TourManagement\bin\Debug\DevExpress.Data.v11.1.xml
+D:\Quan_ly_tour\TourManagement\TourManagement\bin\Debug\DevExpress.Utils.v11.1.xml
+D:\Quan_ly_tour\TourManagement\TourManagement\bin\Debug\DevExpress.XtraEditors.v11.1.xml
+D:\Quan_ly_tour\TourManagement\TourManagement\bin\Debug\DevExpress.XtraGrid.v11.1.xml
+D:\Quan_ly_tour\TourManagement\TourManagement\bin\Debug\DevExpress.XtraLayout.v11.1.xml
+D:\Quan_ly_tour\TourManagement\TourManagement\bin\Debug\DevExpress.XtraNavBar.v11.1.xml
+D:\Quan_ly_tour\TourManagement\TourManagement\bin\Debug\office.xml
+D:\Quan_ly_tour\TourManagement\TourManagement\obj\Debug\ResolveAssemblyReference.cache
+D:\Quan_ly_tour\TourManagement\TourManagement\obj\Debug\TourManagement.Properties.Resources.resources
+D:\Quan_ly_tour\TourManagement\TourManagement\obj\Debug\GenerateResource.read.1.tlog
+D:\Quan_ly_tour\TourManagement\TourManagement\obj\Debug\GenerateResource.write.1.tlog
+D:\Quan_ly_tour\TourManagement\TourManagement\obj\Debug\TourManagement.exe.licenses
+D:\Quan_ly_tour\TourManagement\TourManagement\obj\Debug\TourManagement.exe
+D:\Quan_ly_tour\TourManagement\TourManagement\obj\Debug\TourManagement.pdb
+D:\Quan_ly_tour\TourManagement\TourManagement\obj\Debug\BMS.frmMain.resources
+D:\Quan_ly_tour\TourManagement\TourManagement\obj\Debug\BMS.frmLogin.resources
+D:\Quan_ly_tour\BMS_VC\TourManagement\bin\Debug\BMS.exe.config
+D:\Quan_ly_tour\BMS_VC\TourManagement\bin\Debug\BMS.exe
+D:\Quan_ly_tour\BMS_VC\TourManagement\bin\Debug\BMS.pdb
+D:\Quan_ly_tour\BMS_VC\TourManagement\bin\Debug\BaseBusiness.dll
+D:\Quan_ly_tour\BMS_VC\TourManagement\bin\Debug\DevExpress.Data.v11.1.dll
+D:\Quan_ly_tour\BMS_VC\TourManagement\bin\Debug\DevExpress.Printing.v11.1.Core.dll
+D:\Quan_ly_tour\BMS_VC\TourManagement\bin\Debug\DevExpress.Utils.v11.1.dll
+D:\Quan_ly_tour\BMS_VC\TourManagement\bin\Debug\DevExpress.XtraEditors.v11.1.dll
+D:\Quan_ly_tour\BMS_VC\TourManagement\bin\Debug\DevExpress.XtraGrid.v11.1.dll
+D:\Quan_ly_tour\BMS_VC\TourManagement\bin\Debug\DevExpress.XtraLayout.v11.1.dll
+D:\Quan_ly_tour\BMS_VC\TourManagement\bin\Debug\DevExpress.XtraNavBar.v11.1.dll
+D:\Quan_ly_tour\BMS_VC\TourManagement\bin\Debug\Forms.dll
+D:\Quan_ly_tour\BMS_VC\TourManagement\bin\Debug\Security.dll
+D:\Quan_ly_tour\BMS_VC\TourManagement\bin\Debug\Utilities.dll
+D:\Quan_ly_tour\BMS_VC\TourManagement\bin\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+D:\Quan_ly_tour\BMS_VC\TourManagement\bin\Debug\office.dll
+D:\Quan_ly_tour\BMS_VC\TourManagement\bin\Debug\BaseBusiness.pdb
+D:\Quan_ly_tour\BMS_VC\TourManagement\bin\Debug\Forms.pdb
+D:\Quan_ly_tour\BMS_VC\TourManagement\bin\Debug\Security.pdb
+D:\Quan_ly_tour\BMS_VC\TourManagement\bin\Debug\Utilities.pdb
+D:\Quan_ly_tour\BMS_VC\TourManagement\bin\Debug\DevExpress.Data.v11.1.xml
+D:\Quan_ly_tour\BMS_VC\TourManagement\bin\Debug\DevExpress.Utils.v11.1.xml
+D:\Quan_ly_tour\BMS_VC\TourManagement\bin\Debug\DevExpress.XtraEditors.v11.1.xml
+D:\Quan_ly_tour\BMS_VC\TourManagement\bin\Debug\DevExpress.XtraGrid.v11.1.xml
+D:\Quan_ly_tour\BMS_VC\TourManagement\bin\Debug\DevExpress.XtraLayout.v11.1.xml
+D:\Quan_ly_tour\BMS_VC\TourManagement\bin\Debug\DevExpress.XtraNavBar.v11.1.xml
+D:\Quan_ly_tour\BMS_VC\TourManagement\bin\Debug\office.xml
+D:\Quan_ly_tour\BMS_VC\TourManagement\obj\Debug\ResolveAssemblyReference.cache
+D:\Quan_ly_tour\BMS_VC\TourManagement\obj\Debug\BMS.frmLogin.resources
+D:\Quan_ly_tour\BMS_VC\TourManagement\obj\Debug\BMS.frmMain.resources
+D:\Quan_ly_tour\BMS_VC\TourManagement\obj\Debug\BMS.Properties.Resources.resources
+D:\Quan_ly_tour\BMS_VC\TourManagement\obj\Debug\GenerateResource.read.1.tlog
+D:\Quan_ly_tour\BMS_VC\TourManagement\obj\Debug\GenerateResource.write.1.tlog
+D:\Quan_ly_tour\BMS_VC\TourManagement\obj\Debug\BMS.exe.licenses
+D:\Quan_ly_tour\BMS_VC\TourManagement\obj\Debug\BMS.exe
+D:\Quan_ly_tour\BMS_VC\TourManagement\obj\Debug\BMS.pdb
+D:\Quan_ly_tour\BMS_VC\BMS\bin\Debug\BMS.exe.config
+D:\Quan_ly_tour\BMS_VC\BMS\obj\Debug\BMS.exe
+D:\Quan_ly_tour\BMS_VC\BMS\obj\Debug\BMS.pdb
+D:\Quan_ly_tour\BMS_VC\BMS\bin\Debug\BMS.exe
+D:\Quan_ly_tour\BMS_VC\BMS\bin\Debug\BMS.pdb
+D:\Quan_ly_tour\BMS_VC\BMS\bin\Debug\BaseBusiness.dll
+D:\Quan_ly_tour\BMS_VC\BMS\bin\Debug\DevExpress.Data.v11.1.dll
+D:\Quan_ly_tour\BMS_VC\BMS\bin\Debug\DevExpress.Printing.v11.1.Core.dll
+D:\Quan_ly_tour\BMS_VC\BMS\bin\Debug\DevExpress.Utils.v11.1.dll
+D:\Quan_ly_tour\BMS_VC\BMS\bin\Debug\DevExpress.XtraEditors.v11.1.dll
+D:\Quan_ly_tour\BMS_VC\BMS\bin\Debug\DevExpress.XtraGrid.v11.1.dll
+D:\Quan_ly_tour\BMS_VC\BMS\bin\Debug\DevExpress.XtraLayout.v11.1.dll
+D:\Quan_ly_tour\BMS_VC\BMS\bin\Debug\DevExpress.XtraNavBar.v11.1.dll
+D:\Quan_ly_tour\BMS_VC\BMS\bin\Debug\Forms.dll
+D:\Quan_ly_tour\BMS_VC\BMS\bin\Debug\Security.dll
+D:\Quan_ly_tour\BMS_VC\BMS\bin\Debug\Utilities.dll
+D:\Quan_ly_tour\BMS_VC\BMS\bin\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+D:\Quan_ly_tour\BMS_VC\BMS\bin\Debug\office.dll
+D:\Quan_ly_tour\BMS_VC\BMS\bin\Debug\BaseBusiness.pdb
+D:\Quan_ly_tour\BMS_VC\BMS\bin\Debug\Forms.pdb
+D:\Quan_ly_tour\BMS_VC\BMS\bin\Debug\Security.pdb
+D:\Quan_ly_tour\BMS_VC\BMS\bin\Debug\Utilities.pdb
+D:\Quan_ly_tour\BMS_VC\BMS\bin\Debug\DevExpress.Data.v11.1.xml
+D:\Quan_ly_tour\BMS_VC\BMS\bin\Debug\DevExpress.Utils.v11.1.xml
+D:\Quan_ly_tour\BMS_VC\BMS\bin\Debug\DevExpress.XtraEditors.v11.1.xml
+D:\Quan_ly_tour\BMS_VC\BMS\bin\Debug\DevExpress.XtraGrid.v11.1.xml
+D:\Quan_ly_tour\BMS_VC\BMS\bin\Debug\DevExpress.XtraLayout.v11.1.xml
+D:\Quan_ly_tour\BMS_VC\BMS\bin\Debug\DevExpress.XtraNavBar.v11.1.xml
+D:\Quan_ly_tour\BMS_VC\BMS\bin\Debug\office.xml
+D:\Quan_ly_tour\BMS_VC\BMS\obj\Debug\ResolveAssemblyReference.cache
+D:\Quan_ly_tour\BMS_VC\BMS\obj\Debug\BMS.frmLogin.resources
+D:\Quan_ly_tour\BMS_VC\BMS\obj\Debug\BMS.frmMain.resources
+D:\Quan_ly_tour\BMS_VC\BMS\obj\Debug\BMS.Properties.Resources.resources
+D:\Quan_ly_tour\BMS_VC\BMS\obj\Debug\GenerateResource.read.1.tlog
+D:\Quan_ly_tour\BMS_VC\BMS\obj\Debug\GenerateResource.write.1.tlog
+D:\Quan_ly_tour\BMS_VC\BMS\obj\Debug\BMS.exe.licenses
+F:\APP_2012\BMS\BMS\obj\Debug\ResolveAssemblyReference.cache
+F:\APP_2012\BMS\BMS\obj\Debug\BMS.frmLogin.resources
+F:\APP_2012\BMS\BMS\obj\Debug\BMS.frmMain.resources
+F:\APP_2012\BMS\BMS\obj\Debug\BMS.Properties.Resources.resources
+F:\APP_2012\BMS\BMS\obj\Debug\GenerateResource.read.1.tlog
+F:\APP_2012\BMS\BMS\obj\Debug\GenerateResource.write.1.tlog
+F:\APP_2012\BMS\BMS\bin\Debug\BMS.exe.config
+F:\APP_2012\BMS\BMS\bin\Debug\BMS.exe
+F:\APP_2012\BMS\BMS\bin\Debug\BMS.pdb
+F:\APP_2012\BMS\BMS\bin\Debug\BaseBusiness.dll
+F:\APP_2012\BMS\BMS\bin\Debug\Cashering.dll
+F:\APP_2012\BMS\BMS\bin\Debug\Contract.dll
+F:\APP_2012\BMS\BMS\bin\Debug\Custormer.dll
+F:\APP_2012\BMS\BMS\bin\Debug\DevExpress.Data.v11.1.dll
+F:\APP_2012\BMS\BMS\bin\Debug\DevExpress.Printing.v11.1.Core.dll
+F:\APP_2012\BMS\BMS\bin\Debug\DevExpress.Utils.v11.1.dll
+F:\APP_2012\BMS\BMS\bin\Debug\DevExpress.XtraEditors.v11.1.dll
+F:\APP_2012\BMS\BMS\bin\Debug\DevExpress.XtraGrid.v11.1.dll
+F:\APP_2012\BMS\BMS\bin\Debug\DevExpress.XtraLayout.v11.1.dll
+F:\APP_2012\BMS\BMS\bin\Debug\DevExpress.XtraNavBar.v11.1.dll
+F:\APP_2012\BMS\BMS\bin\Debug\Forms.dll
+F:\APP_2012\BMS\BMS\bin\Debug\Product.dll
+F:\APP_2012\BMS\BMS\bin\Debug\Report.dll
+F:\APP_2012\BMS\BMS\bin\Debug\Security.dll
+F:\APP_2012\BMS\BMS\bin\Debug\Utilities.dll
+F:\APP_2012\BMS\BMS\bin\Debug\Interop.Microsoft.Office.Interop.Word.dll
+F:\APP_2012\BMS\BMS\bin\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+F:\APP_2012\BMS\BMS\bin\Debug\BaseBusiness.pdb
+F:\APP_2012\BMS\BMS\bin\Debug\Cashering.pdb
+F:\APP_2012\BMS\BMS\bin\Debug\Contract.pdb
+F:\APP_2012\BMS\BMS\bin\Debug\Forms.pdb
+F:\APP_2012\BMS\BMS\bin\Debug\Product.pdb
+F:\APP_2012\BMS\BMS\bin\Debug\Report.pdb
+F:\APP_2012\BMS\BMS\bin\Debug\Security.pdb
+F:\APP_2012\BMS\BMS\bin\Debug\Utilities.pdb
+F:\APP_2012\BMS\BMS\bin\Debug\DevExpress.Data.v11.1.xml
+F:\APP_2012\BMS\BMS\bin\Debug\DevExpress.Utils.v11.1.xml
+F:\APP_2012\BMS\BMS\bin\Debug\DevExpress.XtraEditors.v11.1.xml
+F:\APP_2012\BMS\BMS\bin\Debug\DevExpress.XtraGrid.v11.1.xml
+F:\APP_2012\BMS\BMS\bin\Debug\DevExpress.XtraLayout.v11.1.xml
+F:\APP_2012\BMS\BMS\bin\Debug\DevExpress.XtraNavBar.v11.1.xml
+F:\APP_2012\BMS\BMS\obj\Debug\BMS.exe
+F:\APP_2012\BMS\BMS\obj\Debug\BMS.pdb
+F:\APP_2012\BMS\BMS\bin\Debug\Custormer.pdb
+F:\APP_2012\BMS\BMS\obj\Debug\BMS.exe.licenses
+F:\APP_2012\BMS\BMS\bin\Debug\log4net.dll
+E:\APP_2012\BMS\BMS\bin\Debug\BMS.exe.config
+E:\APP_2012\BMS\BMS\obj\Debug\BMS.exe
+E:\APP_2012\BMS\BMS\obj\Debug\BMS.pdb
+D:\BMS\BMS Code\BMS\bin\Debug\BMS.exe.config
+D:\BMS\BMS Code\BMS\obj\Debug\BMS.exe
+D:\BMS\BMS Code\BMS\obj\Debug\BMS.pdb
+D:\BMS\BMS Code\BMS\bin\Debug\BMS.exe
+D:\BMS\BMS Code\BMS\bin\Debug\BMS.pdb
+D:\BMS\BMS Code\BMS\bin\Debug\BaseBusiness.dll
+D:\BMS\BMS Code\BMS\bin\Debug\Cashering.dll
+D:\BMS\BMS Code\BMS\bin\Debug\CheckList.dll
+D:\BMS\BMS Code\BMS\bin\Debug\Contract.dll
+D:\BMS\BMS Code\BMS\bin\Debug\CustomerService.dll
+D:\BMS\BMS Code\BMS\bin\Debug\Custormer.dll
+D:\BMS\BMS Code\BMS\bin\Debug\DevExpress.Data.v11.1.dll
+D:\BMS\BMS Code\BMS\bin\Debug\DevExpress.Printing.v11.1.Core.dll
+D:\BMS\BMS Code\BMS\bin\Debug\DevExpress.Utils.v11.1.dll
+D:\BMS\BMS Code\BMS\bin\Debug\DevExpress.XtraBars.v11.1.dll
+D:\BMS\BMS Code\BMS\bin\Debug\DevExpress.XtraEditors.v11.1.dll
+D:\BMS\BMS Code\BMS\bin\Debug\DevExpress.XtraGrid.v11.1.dll
+D:\BMS\BMS Code\BMS\bin\Debug\DevExpress.XtraLayout.v11.1.dll
+D:\BMS\BMS Code\BMS\bin\Debug\DevExpress.XtraNavBar.v11.1.dll
+D:\BMS\BMS Code\BMS\bin\Debug\DevExpress.XtraPrinting.v11.1.dll
+D:\BMS\BMS Code\BMS\bin\Debug\DevExpress.XtraTreeList.v11.1.dll
+D:\BMS\BMS Code\BMS\bin\Debug\FileManager.dll
+D:\BMS\BMS Code\BMS\bin\Debug\FloorPlan.dll
+D:\BMS\BMS Code\BMS\bin\Debug\Forms.dll
+D:\BMS\BMS Code\BMS\bin\Debug\Hotline.dll
+D:\BMS\BMS Code\BMS\bin\Debug\Inventory.dll
+D:\BMS\BMS Code\BMS\bin\Debug\KeToan.dll
+D:\BMS\BMS Code\BMS\bin\Debug\PreOpenning.dll
+D:\BMS\BMS Code\BMS\bin\Debug\Product.dll
+D:\BMS\BMS Code\BMS\bin\Debug\Report.dll
+D:\BMS\BMS Code\BMS\bin\Debug\Security.dll
+D:\BMS\BMS Code\BMS\bin\Debug\ToDo.dll
+D:\BMS\BMS Code\BMS\bin\Debug\Utilities.dll
+D:\BMS\BMS Code\BMS\bin\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+D:\BMS\BMS Code\BMS\bin\Debug\Interop.Microsoft.Office.Interop.Word.dll
+D:\BMS\BMS Code\BMS\bin\Debug\aspNetEmail.dll
+D:\BMS\BMS Code\BMS\bin\Debug\office.dll
+D:\BMS\BMS Code\BMS\bin\Debug\Microsoft.Vbe.Interop.dll
+D:\BMS\BMS Code\BMS\bin\Debug\BaseBusiness.pdb
+D:\BMS\BMS Code\BMS\bin\Debug\Cashering.pdb
+D:\BMS\BMS Code\BMS\bin\Debug\Contract.pdb
+D:\BMS\BMS Code\BMS\bin\Debug\Custormer.pdb
+D:\BMS\BMS Code\BMS\bin\Debug\Forms.pdb
+D:\BMS\BMS Code\BMS\bin\Debug\KeToan.pdb
+D:\BMS\BMS Code\BMS\bin\Debug\Inventory.pdb
+D:\BMS\BMS Code\BMS\bin\Debug\Product.pdb
+D:\BMS\BMS Code\BMS\bin\Debug\Report.pdb
+D:\BMS\BMS Code\BMS\bin\Debug\Security.pdb
+D:\BMS\BMS Code\BMS\bin\Debug\Utilities.pdb
+D:\BMS\BMS Code\BMS\bin\Debug\CheckList.pdb
+D:\BMS\BMS Code\BMS\bin\Debug\CustomerService.pdb
+D:\BMS\BMS Code\BMS\bin\Debug\FileManager.pdb
+D:\BMS\BMS Code\BMS\bin\Debug\FloorPlan.pdb
+D:\BMS\BMS Code\BMS\bin\Debug\Hotline.pdb
+D:\BMS\BMS Code\BMS\bin\Debug\PreOpenning.pdb
+D:\BMS\BMS Code\BMS\bin\Debug\ToDo.pdb
+D:\BMS\BMS Code\BMS\bin\Debug\office.xml
+D:\BMS\BMS Code\BMS\obj\Debug\BMS.csprojResolveAssemblyReference.cache
+D:\BMS\BMS Code\BMS\obj\Debug\BMS.frmLogin.resources
+D:\BMS\BMS Code\BMS\obj\Debug\BMS.frmMain.resources
+D:\BMS\BMS Code\BMS\obj\Debug\BMS.frmMsgBox.resources
+D:\BMS\BMS Code\BMS\obj\Debug\BMS.TransDialog.resources
+D:\BMS\BMS Code\BMS\obj\Debug\BMS.frmNotifyConfigAddNew.resources
+D:\BMS\BMS Code\BMS\obj\Debug\BMS.frmNotifyConfigSearch.resources
+D:\BMS\BMS Code\BMS\obj\Debug\BMS.Notification.resources
+D:\BMS\BMS Code\BMS\obj\Debug\BMS.frmGuaranteeWarning.resources
+D:\BMS\BMS Code\BMS\obj\Debug\BMS.frmUnallocateWarning.resources
+D:\BMS\BMS Code\BMS\obj\Debug\BMS.frmUSDContractWarning.resources
+D:\BMS\BMS Code\BMS\obj\Debug\BMS.Properties.Resources.resources
+D:\BMS\BMS Code\BMS\obj\Debug\BMS.csproj.GenerateResource.Cache
+D:\BMS\BMS Code\BMS\obj\Debug\BMS.exe.licenses

@@ -1,0 +1,9 @@
+17:07:55:bgwCD1_DoWork(): System.IndexOutOfRangeException: Cannot find table 0.
+   at System.Data.DataTableCollection.get_Item(Int32 index)
+   at BMS.frmAndonDetailVer4.bgwCD1_DoWork(Object sender, DoWorkEventArgs e) in D:\Project\SIMOTOMO\Andon\AndonControl\7-4-2020-improvement\AndonCode\Forms\frmAndonDetailVer4.cs:line 883
+17:11:36:bgwCD1_DoWork(): System.IndexOutOfRangeException: Cannot find table 0.
+   at System.Data.DataTableCollection.get_Item(Int32 index)
+   at BMS.frmAndonDetailVer4.bgwCD1_DoWork(Object sender, DoWorkEventArgs e) in D:\Project\SIMOTOMO\Andon\AndonControl\7-4-2020-improvement\AndonCode\Forms\frmAndonDetailVer4.cs:line 883
+17:12:07:bgwCD1_DoWork(): System.IndexOutOfRangeException: Cannot find table 0.
+   at System.Data.DataTableCollection.get_Item(Int32 index)
+   at BMS.frmAndonDetailVer4.bgwCD1_DoWork(Object sender, DoWorkEventArgs e) in D:\Project\SIMOTOMO\Andon\AndonControl\7-4-2020-improvement\AndonCode\Forms\frmAndonDetailVer4.cs:line 883

@@ -1,0 +1,88 @@
+10:12:46:LoadAndon(): System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.WaitHandle.WaitOneNative(SafeHandle waitableSafeHandle, UInt32 millisecondsTimeout, Boolean hasThreadAffinity, Boolean exitContext)
+   at System.Threading.WaitHandle.InternalWaitOne(SafeHandle waitableSafeHandle, Int64 millisecondsTimeout, Boolean hasThreadAffinity, Boolean exitContext)
+   at System.Threading.WaitHandle.WaitOne(Int32 millisecondsTimeout, Boolean exitContext)
+   at System.Windows.Forms.Control.WaitForWaitHandle(WaitHandle waitHandle)
+   at System.Windows.Forms.Control.MarshaledInvoke(Control caller, Delegate method, Object[] args, Boolean synchronous)
+   at System.Windows.Forms.Control.Invoke(Delegate method, Object[] args)
+   at System.Windows.Forms.Control.Invoke(Delegate method)
+   at BMS.frmAndonDetailVer4.LoadAndon() in D:\project\Sumitomo\Line\Altax\Andon\AndonCode\Forms\frmAndonDetailVer4.cs:line 740
+10:17:49:LoadAndon(): System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.WaitHandle.WaitOneNative(SafeHandle waitableSafeHandle, UInt32 millisecondsTimeout, Boolean hasThreadAffinity, Boolean exitContext)
+   at System.Threading.WaitHandle.InternalWaitOne(SafeHandle waitableSafeHandle, Int64 millisecondsTimeout, Boolean hasThreadAffinity, Boolean exitContext)
+   at System.Threading.WaitHandle.WaitOne(Int32 millisecondsTimeout, Boolean exitContext)
+   at System.Windows.Forms.Control.WaitForWaitHandle(WaitHandle waitHandle)
+   at System.Windows.Forms.Control.MarshaledInvoke(Control caller, Delegate method, Object[] args, Boolean synchronous)
+   at System.Windows.Forms.Control.Invoke(Delegate method, Object[] args)
+   at System.Windows.Forms.Control.Invoke(Delegate method)
+   at BMS.frmAndonDetailVer4.LoadAndon() in D:\project\Sumitomo\Line\Altax\Andon\AndonCode\Forms\frmAndonDetailVer4.cs:line 740
+10:17:49:threadResetTaktTime(): System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.WaitHandle.WaitOneNative(SafeHandle waitableSafeHandle, UInt32 millisecondsTimeout, Boolean hasThreadAffinity, Boolean exitContext)
+   at System.Threading.WaitHandle.InternalWaitOne(SafeHandle waitableSafeHandle, Int64 millisecondsTimeout, Boolean hasThreadAffinity, Boolean exitContext)
+   at System.Threading.WaitHandle.WaitOne(Int32 millisecondsTimeout, Boolean exitContext)
+   at System.Windows.Forms.Control.WaitForWaitHandle(WaitHandle waitHandle)
+   at System.Windows.Forms.Control.MarshaledInvoke(Control caller, Delegate method, Object[] args, Boolean synchronous)
+   at System.Windows.Forms.Control.Invoke(Delegate method, Object[] args)
+   at System.Windows.Forms.Control.Invoke(Delegate method)
+   at BMS.frmAndonDetailVer4.threadResetTaktTime() in D:\project\Sumitomo\Line\Altax\Andon\AndonCode\Forms\frmAndonDetailVer4.cs:line 638
+10:26:58:LoadAndon(): System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.WaitHandle.WaitOneNative(SafeHandle waitableSafeHandle, UInt32 millisecondsTimeout, Boolean hasThreadAffinity, Boolean exitContext)
+   at System.Threading.WaitHandle.InternalWaitOne(SafeHandle waitableSafeHandle, Int64 millisecondsTimeout, Boolean hasThreadAffinity, Boolean exitContext)
+   at System.Threading.WaitHandle.WaitOne(Int32 millisecondsTimeout, Boolean exitContext)
+   at System.Windows.Forms.Control.WaitForWaitHandle(WaitHandle waitHandle)
+   at System.Windows.Forms.Control.MarshaledInvoke(Control caller, Delegate method, Object[] args, Boolean synchronous)
+   at System.Windows.Forms.Control.Invoke(Delegate method, Object[] args)
+   at System.Windows.Forms.Control.Invoke(Delegate method)
+   at BMS.frmAndonDetailVer4.LoadAndon() in D:\project\Sumitomo\Line\Altax\Andon\AndonCode\Forms\frmAndonDetailVer4.cs:line 740
+10:26:58:threadResetTaktTime(): System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.WaitHandle.WaitOneNative(SafeHandle waitableSafeHandle, UInt32 millisecondsTimeout, Boolean hasThreadAffinity, Boolean exitContext)
+   at System.Threading.WaitHandle.InternalWaitOne(SafeHandle waitableSafeHandle, Int64 millisecondsTimeout, Boolean hasThreadAffinity, Boolean exitContext)
+   at System.Threading.WaitHandle.WaitOne(Int32 millisecondsTimeout, Boolean exitContext)
+   at System.Windows.Forms.Control.WaitForWaitHandle(WaitHandle waitHandle)
+   at System.Windows.Forms.Control.MarshaledInvoke(Control caller, Delegate method, Object[] args, Boolean synchronous)
+   at System.Windows.Forms.Control.Invoke(Delegate method, Object[] args)
+   at System.Windows.Forms.Control.Invoke(Delegate method)
+   at BMS.frmAndonDetailVer4.threadResetTaktTime() in D:\project\Sumitomo\Line\Altax\Andon\AndonCode\Forms\frmAndonDetailVer4.cs:line 638
+10:27:39:threadResetTaktTime(): System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.WaitHandle.WaitOneNative(SafeHandle waitableSafeHandle, UInt32 millisecondsTimeout, Boolean hasThreadAffinity, Boolean exitContext)
+   at System.Threading.WaitHandle.InternalWaitOne(SafeHandle waitableSafeHandle, Int64 millisecondsTimeout, Boolean hasThreadAffinity, Boolean exitContext)
+   at System.Threading.WaitHandle.WaitOne(Int32 millisecondsTimeout, Boolean exitContext)
+   at System.Windows.Forms.Control.WaitForWaitHandle(WaitHandle waitHandle)
+   at System.Windows.Forms.Control.MarshaledInvoke(Control caller, Delegate method, Object[] args, Boolean synchronous)
+   at System.Windows.Forms.Control.Invoke(Delegate method, Object[] args)
+   at System.Windows.Forms.Control.Invoke(Delegate method)
+   at BMS.frmAndonDetailVer4.threadResetTaktTime() in D:\project\Sumitomo\Line\Altax\Andon\AndonCode\Forms\frmAndonDetailVer4.cs:line 638
+10:27:39:bgwCD2_DoWork(): System.ObjectDisposedException: Cannot access a disposed object.
+Object name: 'frmAndonDetailVer4'.
+   at System.Windows.Forms.Control.MarshaledInvoke(Control caller, Delegate method, Object[] args, Boolean synchronous)
+   at System.Windows.Forms.Control.Invoke(Delegate method, Object[] args)
+   at System.Windows.Forms.Control.Invoke(Delegate method)
+   at BMS.frmAndonDetailVer4.bgwCD2_DoWork(Object sender, DoWorkEventArgs e) in D:\project\Sumitomo\Line\Altax\Andon\AndonCode\Forms\frmAndonDetailVer4.cs:line 1008
+   at BMS.frmAndonDetailVer4.sendTaktTime() in D:\project\Sumitomo\Line\Altax\Andon\AndonCode\Forms\frmAndonDetailVer4.cs:line 141
+   at System.Threading.ThreadHelper.ThreadStart_Context(Object state)
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   at System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   at System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Threading.ThreadHelper.ThreadStart()
+10:33:58:LoadAndon(): System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.WaitHandle.WaitOneNative(SafeHandle waitableSafeHandle, UInt32 millisecondsTimeout, Boolean hasThreadAffinity, Boolean exitContext)
+   at System.Threading.WaitHandle.InternalWaitOne(SafeHandle waitableSafeHandle, Int64 millisecondsTimeout, Boolean hasThreadAffinity, Boolean exitContext)
+   at System.Threading.WaitHandle.WaitOne(Int32 millisecondsTimeout, Boolean exitContext)
+   at System.Windows.Forms.Control.WaitForWaitHandle(WaitHandle waitHandle)
+   at System.Windows.Forms.Control.MarshaledInvoke(Control caller, Delegate method, Object[] args, Boolean synchronous)
+   at System.Windows.Forms.Control.Invoke(Delegate method, Object[] args)
+   at System.Windows.Forms.Control.Invoke(Delegate method)
+   at BMS.frmAndonDetailVer4.LoadAndon() in D:\project\Sumitomo\Line\Altax\Andon\AndonCode\Forms\frmAndonDetailVer4.cs:line 740
+10:33:58:bgwCD1_DoWork(): System.ObjectDisposedException: Cannot access a disposed object.
+Object name: 'frmAndonDetailVer4'.
+   at System.Windows.Forms.Control.MarshaledInvoke(Control caller, Delegate method, Object[] args, Boolean synchronous)
+   at System.Windows.Forms.Control.Invoke(Delegate method, Object[] args)
+   at System.Windows.Forms.Control.Invoke(Delegate method, Object[] args)
+   at System.Windows.Forms.Control.Invoke(Delegate method)
+   at BMS.frmAndonDetailVer4.sendTaktTime() in D:\project\Sumitomo\Line\Altax\Andon\AndonCode\Forms\frmAndonDetailVer4.cs:line 141
+   at BMS.frmAndonDetailVer4.bgwCD1_DoWork(Object sender, DoWorkEventArgs e) in D:\project\Sumitomo\Line\Altax\Andon\AndonCode\Forms\frmAndonDetailVer4.cs:line 919
+   at System.Threading.ThreadHelper.ThreadStart_Context(Object state)
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   at System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   at System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Threading.ThreadHelper.ThreadStart()

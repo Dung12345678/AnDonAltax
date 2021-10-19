@@ -1,0 +1,25 @@
+F:\APP_2012\BMS\BaseBusiness\bin\x86\Release\BaseBusiness.dll
+F:\APP_2012\BMS\BaseBusiness\obj\x86\Release\ResolveAssemblyReference.cache
+F:\APP_2012\BMS\BaseBusiness\obj\x86\Release\BaseBusiness.Properties.Resources.resources
+F:\APP_2012\BMS\BaseBusiness\obj\x86\Release\BMS._Forms.resources
+F:\APP_2012\BMS\BaseBusiness\obj\x86\Release\BMS.frmPopupBase.resources
+F:\APP_2012\BMS\BaseBusiness\obj\x86\Release\BMS.frmPopupSearch.resources
+F:\APP_2012\BMS\BaseBusiness\obj\x86\Release\BMS.PopupBox.resources
+F:\APP_2012\BMS\BaseBusiness\obj\x86\Release\BMS.PopupBoxPublic.resources
+F:\APP_2012\BMS\BaseBusiness\obj\x86\Release\GenerateResource-ResGen.read.1.tlog
+F:\APP_2012\BMS\BaseBusiness\obj\x86\Release\GenerateResource-ResGen.write.1.tlog
+F:\APP_2012\BMS\BaseBusiness\obj\x86\Release\BaseBusiness.dll
+D:\BMS\BMS Code\BaseBusiness\bin\x86\Release\BaseBusiness.dll
+D:\BMS\BMS Code\BaseBusiness\obj\x86\Release\ResolveAssemblyReference.cache
+D:\BMS\BMS Code\BaseBusiness\obj\x86\Release\BaseBusiness.Properties.Resources.resources
+D:\BMS\BMS Code\BaseBusiness\obj\x86\Release\BMS._Forms.resources
+D:\BMS\BMS Code\BaseBusiness\obj\x86\Release\BMS._UserControls.resources
+D:\BMS\BMS Code\BaseBusiness\obj\x86\Release\BMS.frmPopupBase.resources
+D:\BMS\BMS Code\BaseBusiness\obj\x86\Release\BMS.frmPopupSearch.resources
+D:\BMS\BMS Code\BaseBusiness\obj\x86\Release\BMS.PopupBox.resources
+D:\BMS\BMS Code\BaseBusiness\obj\x86\Release\BMS.PopupBoxPublic.resources
+D:\BMS\BMS Code\BaseBusiness\obj\x86\Release\GenerateResource-ResGen.read.1.tlog
+D:\BMS\BMS Code\BaseBusiness\obj\x86\Release\ResGen.read.1.tlog
+D:\BMS\BMS Code\BaseBusiness\obj\x86\Release\GenerateResource-ResGen.write.1.tlog
+D:\BMS\BMS Code\BaseBusiness\obj\x86\Release\ResGen.write.1.tlog
+D:\BMS\BMS Code\BaseBusiness\obj\x86\Release\BaseBusiness.dll

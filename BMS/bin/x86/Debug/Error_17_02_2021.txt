@@ -1,0 +1,163 @@
+14:22:05:bgwCD1_DoWork(): System.IndexOutOfRangeException: Cannot find table 0.
+   at System.Data.DataTableCollection.get_Item(Int32 index)
+   at BMS.frmAndonDetailVer4.bgwCD1_DoWork(Object sender, DoWorkEventArgs e) in D:\project\Sumitomo\Line\Altax\Andon\AndonCode\Forms\frmAndonDetailVer4.cs:line 937
+14:22:36:bgwCD1_DoWork(): System.IndexOutOfRangeException: Cannot find table 0.
+   at System.Data.DataTableCollection.get_Item(Int32 index)
+   at BMS.frmAndonDetailVer4.bgwCD1_DoWork(Object sender, DoWorkEventArgs e) in D:\project\Sumitomo\Line\Altax\Andon\AndonCode\Forms\frmAndonDetailVer4.cs:line 937
+14:23:07:bgwCD1_DoWork(): System.IndexOutOfRangeException: Cannot find table 0.
+   at System.Data.DataTableCollection.get_Item(Int32 index)
+   at BMS.frmAndonDetailVer4.bgwCD1_DoWork(Object sender, DoWorkEventArgs e) in D:\project\Sumitomo\Line\Altax\Andon\AndonCode\Forms\frmAndonDetailVer4.cs:line 937
+14:23:38:bgwCD1_DoWork(): System.IndexOutOfRangeException: Cannot find table 0.
+   at System.Data.DataTableCollection.get_Item(Int32 index)
+   at BMS.frmAndonDetailVer4.bgwCD1_DoWork(Object sender, DoWorkEventArgs e) in D:\project\Sumitomo\Line\Altax\Andon\AndonCode\Forms\frmAndonDetailVer4.cs:line 937
+14:24:09:bgwCD1_DoWork(): System.IndexOutOfRangeException: Cannot find table 0.
+   at System.Data.DataTableCollection.get_Item(Int32 index)
+   at BMS.frmAndonDetailVer4.bgwCD1_DoWork(Object sender, DoWorkEventArgs e) in D:\project\Sumitomo\Line\Altax\Andon\AndonCode\Forms\frmAndonDetailVer4.cs:line 937
+14:24:40:bgwCD1_DoWork(): System.IndexOutOfRangeException: Cannot find table 0.
+   at System.Data.DataTableCollection.get_Item(Int32 index)
+   at BMS.frmAndonDetailVer4.bgwCD1_DoWork(Object sender, DoWorkEventArgs e) in D:\project\Sumitomo\Line\Altax\Andon\AndonCode\Forms\frmAndonDetailVer4.cs:line 937
+14:25:11:bgwCD1_DoWork(): System.IndexOutOfRangeException: Cannot find table 0.
+   at System.Data.DataTableCollection.get_Item(Int32 index)
+   at BMS.frmAndonDetailVer4.bgwCD1_DoWork(Object sender, DoWorkEventArgs e) in D:\project\Sumitomo\Line\Altax\Andon\AndonCode\Forms\frmAndonDetailVer4.cs:line 937
+14:25:42:bgwCD1_DoWork(): System.IndexOutOfRangeException: Cannot find table 0.
+   at System.Data.DataTableCollection.get_Item(Int32 index)
+   at BMS.frmAndonDetailVer4.bgwCD1_DoWork(Object sender, DoWorkEventArgs e) in D:\project\Sumitomo\Line\Altax\Andon\AndonCode\Forms\frmAndonDetailVer4.cs:line 937
+14:26:13:bgwCD1_DoWork(): System.IndexOutOfRangeException: Cannot find table 0.
+   at System.Data.DataTableCollection.get_Item(Int32 index)
+   at BMS.frmAndonDetailVer4.bgwCD1_DoWork(Object sender, DoWorkEventArgs e) in D:\project\Sumitomo\Line\Altax\Andon\AndonCode\Forms\frmAndonDetailVer4.cs:line 937
+14:27:16:threadUpdatePlanCurrent(): BMS.Exceptions.BOException: Can not update to databaseException of type 'BMS.Exceptions.FacadeException' was thrown.
+   at BMS.Business.BaseBO.Update(BaseModel model) in D:\project\Sumitomo\Line\Altax\Andon\AndonCode\BaseBusiness\BO\BaseBO.cs:line 103
+   at BMS.frmAndonDetailVer4.threadUpdatePlanCurrent() in D:\project\Sumitomo\Line\Altax\Andon\AndonCode\Forms\frmAndonDetailVer4.cs:line 592
+14:27:21:bgwCD1_DoWork(): System.IndexOutOfRangeException: Cannot find table 0.
+   at System.Data.DataTableCollection.get_Item(Int32 index)
+   at BMS.frmAndonDetailVer4.bgwCD1_DoWork(Object sender, DoWorkEventArgs e) in D:\project\Sumitomo\Line\Altax\Andon\AndonCode\Forms\frmAndonDetailVer4.cs:line 937
+14:27:37:bgwCD1_DoWork(): System.InvalidOperationException: Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+   at System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.Open()
+   at BMS.TextUtils.GetListDataFromSP(String procedureName, String nameSetToTable, String[] paramName, Object[] paramValue) in D:\project\Sumitomo\Line\Altax\Andon\AndonCode\Utilities\Utils\TextUtils.cs:line 448
+   at BMS.frmAndonDetailVer4.bgwCD1_DoWork(Object sender, DoWorkEventArgs e) in D:\project\Sumitomo\Line\Altax\Andon\AndonCode\Forms\frmAndonDetailVer4.cs:line 934
+14:27:38:bgwCD1_DoWork(): System.Data.SqlClient.SqlException (0x80131904): Connection Timeout Expired.  The timeout period elapsed while attempting to consume the pre-login handshake acknowledgement.  This could be because the pre-login handshake failed or the server was unable to respond back in time.  The duration spent while attempting to connect to this server was - [Pre-Login] initialization=15009; handshake=17185;  ---> System.ComponentModel.Win32Exception (0x80004005): The wait operation timed out
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.Open()
+   at BMS.TextUtils.GetListDataFromSP(String procedureName, String nameSetToTable, String[] paramName, Object[] paramValue) in D:\project\Sumitomo\Line\Altax\Andon\AndonCode\Utilities\Utils\TextUtils.cs:line 448
+   at BMS.frmAndonDetailVer4.bgwCD1_DoWork(Object sender, DoWorkEventArgs e) in D:\project\Sumitomo\Line\Altax\Andon\AndonCode\Forms\frmAndonDetailVer4.cs:line 934
+ClientConnectionId:ecb1a655-4de3-4730-94a8-c45744d8978a
+Error Number:-2,State:0,Class:11
+14:27:39:bgwCD1_DoWork(): System.Data.SqlClient.SqlException (0x80131904): Connection Timeout Expired.  The timeout period elapsed while attempting to consume the pre-login handshake acknowledgement.  This could be because the pre-login handshake failed or the server was unable to respond back in time.  The duration spent while attempting to connect to this server was - [Pre-Login] initialization=15009; handshake=17185;  ---> System.ComponentModel.Win32Exception (0x80004005): The wait operation timed out
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.Open()
+   at BMS.TextUtils.GetListDataFromSP(String procedureName, String nameSetToTable, String[] paramName, Object[] paramValue) in D:\project\Sumitomo\Line\Altax\Andon\AndonCode\Utilities\Utils\TextUtils.cs:line 448
+   at BMS.frmAndonDetailVer4.bgwCD1_DoWork(Object sender, DoWorkEventArgs e) in D:\project\Sumitomo\Line\Altax\Andon\AndonCode\Forms\frmAndonDetailVer4.cs:line 934
+ClientConnectionId:ecb1a655-4de3-4730-94a8-c45744d8978a
+Error Number:-2,State:0,Class:11
+15:11:37:threadChangeBackgroundColor(): System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.WaitHandle.WaitOneNative(SafeHandle waitableSafeHandle, UInt32 millisecondsTimeout, Boolean hasThreadAffinity, Boolean exitContext)
+   at System.Threading.WaitHandle.InternalWaitOne(SafeHandle waitableSafeHandle, Int64 millisecondsTimeout, Boolean hasThreadAffinity, Boolean exitContext)
+   at System.Threading.WaitHandle.WaitOne(Int32 millisecondsTimeout, Boolean exitContext)
+   at System.Windows.Forms.Control.WaitForWaitHandle(WaitHandle waitHandle)
+   at System.Windows.Forms.Control.MarshaledInvoke(Control caller, Delegate method, Object[] args, Boolean synchronous)
+   at System.Windows.Forms.Control.Invoke(Delegate method, Object[] args)
+   at System.Windows.Forms.Control.Invoke(Delegate method)
+   at BMS.frmAndonDetailVer4.threadChangeBackgroundColor() in D:\project\Sumitomo\Line\Altax\Andon\AndonCode\Forms\frmAndonDetailVer4.cs:line 436
+15:17:10:bgwCD1_DoWork(): System.IndexOutOfRangeException: Cannot find table 0.
+   at System.Data.DataTableCollection.get_Item(Int32 index)
+   at BMS.frmAndonDetailVer4.bgwCD1_DoWork(Object sender, DoWorkEventArgs e) in D:\project\Sumitomo\Line\Altax\Andon\AndonCode\Forms\frmAndonDetailVer4.cs:line 937
+15:17:41:bgwCD1_DoWork(): System.IndexOutOfRangeException: Cannot find table 0.
+   at System.Data.DataTableCollection.get_Item(Int32 index)
+   at BMS.frmAndonDetailVer4.bgwCD1_DoWork(Object sender, DoWorkEventArgs e) in D:\project\Sumitomo\Line\Altax\Andon\AndonCode\Forms\frmAndonDetailVer4.cs:line 937
+15:19:51:bgwCD1_DoWork(): System.IndexOutOfRangeException: Cannot find table 0.
+   at System.Data.DataTableCollection.get_Item(Int32 index)
+   at BMS.frmAndonDetailVer4.bgwCD1_DoWork(Object sender, DoWorkEventArgs e) in D:\project\Sumitomo\Line\Altax\Andon\AndonCode\Forms\frmAndonDetailVer4.cs:line 937
+15:20:24:bgwCD1_DoWork(): System.IndexOutOfRangeException: Cannot find table 0.
+   at System.Data.DataTableCollection.get_Item(Int32 index)
+   at BMS.frmAndonDetailVer4.bgwCD1_DoWork(Object sender, DoWorkEventArgs e) in D:\project\Sumitomo\Line\Altax\Andon\AndonCode\Forms\frmAndonDetailVer4.cs:line 937
+15:20:56:bgwCD1_DoWork(): System.IndexOutOfRangeException: Cannot find table 0.
+   at System.Data.DataTableCollection.get_Item(Int32 index)
+   at BMS.frmAndonDetailVer4.bgwCD1_DoWork(Object sender, DoWorkEventArgs e) in D:\project\Sumitomo\Line\Altax\Andon\AndonCode\Forms\frmAndonDetailVer4.cs:line 937
+15:21:27:bgwCD1_DoWork(): System.IndexOutOfRangeException: Cannot find table 0.
+   at System.Data.DataTableCollection.get_Item(Int32 index)
+   at BMS.frmAndonDetailVer4.bgwCD1_DoWork(Object sender, DoWorkEventArgs e) in D:\project\Sumitomo\Line\Altax\Andon\AndonCode\Forms\frmAndonDetailVer4.cs:line 937
+15:21:59:bgwCD1_DoWork(): System.IndexOutOfRangeException: Cannot find table 0.
+   at System.Data.DataTableCollection.get_Item(Int32 index)
+   at BMS.frmAndonDetailVer4.bgwCD1_DoWork(Object sender, DoWorkEventArgs e) in D:\project\Sumitomo\Line\Altax\Andon\AndonCode\Forms\frmAndonDetailVer4.cs:line 937
+15:22:30:bgwCD1_DoWork(): System.IndexOutOfRangeException: Cannot find table 0.
+   at System.Data.DataTableCollection.get_Item(Int32 index)
+   at BMS.frmAndonDetailVer4.bgwCD1_DoWork(Object sender, DoWorkEventArgs e) in D:\project\Sumitomo\Line\Altax\Andon\AndonCode\Forms\frmAndonDetailVer4.cs:line 937
+15:23:01:bgwCD1_DoWork(): System.IndexOutOfRangeException: Cannot find table 0.
+   at System.Data.DataTableCollection.get_Item(Int32 index)
+   at BMS.frmAndonDetailVer4.bgwCD1_DoWork(Object sender, DoWorkEventArgs e) in D:\project\Sumitomo\Line\Altax\Andon\AndonCode\Forms\frmAndonDetailVer4.cs:line 937
+15:23:32:bgwCD1_DoWork(): System.IndexOutOfRangeException: Cannot find table 0.
+   at System.Data.DataTableCollection.get_Item(Int32 index)
+   at BMS.frmAndonDetailVer4.bgwCD1_DoWork(Object sender, DoWorkEventArgs e) in D:\project\Sumitomo\Line\Altax\Andon\AndonCode\Forms\frmAndonDetailVer4.cs:line 937
+15:24:03:bgwCD1_DoWork(): System.IndexOutOfRangeException: Cannot find table 0.
+   at System.Data.DataTableCollection.get_Item(Int32 index)
+   at BMS.frmAndonDetailVer4.bgwCD1_DoWork(Object sender, DoWorkEventArgs e) in D:\project\Sumitomo\Line\Altax\Andon\AndonCode\Forms\frmAndonDetailVer4.cs:line 937
+15:24:41:bgwCD1_DoWork(): System.IndexOutOfRangeException: Cannot find table 0.
+   at System.Data.DataTableCollection.get_Item(Int32 index)
+   at BMS.frmAndonDetailVer4.bgwCD1_DoWork(Object sender, DoWorkEventArgs e) in D:\project\Sumitomo\Line\Altax\Andon\AndonCode\Forms\frmAndonDetailVer4.cs:line 937
+15:25:12:bgwCD1_DoWork(): System.IndexOutOfRangeException: Cannot find table 0.
+   at System.Data.DataTableCollection.get_Item(Int32 index)
+   at BMS.frmAndonDetailVer4.bgwCD1_DoWork(Object sender, DoWorkEventArgs e) in D:\project\Sumitomo\Line\Altax\Andon\AndonCode\Forms\frmAndonDetailVer4.cs:line 937
+15:25:43:bgwCD1_DoWork(): System.IndexOutOfRangeException: Cannot find table 0.
+   at System.Data.DataTableCollection.get_Item(Int32 index)
+   at BMS.frmAndonDetailVer4.bgwCD1_DoWork(Object sender, DoWorkEventArgs e) in D:\project\Sumitomo\Line\Altax\Andon\AndonCode\Forms\frmAndonDetailVer4.cs:line 937
+15:26:14:bgwCD1_DoWork(): System.IndexOutOfRangeException: Cannot find table 0.
+   at System.Data.DataTableCollection.get_Item(Int32 index)
+   at BMS.frmAndonDetailVer4.bgwCD1_DoWork(Object sender, DoWorkEventArgs e) in D:\project\Sumitomo\Line\Altax\Andon\AndonCode\Forms\frmAndonDetailVer4.cs:line 937
+15:26:45:bgwCD1_DoWork(): System.IndexOutOfRangeException: Cannot find table 0.
+   at System.Data.DataTableCollection.get_Item(Int32 index)
+   at BMS.frmAndonDetailVer4.bgwCD1_DoWork(Object sender, DoWorkEventArgs e) in D:\project\Sumitomo\Line\Altax\Andon\AndonCode\Forms\frmAndonDetailVer4.cs:line 937
+15:27:16:bgwCD1_DoWork(): System.IndexOutOfRangeException: Cannot find table 0.
+   at System.Data.DataTableCollection.get_Item(Int32 index)
+   at BMS.frmAndonDetailVer4.bgwCD1_DoWork(Object sender, DoWorkEventArgs e) in D:\project\Sumitomo\Line\Altax\Andon\AndonCode\Forms\frmAndonDetailVer4.cs:line 937
+15:27:47:bgwCD1_DoWork(): System.IndexOutOfRangeException: Cannot find table 0.
+   at System.Data.DataTableCollection.get_Item(Int32 index)
+   at BMS.frmAndonDetailVer4.bgwCD1_DoWork(Object sender, DoWorkEventArgs e) in D:\project\Sumitomo\Line\Altax\Andon\AndonCode\Forms\frmAndonDetailVer4.cs:line 937
+15:28:18:bgwCD1_DoWork(): System.IndexOutOfRangeException: Cannot find table 0.
+   at System.Data.DataTableCollection.get_Item(Int32 index)
+   at BMS.frmAndonDetailVer4.bgwCD1_DoWork(Object sender, DoWorkEventArgs e) in D:\project\Sumitomo\Line\Altax\Andon\AndonCode\Forms\frmAndonDetailVer4.cs:line 937
+15:28:49:bgwCD1_DoWork(): System.IndexOutOfRangeException: Cannot find table 0.
+   at System.Data.DataTableCollection.get_Item(Int32 index)
+   at BMS.frmAndonDetailVer4.bgwCD1_DoWork(Object sender, DoWorkEventArgs e) in D:\project\Sumitomo\Line\Altax\Andon\AndonCode\Forms\frmAndonDetailVer4.cs:line 937
+16:18:30:threadUpdateStatusColorCD(): System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Number.FormatInt32(Int32 value, String format, NumberFormatInfo info)
+   at System.Int32.ToString()
+   at BMS.frmAndonDetailVer4.threadUpdateStatusColorCD() in D:\project\Sumitomo\Line\Altax\Andon\AndonCode\Forms\frmAndonDetailVer4.cs:line 367
+16:18:29:LoadAndon(): System.Threading.ThreadAbortException: Thread was being aborted.
+   at BMS.Facade.BaseFacade.GetListObject(String procedureName, String[] paramName, Object[] paramValue) in D:\project\Sumitomo\Line\Altax\Andon\AndonCode\BaseBusiness\Facade\BaseFacade.cs:line 756
+   at BMS.Business.BaseBO.GetListObject(String procedureName, String[] paramName, Object[] paramValue) in D:\project\Sumitomo\Line\Altax\Andon\AndonCode\BaseBusiness\BO\BaseBO.cs:line 550
+   at BMS.frmAndonDetailVer4.LoadAndon() in D:\project\Sumitomo\Line\Altax\Andon\AndonCode\Forms\frmAndonDetailVer4.cs:line 765
+16:18:30:threadResetTaktTime(): System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.WaitHandle.WaitOneNative(SafeHandle waitableSafeHandle, UInt32 millisecondsTimeout, Boolean hasThreadAffinity, Boolean exitContext)
+   at System.Threading.WaitHandle.InternalWaitOne(SafeHandle waitableSafeHandle, Int64 millisecondsTimeout, Boolean hasThreadAffinity, Boolean exitContext)
+   at System.Threading.WaitHandle.WaitOne(Int32 millisecondsTimeout, Boolean exitContext)
+   at System.Windows.Forms.Control.WaitForWaitHandle(WaitHandle waitHandle)
+   at System.Windows.Forms.Control.MarshaledInvoke(Control caller, Delegate method, Object[] args, Boolean synchronous)
+   at System.Windows.Forms.Control.Invoke(Delegate method, Object[] args)
+   at System.Windows.Forms.Control.Invoke(Delegate method)
+   at BMS.frmAndonDetailVer4.threadResetTaktTime() in D:\project\Sumitomo\Line\Altax\Andon\AndonCode\Forms\frmAndonDetailVer4.cs:line 670
+16:18:30:writePLC(): System.Threading.ThreadAbortException: Thread was being aborted.
+   at Microsoft.Win32.UnsafeNativeMethods.ClearCommError(SafeFileHandle hFile, Int32& lpErrors, COMSTAT& lpStat)
+   at System.IO.Ports.SerialStream.get_BytesToRead()
+   at System.IO.Ports.SerialPort.get_BytesToRead()
+   at InControls.SerialDevice.SerialPortSync.Read(Byte[] buffer, Int32 offset, Int32 count) in D:\project\Sumitomo\Line\Altax\Andon\AndonCode\Forms\PLC\SerialDevice\SerialPortSync.cs:line 210
+   at BMS.FxSerialDeamon.Send(Int16 channelNo, Byte[] dataBuff, Int32 dataSize, ICellDataType responseDataType) in D:\project\Sumitomo\Line\Altax\Andon\AndonCode\Forms\FxSerialDeamon.cs:line 148
+   at BMS.FxSerialDeamon.Send(Int16 channelNo, Byte[] dataBuff, Int32 dataSize) in D:\project\Sumitomo\Line\Altax\Andon\AndonCode\Forms\FxSerialDeamon.cs:line 121
+   at BMS.FxSerialDeamon.Send(Int16 channelNo, String data) in D:\project\Sumitomo\Line\Altax\Andon\AndonCode\Forms\FxSerialDeamon.cs:line 106
+   at BMS.frmAndonDetailVer4.writePLC() in D:\project\Sumitomo\Line\Altax\Andon\AndonCode\Forms\frmAndonDetailVer4.cs:line 235

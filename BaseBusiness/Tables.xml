@@ -1,0 +1,158 @@
+<Tables>
+
+	<Table>
+		<name>AndonConfig</name>
+		<column>
+			<name>iD</name>
+			<dataType>int</dataType>
+			<isPK>true</isPK>
+			<isFK>false</isFK>
+			<isUnique>false</isUnique>
+			<tableRelate></tableRelate>
+			<alias></alias>
+			<number>0</number>
+		</column>
+		<column>
+			<name>fontSize1</name>
+			<dataType>decimal</dataType>
+			<isPK>false</isPK>
+			<isFK>false</isFK>
+			<isUnique>false</isUnique>
+			<tableRelate></tableRelate>
+			<alias>Font Size1</alias>
+			<number>1</number>
+		</column>
+		<column>
+			<name>fontSize2</name>
+			<dataType>decimal</dataType>
+			<isPK>false</isPK>
+			<isFK>false</isFK>
+			<isUnique>false</isUnique>
+			<tableRelate></tableRelate>
+			<alias>Font Size2</alias>
+			<number>2</number>
+		</column>
+		<column>
+			<name>fontSize3</name>
+			<dataType>decimal</dataType>
+			<isPK>false</isPK>
+			<isFK>false</isFK>
+			<isUnique>false</isUnique>
+			<tableRelate></tableRelate>
+			<alias>Font Size3</alias>
+			<number>3</number>
+		</column>
+		<column>
+			<name>fontSize4</name>
+			<dataType>decimal</dataType>
+			<isPK>false</isPK>
+			<isFK>false</isFK>
+			<isUnique>false</isUnique>
+			<tableRelate></tableRelate>
+			<alias>Font Size4</alias>
+			<number>4</number>
+		</column>
+		<column>
+			<name>fontSize5</name>
+			<dataType>decimal</dataType>
+			<isPK>false</isPK>
+			<isFK>false</isFK>
+			<isUnique>false</isUnique>
+			<tableRelate></tableRelate>
+			<alias>Font Size5</alias>
+			<number>5</number>
+		</column>
+		<column>
+			<name>fontSize6</name>
+			<dataType>decimal</dataType>
+			<isPK>false</isPK>
+			<isFK>false</isFK>
+			<isUnique>false</isUnique>
+			<tableRelate></tableRelate>
+			<alias>Font Size6</alias>
+			<number>6</number>
+		</column>
+		<column>
+			<name>fontSize7</name>
+			<dataType>decimal</dataType>
+			<isPK>false</isPK>
+			<isFK>false</isFK>
+			<isUnique>false</isUnique>
+			<tableRelate></tableRelate>
+			<alias>Font Size7</alias>
+			<number>7</number>
+		</column>
+		<column>
+			<name>takt</name>
+			<dataType>int</dataType>
+			<isPK>false</isPK>
+			<isFK>false</isFK>
+			<isUnique>false</isUnique>
+			<tableRelate></tableRelate>
+			<alias>Takt</alias>
+			<number>8</number>
+		</column>
+		<column>
+			<name>tcpIp</name>
+			<dataType>nvarchar</dataType>
+			<isPK>false</isPK>
+			<isFK>false</isFK>
+			<isUnique>false</isUnique>
+			<tableRelate></tableRelate>
+			<alias>Tcp Ip</alias>
+			<number>9</number>
+		</column>
+		<column>
+			<name>socketPort</name>
+			<dataType>int</dataType>
+			<isPK>false</isPK>
+			<isFK>false</isFK>
+			<isUnique>false</isUnique>
+			<tableRelate></tableRelate>
+			<alias>Socket Port</alias>
+			<number>10</number>
+		</column>
+		<column>
+			<name>isStopCD8</name>
+			<dataType>int</dataType>
+			<isPK>false</isPK>
+			<isFK>false</isFK>
+			<isUnique>false</isUnique>
+			<tableRelate></tableRelate>
+			<alias>Is Stop C D8</alias>
+			<number>11</number>
+		</column>
+		<column>
+			<name>comPLC</name>
+			<dataType>nvarchar</dataType>
+			<isPK>false</isPK>
+			<isFK>false</isFK>
+			<isUnique>false</isUnique>
+			<tableRelate></tableRelate>
+			<alias>Com P L C</alias>
+			<number>12</number>
+		</column>
+		<column>
+			<name>areaDelayPLC</name>
+			<dataType>nvarchar</dataType>
+			<isPK>false</isPK>
+			<isFK>false</isFK>
+			<isUnique>false</isUnique>
+			<tableRelate></tableRelate>
+			<alias>Area Delay P L C</alias>
+			<number>13</number>
+		</column>
+		<column>
+			<name>areaRiskPLC</name>
+			<dataType>nvarchar</dataType>
+			<isPK>false</isPK>
+			<isFK>false</isFK>
+			<isUnique>false</isUnique>
+			<tableRelate></tableRelate>
+			<alias>Area Risk P L C</alias>
+			<number>14</number>
+		</column>
+	</Table>
+
+</Tables>
+

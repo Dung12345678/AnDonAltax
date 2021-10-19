@@ -1,0 +1,82 @@
+F:\APP_2012\BMS\BMS\bin\x86\Release\BMS.exe.config
+F:\APP_2012\BMS\BMS\obj\x86\Release\ResolveAssemblyReference.cache
+F:\APP_2012\BMS\BMS\obj\x86\Release\BMS.frmLogin.resources
+F:\APP_2012\BMS\BMS\obj\x86\Release\BMS.frmMain.resources
+F:\APP_2012\BMS\BMS\obj\x86\Release\BMS.Properties.Resources.resources
+F:\APP_2012\BMS\BMS\obj\x86\Release\GenerateResource.read.1.tlog
+F:\APP_2012\BMS\BMS\obj\x86\Release\GenerateResource.write.1.tlog
+F:\APP_2012\BMS\BMS\obj\x86\Release\BMS.exe.licenses
+D:\BMS\BMS Code\BMS\bin\x86\Release\BMS.exe.config
+D:\BMS\BMS Code\BMS\bin\x86\Release\BMS.exe
+D:\BMS\BMS Code\BMS\bin\x86\Release\BaseBusiness.dll
+D:\BMS\BMS Code\BMS\bin\x86\Release\Cashering.dll
+D:\BMS\BMS Code\BMS\bin\x86\Release\CheckList.dll
+D:\BMS\BMS Code\BMS\bin\x86\Release\Contract.dll
+D:\BMS\BMS Code\BMS\bin\x86\Release\CustomerService.dll
+D:\BMS\BMS Code\BMS\bin\x86\Release\Custormer.dll
+D:\BMS\BMS Code\BMS\bin\x86\Release\DevExpress.Data.v11.1.dll
+D:\BMS\BMS Code\BMS\bin\x86\Release\DevExpress.Printing.v11.1.Core.dll
+D:\BMS\BMS Code\BMS\bin\x86\Release\DevExpress.Utils.v11.1.dll
+D:\BMS\BMS Code\BMS\bin\x86\Release\DevExpress.XtraBars.v11.1.dll
+D:\BMS\BMS Code\BMS\bin\x86\Release\DevExpress.XtraEditors.v11.1.dll
+D:\BMS\BMS Code\BMS\bin\x86\Release\DevExpress.XtraGrid.v11.1.dll
+D:\BMS\BMS Code\BMS\bin\x86\Release\DevExpress.XtraLayout.v11.1.dll
+D:\BMS\BMS Code\BMS\bin\x86\Release\DevExpress.XtraNavBar.v11.1.dll
+D:\BMS\BMS Code\BMS\bin\x86\Release\DevExpress.XtraPrinting.v11.1.dll
+D:\BMS\BMS Code\BMS\bin\x86\Release\DevExpress.XtraTreeList.v11.1.dll
+D:\BMS\BMS Code\BMS\bin\x86\Release\FileManager.dll
+D:\BMS\BMS Code\BMS\bin\x86\Release\FloorPlan.dll
+D:\BMS\BMS Code\BMS\bin\x86\Release\Forms.dll
+D:\BMS\BMS Code\BMS\bin\x86\Release\Hotline.dll
+D:\BMS\BMS Code\BMS\bin\x86\Release\Inventory.dll
+D:\BMS\BMS Code\BMS\bin\x86\Release\KeToan.dll
+D:\BMS\BMS Code\BMS\bin\x86\Release\PreOpenning.dll
+D:\BMS\BMS Code\BMS\bin\x86\Release\Product.dll
+D:\BMS\BMS Code\BMS\bin\x86\Release\Report.dll
+D:\BMS\BMS Code\BMS\bin\x86\Release\Security.dll
+D:\BMS\BMS Code\BMS\bin\x86\Release\ToDo.dll
+D:\BMS\BMS Code\BMS\bin\x86\Release\Utilities.dll
+D:\BMS\BMS Code\BMS\bin\x86\Release\Interop.Microsoft.Office.Interop.Excel.dll
+D:\BMS\BMS Code\BMS\bin\x86\Release\aspNetEmail.dll
+D:\BMS\BMS Code\BMS\bin\x86\Release\Interop.Microsoft.Office.Interop.Word.dll
+D:\BMS\BMS Code\BMS\bin\x86\Release\office.dll
+D:\BMS\BMS Code\BMS\bin\x86\Release\KeToan.pdb
+D:\BMS\BMS Code\BMS\bin\x86\Release\Cashering.pdb
+D:\BMS\BMS Code\BMS\bin\x86\Release\CheckList.pdb
+D:\BMS\BMS Code\BMS\bin\x86\Release\Contract.pdb
+D:\BMS\BMS Code\BMS\bin\x86\Release\CustomerService.pdb
+D:\BMS\BMS Code\BMS\bin\x86\Release\Custormer.pdb
+D:\BMS\BMS Code\BMS\bin\x86\Release\FileManager.pdb
+D:\BMS\BMS Code\BMS\bin\x86\Release\FloorPlan.pdb
+D:\BMS\BMS Code\BMS\bin\x86\Release\Hotline.pdb
+D:\BMS\BMS Code\BMS\bin\x86\Release\Inventory.pdb
+D:\BMS\BMS Code\BMS\bin\x86\Release\PreOpenning.pdb
+D:\BMS\BMS Code\BMS\bin\x86\Release\Product.pdb
+D:\BMS\BMS Code\BMS\bin\x86\Release\Report.pdb
+D:\BMS\BMS Code\BMS\bin\x86\Release\ToDo.pdb
+D:\BMS\BMS Code\BMS\bin\x86\Release\DevExpress.Data.v11.1.xml
+D:\BMS\BMS Code\BMS\bin\x86\Release\DevExpress.Utils.v11.1.xml
+D:\BMS\BMS Code\BMS\bin\x86\Release\DevExpress.XtraBars.v11.1.xml
+D:\BMS\BMS Code\BMS\bin\x86\Release\DevExpress.XtraEditors.v11.1.xml
+D:\BMS\BMS Code\BMS\bin\x86\Release\DevExpress.XtraGrid.v11.1.xml
+D:\BMS\BMS Code\BMS\bin\x86\Release\DevExpress.XtraLayout.v11.1.xml
+D:\BMS\BMS Code\BMS\bin\x86\Release\DevExpress.XtraNavBar.v11.1.xml
+D:\BMS\BMS Code\BMS\bin\x86\Release\DevExpress.XtraPrinting.v11.1.xml
+D:\BMS\BMS Code\BMS\bin\x86\Release\DevExpress.XtraTreeList.v11.1.xml
+D:\BMS\BMS Code\BMS\bin\x86\Release\office.xml
+D:\BMS\BMS Code\BMS\obj\x86\Release\ResolveAssemblyReference.cache
+D:\BMS\BMS Code\BMS\obj\x86\Release\BMS.frmLogin.resources
+D:\BMS\BMS Code\BMS\obj\x86\Release\BMS.frmMain.resources
+D:\BMS\BMS Code\BMS\obj\x86\Release\BMS.frmMsgBox.resources
+D:\BMS\BMS Code\BMS\obj\x86\Release\BMS.TransDialog.resources
+D:\BMS\BMS Code\BMS\obj\x86\Release\BMS.frmNotifyConfigAddNew.resources
+D:\BMS\BMS Code\BMS\obj\x86\Release\BMS.frmNotifyConfigSearch.resources
+D:\BMS\BMS Code\BMS\obj\x86\Release\BMS.Notification.resources
+D:\BMS\BMS Code\BMS\obj\x86\Release\BMS.frmGuaranteeWarning.resources
+D:\BMS\BMS Code\BMS\obj\x86\Release\BMS.frmUnallocateWarning.resources
+D:\BMS\BMS Code\BMS\obj\x86\Release\BMS.frmUSDContractWarning.resources
+D:\BMS\BMS Code\BMS\obj\x86\Release\BMS.Properties.Resources.resources
+D:\BMS\BMS Code\BMS\obj\x86\Release\GenerateResource.read.1.tlog
+D:\BMS\BMS Code\BMS\obj\x86\Release\GenerateResource.write.1.tlog
+D:\BMS\BMS Code\BMS\obj\x86\Release\BMS.exe.licenses
+D:\BMS\BMS Code\BMS\obj\x86\Release\BMS.exe

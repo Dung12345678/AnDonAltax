@@ -1,0 +1,133 @@
+D:\work\Sale\New folder\BaseBusiness\bin\Debug\BaseBusiness.dll
+D:\work\Sale\New folder\BaseBusiness\bin\Debug\BaseBusiness.pdb
+D:\work\Sale\New folder\BaseBusiness\bin\Debug\Utilities.dll
+D:\work\Sale\New folder\BaseBusiness\bin\Debug\Utilities.pdb
+D:\work\Sale\New folder\BaseBusiness\obj\Debug\ResolveAssemblyReference.cache
+D:\work\Sale\New folder\BaseBusiness\obj\Debug\BaseBusiness.Properties.Resources.resources
+D:\work\Sale\New folder\BaseBusiness\obj\Debug\CEFA._Forms.resources
+D:\work\Sale\New folder\BaseBusiness\obj\Debug\GenerateResource-ResGen.read.1.tlog
+D:\work\Sale\New folder\BaseBusiness\obj\Debug\GenerateResource-ResGen.write.1.tlog
+D:\work\Sale\New folder\BaseBusiness\obj\Debug\BaseBusiness.dll
+D:\work\Sale\New folder\BaseBusiness\obj\Debug\BaseBusiness.pdb
+D:\work\SmartCard\SUN_SMARTCARD - VS2010\BaseBusiness\bin\Debug\BaseBusiness.dll
+D:\work\SmartCard\SUN_SMARTCARD - VS2010\BaseBusiness\bin\Debug\BaseBusiness.pdb
+D:\work\SmartCard\SUN_SMARTCARD - VS2010\BaseBusiness\obj\Debug\ResolveAssemblyReference.cache
+D:\work\SmartCard\SUN_SMARTCARD - VS2010\BaseBusiness\obj\Debug\BaseBusiness.Properties.Resources.resources
+D:\work\SmartCard\SUN_SMARTCARD - VS2010\BaseBusiness\obj\Debug\CEFA._Forms.resources
+D:\work\SmartCard\SUN_SMARTCARD - VS2010\BaseBusiness\obj\Debug\CEFA.frmPopupBase.resources
+D:\work\SmartCard\SUN_SMARTCARD - VS2010\BaseBusiness\obj\Debug\CEFA.frmPopupSearch.resources
+D:\work\SmartCard\SUN_SMARTCARD - VS2010\BaseBusiness\obj\Debug\CEFA.PopupBox.resources
+D:\work\SmartCard\SUN_SMARTCARD - VS2010\BaseBusiness\obj\Debug\CEFA.PopupBoxPublic.resources
+D:\work\SmartCard\SUN_SMARTCARD - VS2010\BaseBusiness\obj\Debug\GenerateResource-ResGen.read.1.tlog
+D:\work\SmartCard\SUN_SMARTCARD - VS2010\BaseBusiness\obj\Debug\GenerateResource-ResGen.read.4.tlog
+D:\work\SmartCard\SUN_SMARTCARD - VS2010\BaseBusiness\obj\Debug\GenerateResource-ResGen.write.1.tlog
+D:\work\SmartCard\SUN_SMARTCARD - VS2010\BaseBusiness\obj\Debug\GenerateResource-ResGen.write.4.tlog
+D:\work\SmartCard\SUN_SMARTCARD - VS2010\BaseBusiness\obj\Debug\BaseBusiness.dll
+D:\work\SmartCard\SUN_SMARTCARD - VS2010\BaseBusiness\obj\Debug\BaseBusiness.pdb
+D:\work\SmartCard\SUN_SMARTCARD\BaseBusiness\bin\Debug\BaseBusiness.dll
+D:\work\SmartCard\SUN_SMARTCARD\BaseBusiness\bin\Debug\BaseBusiness.pdb
+D:\work\SmartCard\SUN_SMARTCARD\BaseBusiness\obj\Debug\ResolveAssemblyReference.cache
+D:\work\SmartCard\SUN_SMARTCARD\BaseBusiness\obj\Debug\BaseBusiness.Properties.Resources.resources
+D:\work\SmartCard\SUN_SMARTCARD\BaseBusiness\obj\Debug\CEFA._Forms.resources
+D:\work\SmartCard\SUN_SMARTCARD\BaseBusiness\obj\Debug\CEFA.frmPopupBase.resources
+D:\work\SmartCard\SUN_SMARTCARD\BaseBusiness\obj\Debug\CEFA.frmPopupSearch.resources
+D:\work\SmartCard\SUN_SMARTCARD\BaseBusiness\obj\Debug\CEFA.PopupBox.resources
+D:\work\SmartCard\SUN_SMARTCARD\BaseBusiness\obj\Debug\CEFA.PopupBoxPublic.resources
+D:\work\SmartCard\SUN_SMARTCARD\BaseBusiness\obj\Debug\GenerateResource-ResGen.read.1.tlog
+D:\work\SmartCard\SUN_SMARTCARD\BaseBusiness\obj\Debug\GenerateResource-ResGen.read.4.tlog
+D:\work\SmartCard\SUN_SMARTCARD\BaseBusiness\obj\Debug\GenerateResource-ResGen.write.1.tlog
+D:\work\SmartCard\SUN_SMARTCARD\BaseBusiness\obj\Debug\GenerateResource-ResGen.write.4.tlog
+D:\work\SmartCard\SUN_SMARTCARD\BaseBusiness\obj\Debug\BaseBusiness.dll
+D:\work\SmartCard\SUN_SMARTCARD\BaseBusiness\obj\Debug\BaseBusiness.pdb
+C:\Users\datdp\Desktop\SUN_SMARTCARD\BaseBusiness\bin\Debug\BaseBusiness.dll
+C:\Users\datdp\Desktop\SUN_SMARTCARD\BaseBusiness\bin\Debug\BaseBusiness.pdb
+C:\Users\datdp\Desktop\SUN_SMARTCARD\BaseBusiness\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\datdp\Desktop\SUN_SMARTCARD\BaseBusiness\obj\Debug\BaseBusiness.Properties.Resources.resources
+C:\Users\datdp\Desktop\SUN_SMARTCARD\BaseBusiness\obj\Debug\CEFA._Forms.resources
+C:\Users\datdp\Desktop\SUN_SMARTCARD\BaseBusiness\obj\Debug\CEFA.frmPopupBase.resources
+C:\Users\datdp\Desktop\SUN_SMARTCARD\BaseBusiness\obj\Debug\CEFA.frmPopupSearch.resources
+C:\Users\datdp\Desktop\SUN_SMARTCARD\BaseBusiness\obj\Debug\CEFA.PopupBox.resources
+C:\Users\datdp\Desktop\SUN_SMARTCARD\BaseBusiness\obj\Debug\CEFA.PopupBoxPublic.resources
+C:\Users\datdp\Desktop\SUN_SMARTCARD\BaseBusiness\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\datdp\Desktop\SUN_SMARTCARD\BaseBusiness\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\datdp\Desktop\SUN_SMARTCARD\BaseBusiness\obj\Debug\BaseBusiness.dll
+C:\Users\datdp\Desktop\SUN_SMARTCARD\BaseBusiness\obj\Debug\BaseBusiness.pdb
+C:\Users\datdp\Desktop\SUN_SMARTCARD\BaseBusiness\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\datdp\Desktop\TourManagement\BaseBusiness\bin\Debug\BaseBusiness.dll
+C:\Users\datdp\Desktop\TourManagement\BaseBusiness\bin\Debug\BaseBusiness.pdb
+C:\Users\datdp\Desktop\TourManagement\BaseBusiness\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\datdp\Desktop\TourManagement\BaseBusiness\obj\Debug\BaseBusiness.Properties.Resources.resources
+C:\Users\datdp\Desktop\TourManagement\BaseBusiness\obj\Debug\CEFA._Forms.resources
+C:\Users\datdp\Desktop\TourManagement\BaseBusiness\obj\Debug\CEFA.frmPopupBase.resources
+C:\Users\datdp\Desktop\TourManagement\BaseBusiness\obj\Debug\CEFA.frmPopupSearch.resources
+C:\Users\datdp\Desktop\TourManagement\BaseBusiness\obj\Debug\CEFA.PopupBox.resources
+C:\Users\datdp\Desktop\TourManagement\BaseBusiness\obj\Debug\CEFA.PopupBoxPublic.resources
+C:\Users\datdp\Desktop\TourManagement\BaseBusiness\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\datdp\Desktop\TourManagement\BaseBusiness\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\datdp\Desktop\TourManagement\BaseBusiness\obj\Debug\BaseBusiness.dll
+C:\Users\datdp\Desktop\TourManagement\BaseBusiness\obj\Debug\BaseBusiness.pdb
+D:\datdp\PROJECT\VS_2010\TourManagement\BaseBusiness\bin\Debug\BaseBusiness.dll
+D:\datdp\PROJECT\VS_2010\TourManagement\BaseBusiness\bin\Debug\BaseBusiness.pdb
+D:\datdp\PROJECT\VS_2010\TourManagement\BaseBusiness\obj\Debug\ResolveAssemblyReference.cache
+D:\datdp\PROJECT\VS_2010\TourManagement\BaseBusiness\obj\Debug\BaseBusiness.Properties.Resources.resources
+D:\datdp\PROJECT\VS_2010\TourManagement\BaseBusiness\obj\Debug\CEFA._Forms.resources
+D:\datdp\PROJECT\VS_2010\TourManagement\BaseBusiness\obj\Debug\CEFA.frmPopupBase.resources
+D:\datdp\PROJECT\VS_2010\TourManagement\BaseBusiness\obj\Debug\CEFA.frmPopupSearch.resources
+D:\datdp\PROJECT\VS_2010\TourManagement\BaseBusiness\obj\Debug\CEFA.PopupBox.resources
+D:\datdp\PROJECT\VS_2010\TourManagement\BaseBusiness\obj\Debug\CEFA.PopupBoxPublic.resources
+D:\datdp\PROJECT\VS_2010\TourManagement\BaseBusiness\obj\Debug\GenerateResource.read.1.tlog
+D:\datdp\PROJECT\VS_2010\TourManagement\BaseBusiness\obj\Debug\GenerateResource.write.1.tlog
+D:\datdp\PROJECT\VS_2010\TourManagement\BaseBusiness\obj\Debug\BaseBusiness.dll
+D:\datdp\PROJECT\VS_2010\TourManagement\BaseBusiness\obj\Debug\BaseBusiness.pdb
+D:\Quan_ly_tour\TourManagement\BaseBusiness\bin\Debug\BaseBusiness.dll
+D:\Quan_ly_tour\TourManagement\BaseBusiness\bin\Debug\BaseBusiness.pdb
+D:\Quan_ly_tour\TourManagement\BaseBusiness\obj\Debug\ResolveAssemblyReference.cache
+D:\Quan_ly_tour\TourManagement\BaseBusiness\obj\Debug\BaseBusiness.Properties.Resources.resources
+D:\Quan_ly_tour\TourManagement\BaseBusiness\obj\Debug\GenerateResource.read.1.tlog
+D:\Quan_ly_tour\TourManagement\BaseBusiness\obj\Debug\GenerateResource.write.1.tlog
+D:\Quan_ly_tour\TourManagement\BaseBusiness\obj\Debug\BaseBusiness.dll
+D:\Quan_ly_tour\TourManagement\BaseBusiness\obj\Debug\BaseBusiness.pdb
+D:\Quan_ly_tour\TourManagement\BaseBusiness\obj\Debug\BMS._Forms.resources
+D:\Quan_ly_tour\TourManagement\BaseBusiness\obj\Debug\BMS.frmPopupBase.resources
+D:\Quan_ly_tour\TourManagement\BaseBusiness\obj\Debug\BMS.frmPopupSearch.resources
+D:\Quan_ly_tour\TourManagement\BaseBusiness\obj\Debug\BMS.PopupBox.resources
+D:\Quan_ly_tour\TourManagement\BaseBusiness\obj\Debug\BMS.PopupBoxPublic.resources
+D:\Quan_ly_tour\BMS_VC\BaseBusiness\bin\Debug\BaseBusiness.dll
+D:\Quan_ly_tour\BMS_VC\BaseBusiness\bin\Debug\BaseBusiness.pdb
+D:\Quan_ly_tour\BMS_VC\BaseBusiness\obj\Debug\ResolveAssemblyReference.cache
+D:\Quan_ly_tour\BMS_VC\BaseBusiness\obj\Debug\BaseBusiness.Properties.Resources.resources
+D:\Quan_ly_tour\BMS_VC\BaseBusiness\obj\Debug\BMS._Forms.resources
+D:\Quan_ly_tour\BMS_VC\BaseBusiness\obj\Debug\BMS.frmPopupBase.resources
+D:\Quan_ly_tour\BMS_VC\BaseBusiness\obj\Debug\BMS.frmPopupSearch.resources
+D:\Quan_ly_tour\BMS_VC\BaseBusiness\obj\Debug\BMS.PopupBox.resources
+D:\Quan_ly_tour\BMS_VC\BaseBusiness\obj\Debug\BMS.PopupBoxPublic.resources
+D:\Quan_ly_tour\BMS_VC\BaseBusiness\obj\Debug\GenerateResource.read.1.tlog
+D:\Quan_ly_tour\BMS_VC\BaseBusiness\obj\Debug\GenerateResource.write.1.tlog
+D:\Quan_ly_tour\BMS_VC\BaseBusiness\obj\Debug\BaseBusiness.dll
+D:\Quan_ly_tour\BMS_VC\BaseBusiness\obj\Debug\BaseBusiness.pdb
+F:\APP_2012\BMS\BaseBusiness\bin\Debug\BaseBusiness.dll
+F:\APP_2012\BMS\BaseBusiness\bin\Debug\BaseBusiness.pdb
+F:\APP_2012\BMS\BaseBusiness\obj\Debug\ResolveAssemblyReference.cache
+F:\APP_2012\BMS\BaseBusiness\obj\Debug\BaseBusiness.Properties.Resources.resources
+F:\APP_2012\BMS\BaseBusiness\obj\Debug\BMS._Forms.resources
+F:\APP_2012\BMS\BaseBusiness\obj\Debug\BMS.frmPopupBase.resources
+F:\APP_2012\BMS\BaseBusiness\obj\Debug\BMS.frmPopupSearch.resources
+F:\APP_2012\BMS\BaseBusiness\obj\Debug\BMS.PopupBox.resources
+F:\APP_2012\BMS\BaseBusiness\obj\Debug\BMS.PopupBoxPublic.resources
+F:\APP_2012\BMS\BaseBusiness\obj\Debug\GenerateResource-ResGen.read.1.tlog
+F:\APP_2012\BMS\BaseBusiness\obj\Debug\GenerateResource-ResGen.write.1.tlog
+F:\APP_2012\BMS\BaseBusiness\obj\Debug\BaseBusiness.dll
+F:\APP_2012\BMS\BaseBusiness\obj\Debug\BaseBusiness.pdb
+D:\BMS\BMS Code\BaseBusiness\bin\Debug\BaseBusiness.dll
+D:\BMS\BMS Code\BaseBusiness\bin\Debug\BaseBusiness.pdb
+D:\BMS\BMS Code\BaseBusiness\obj\Debug\BaseBusiness.csprojResolveAssemblyReference.cache
+D:\BMS\BMS Code\BaseBusiness\obj\Debug\BaseBusiness.Properties.Resources.resources
+D:\BMS\BMS Code\BaseBusiness\obj\Debug\BMS._Forms.resources
+D:\BMS\BMS Code\BaseBusiness\obj\Debug\BMS._UserControls.resources
+D:\BMS\BMS Code\BaseBusiness\obj\Debug\BMS.frmPopupBase.resources
+D:\BMS\BMS Code\BaseBusiness\obj\Debug\BMS.frmPopupSearch.resources
+D:\BMS\BMS Code\BaseBusiness\obj\Debug\BMS.PopupBox.resources
+D:\BMS\BMS Code\BaseBusiness\obj\Debug\BMS.PopupBoxPublic.resources
+D:\BMS\BMS Code\BaseBusiness\obj\Debug\BaseBusiness.csproj.GenerateResource.Cache
+D:\BMS\BMS Code\BaseBusiness\obj\Debug\BaseBusiness.dll
+D:\BMS\BMS Code\BaseBusiness\obj\Debug\BaseBusiness.pdb
